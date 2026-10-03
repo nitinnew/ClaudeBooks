@@ -28,6 +28,20 @@
   "completed_at": "2026-10-03 12:20"
  },
  {
+  "key": "dixit_see_breakout_before",
+  "title": "How to See a Breakout Before It Happens",
+  "author": "Dr. Sudhir Dixit",
+  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/How to See a Breakout, before i - Dr.Sudhir Dixit.pdf",
+  "status": "done",
+  "priority": "H",
+  "page_basis": "pdf_pages",
+  "strategies": 3,
+  "citations_ok": 29,
+  "citations_checked": 29,
+  "coverage": "last [[PAGE 171]] reached; all pages read; pp.1-3 cover images without text; all charts are images",
+  "completed_at": "2026-10-03 12:22"
+ },
+ {
   "key": "weinstein_secrets_bull_bear",
   "title": "Secrets for Profiting in Bull and Bear Markets",
   "author": "Stan Weinstein",
@@ -88,20 +102,6 @@
   "title": "How to Make Money with Breakout Trading 2.0",
   "author": "Indrazith Shantharaj",
   "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/How_To_Make_Money_With_Breakout_Trading_2_0_Analyse_The_Stock_Market.pdf",
-  "status": "todo",
-  "priority": "H",
-  "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
- },
- {
-  "key": "dixit_see_breakout_before",
-  "title": "How to See a Breakout Before It Happens",
-  "author": "Dr. Sudhir Dixit",
-  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/How to See a Breakout, before i - Dr.Sudhir Dixit.pdf",
   "status": "todo",
   "priority": "H",
   "page_basis": "",
