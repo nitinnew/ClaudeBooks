@@ -405,5 +405,17 @@
   "notes": "Short FX marketing ebook: MA 20/60/100 cross, Heikin-Ashi 2-candle reversal (stoch filter contradictory), 4h correction breakout, engulfing/shadow/hammer, role reversal 1/3 scaling, BB squeeze, NR4/NR7, RSI(2) momentum; 3% max risk. Anecdotal results only.",
   "coverage": "last [[PAGE 42]] reached; all pages read; TOC items 'RSI 5 systems' and 'binary options' are links only, no content in PDF",
   "completed_at": "2026-10-03 14:27"
+ },
+ "farley_master_swing_toolkit": {
+  "status": "done",
+  "text_layer": "yes",
+  "page_basis": "pdf_pages",
+  "pages": "353",
+  "strategies": 10,
+  "citations_ok": 28,
+  "citations_checked": 28,
+  "notes": "McGraw-Hill 2010; survivalist swing trading; first-hour range, bilateral, 50-EMA magnet, tiered Fib, continuation gap, Fib whipsaw, defensive shorts, expiration strikes",
+  "coverage": "[[PAGE 1]]-[[PAGE 343]] read; index [[PAGE 344]]-[[PAGE 353]] skipped (no rules)",
+  "completed_at": "2026-10-03 17:37"
  }
 }

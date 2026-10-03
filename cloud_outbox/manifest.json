@@ -326,14 +326,14 @@
   "title": "The Master Swing Trader Toolkit",
   "author": "Alan Farley",
   "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/0229_The Master Swing Trader Toolkit.pdf",
-  "status": "todo",
+  "status": "done",
   "priority": "M",
-  "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
+  "page_basis": "pdf_pages",
+  "strategies": 10,
+  "citations_ok": 28,
+  "citations_checked": 28,
+  "coverage": "[[PAGE 1]]-[[PAGE 343]] read; index [[PAGE 344]]-[[PAGE 353]] skipped (no rules)",
+  "completed_at": "2026-10-03 17:37"
  },
  {
   "key": "vince_portfolio_mathematics",
