@@ -284,14 +284,14 @@
   "title": "Insider Buy Superstocks",
   "author": "Jesse Stine",
   "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/insider-buy-superstocks-by-jesse-stine LifeFeeling.pdf",
-  "status": "todo",
+  "status": "done",
   "priority": "M",
-  "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
+  "page_basis": "pdf_pages",
+  "strategies": 3,
+  "citations_ok": 26,
+  "citations_checked": 26,
+  "coverage": "last [[PAGE 250]] reached; all pages read; narrative chapters 1-5,13,14,16 contain only the few rules captured in s.3-4",
+  "completed_at": "2026-10-03 14:23"
  },
  {
   "key": "mayer_100_baggers",

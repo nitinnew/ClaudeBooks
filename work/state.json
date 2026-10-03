@@ -369,5 +369,17 @@
   "notes": "Research paper (with M. Stamatoudis, 2024): US gap-ups >=6%; mechanical ORB ladder ~no edge; discretionary 18% selection + micromanagement: 1,580 trades, 18% win, +1.03R avg, CAGR 59%.",
   "coverage": "last [[PAGE 30]] reached; all pages read; lit review/bios/references contain no rules",
   "completed_at": "2026-10-03 14:21"
+ },
+ "stine_insider_buy_superstocks": {
+  "status": "done",
+  "text_layer": "yes",
+  "page_basis": "pdf_pages",
+  "pages": "250",
+  "strategies": 3,
+  "citations_ok": 26,
+  "citations_checked": 26,
+  "notes": "Small-cap earnings-breakout 'Superstock' method: PE run-rate<=10, <$15, float<10M, 500%+ weekly vol; BLT/magic-line/gap-test weekly entries; stacked sell signals; BCD dip buy; canary + Dow-34wma stretch filter.",
+  "coverage": "last [[PAGE 250]] reached; all pages read; narrative chapters 1-5,13,14,16 contain only the few rules captured in s.3-4",
+  "completed_at": "2026-10-03 14:23"
  }
 }
