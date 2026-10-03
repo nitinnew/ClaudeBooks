@@ -200,14 +200,14 @@
   "title": "Security Analysis (6th ed.)",
   "author": "Benjamin Graham & David Dodd",
   "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/Security-Analysis-Sixth-Edition Benjamin-Graham_-David-Dodd_Sixth edition.pdf",
-  "status": "todo",
+  "status": "done",
   "priority": "M",
-  "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
+  "page_basis": "pdf_pages",
+  "strategies": 3,
+  "citations_ok": 15,
+  "citations_checked": 15,
+  "coverage": "partial: pp.13-17, 401-445, 525-560, 601-627, 722-742 read; 750-756 skimmed; bond parts not read",
+  "completed_at": "2026-10-03 13:14"
  },
  {
   "key": "koteshwar_perfect_stock",

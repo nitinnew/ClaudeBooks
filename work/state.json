@@ -292,5 +292,17 @@
   "notes": "Mostly intraday futures examples; daily/monthly CPR, trailing-centrals and Camarilla rules are NSE-daily testable. Book's S2 formula typo flagged.",
   "coverage": "last [[PAGE 314]] reached; all pages read; charts are images",
   "completed_at": "2026-10-03 13:11"
+ },
+ "graham_security_analysis_6th": {
+  "status": "done",
+  "text_layer": "yes",
+  "page_basis": "pdf_pages",
+  "pages": "819",
+  "strategies": 3,
+  "citations_ok": 15,
+  "citations_checked": 15,
+  "notes": "1940 text. Common-stock selection chapters read in full (27-29, 37-39, 42-43, 50); bond/preferred parts not read (no equity trading rules). NCAV, 20x/12.5x avg-earnings cap, Babson 2/3-4/3 timing.",
+  "coverage": "partial: pp.13-17, 401-445, 525-560, 601-627, 722-742 read; 750-756 skimmed; bond parts not read",
+  "completed_at": "2026-10-03 13:14"
  }
 }
