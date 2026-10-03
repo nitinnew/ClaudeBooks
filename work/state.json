@@ -393,5 +393,17 @@
   "notes": "Long-horizon quality compounder: high ROE reinvested, twin engines (EPS growth + PE expansion), <$1B mcap, owner-operators, gross-margin moat, PEG<=1, 10-yr coffee can, no stop-losses; Donville ROE>=20% hold/sell rule.",
   "coverage": "chapters 1-15 read ([[PAGE 1]]-[[PAGE 191]]); appendix pp.192-202 is a 365-stock data table with no trading rules (format checked, rows not used)",
   "completed_at": "2026-10-03 14:25"
+ },
+ "sadowski_9_advanced_strategies": {
+  "status": "done",
+  "text_layer": "yes",
+  "page_basis": "pdf_pages",
+  "pages": "42",
+  "strategies": 9,
+  "citations_ok": 14,
+  "citations_checked": 14,
+  "notes": "Short FX marketing ebook: MA 20/60/100 cross, Heikin-Ashi 2-candle reversal (stoch filter contradictory), 4h correction breakout, engulfing/shadow/hammer, role reversal 1/3 scaling, BB squeeze, NR4/NR7, RSI(2) momentum; 3% max risk. Anecdotal results only.",
+  "coverage": "last [[PAGE 42]] reached; all pages read; TOC items 'RSI 5 systems' and 'binary options' are links only, no content in PDF",
+  "completed_at": "2026-10-03 14:27"
  }
 }

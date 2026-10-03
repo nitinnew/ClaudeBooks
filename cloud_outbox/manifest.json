@@ -312,14 +312,14 @@
   "title": "9 Advanced and Profitable Trading Strategies",
   "author": "Roman Sadowski",
   "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/08_9_Advanced_and_Profitable_Trading_Strategies_Author_Roman_Sadowski.pdf",
-  "status": "todo",
+  "status": "done",
   "priority": "M",
-  "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
+  "page_basis": "pdf_pages",
+  "strategies": 9,
+  "citations_ok": 14,
+  "citations_checked": 14,
+  "coverage": "last [[PAGE 42]] reached; all pages read; TOC items 'RSI 5 systems' and 'binary options' are links only, no content in PDF",
+  "completed_at": "2026-10-03 14:27"
  },
  {
   "key": "farley_master_swing_toolkit",
