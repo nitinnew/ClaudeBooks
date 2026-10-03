@@ -50,7 +50,7 @@ td {{ padding:9px 8px; border-bottom:1px solid var(--line); vertical-align:top; 
 <header><h1>Strategy Extraction Cloud Outbox</h1>
 <p class="sub">Specs extracted from resources that exist only on Google Drive, for import and re-verification by the laptop session. Page markers <code>[[PAGE N]]</code> in each text file are what the spec citations refer to.</p></header>
 <div class="sum">{summary} <span style="color:var(--muted)">· updated {now}</span></div>
-<div class="files"><a href="inventory.md">inventory.md</a><a href="manifest.json">manifest.json</a><a href="tools/verify_citations.py">tools/verify_citations.py</a><a href="tools/pdf_to_text.py">tools/pdf_to_text.py</a></div>
+<div class="files"><a href="inventory.md">inventory.md</a><a href="manifest.json">manifest.json</a><a href="tools/verify_citations.py">tools/verify_citations.py</a><a href="tools/pdf_to_text.py">tools/pdf_to_text.py</a><a href="tools/ocr_pdf.py">tools/ocr_pdf.py</a></div>
 <div class="tbl"><table><thead><tr><th>Status</th><th>Pri</th><th>Resource</th><th>Strat.</th><th>Cites ok</th><th>Coverage</th><th>Files</th></tr></thead><tbody>
 {''.join(rows)}
 </tbody></table></div>

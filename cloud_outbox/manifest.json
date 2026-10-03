@@ -126,24 +126,24 @@
   "completed_at": "2026-10-03 12:48"
  },
  {
-  "key": "minervini_think_trade_champion",
-  "title": "Think & Trade Like a Champion",
-  "author": "Mark Minervini",
-  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/Think & Trade Like a Champion_ - Mark Minervini.pdf ; Phone Backup Aug 2025/WhatsApp Documents/Think and Trade like Champion.pdf",
-  "status": "todo",
-  "priority": "H",
-  "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
- },
- {
   "key": "unknown_ma_crossover_strategy",
   "title": "Moving Avg Crossover Trading Strategy",
   "author": "author to confirm",
   "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/Moving Avg Crossover Trading Strategy.pdf",
+  "status": "done",
+  "priority": "H",
+  "page_basis": "pdf_pages",
+  "strategies": 1,
+  "citations_ok": 5,
+  "citations_checked": 5,
+  "coverage": "last [[PAGE 4]] reached; all 4 pages OCR'd and read",
+  "completed_at": "2026-10-03 12:50"
+ },
+ {
+  "key": "minervini_think_trade_champion",
+  "title": "Think & Trade Like a Champion",
+  "author": "Mark Minervini",
+  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/Think & Trade Like a Champion_ - Mark Minervini.pdf ; Phone Backup Aug 2025/WhatsApp Documents/Think and Trade like Champion.pdf",
   "status": "todo",
   "priority": "H",
   "page_basis": "",
