@@ -292,5 +292,17 @@
   "citations_checked": 29,
   "coverage": "last [[PAGE 126]] reached; all pages read; all setup charts are images",
   "completed_at": "2026-10-03 12:47"
+ },
+ "zantrio_breakout_trading_simple": {
+  "status": "done",
+  "pages": "16",
+  "text_layer": "yes",
+  "page_basis": "pdf_pages",
+  "strategies": 1,
+  "citations_ok": 5,
+  "citations_checked": 5,
+  "notes": "Publisher Zantrio LLC, no author named; key renamed from unknown_breakout_trading_simple. Framework only, not codable as written.",
+  "coverage": "last [[PAGE 16]] reached; all pages read; charts are images",
+  "completed_at": "2026-10-03 12:48"
  }
 }
