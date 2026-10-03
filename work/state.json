@@ -280,5 +280,17 @@
   "notes": "Methods book; 6,402-rule S&P 500 study (trend/extreme/divergence grammar) found no rule significant after data-mining correction. Use as testing protocol.",
   "coverage": "pp. 1-69 and 390-453 read sequentially (+ note p.511); Ch.3-7 and 454-528 skimmed: theory/statistics, no rules",
   "completed_at": "2026-10-03 13:08"
+ },
+ "ochoa_secrets_pivot_boss": {
+  "status": "done",
+  "text_layer": "yes",
+  "page_basis": "pdf_pages",
+  "pages": "314",
+  "strategies": 13,
+  "citations_ok": 28,
+  "citations_checked": 28,
+  "notes": "Mostly intraday futures examples; daily/monthly CPR, trailing-centrals and Camarilla rules are NSE-daily testable. Book's S2 formula typo flagged.",
+  "coverage": "last [[PAGE 314]] reached; all pages read; charts are images",
+  "completed_at": "2026-10-03 13:11"
  }
 }

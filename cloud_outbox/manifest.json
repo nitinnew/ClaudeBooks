@@ -186,14 +186,14 @@
   "title": "Secrets of a Pivot Boss",
   "author": "Frank Ochoa",
   "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/secrets-of-a-pivot-boss-.pdf",
-  "status": "todo",
+  "status": "done",
   "priority": "M",
-  "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
+  "page_basis": "pdf_pages",
+  "strategies": 13,
+  "citations_ok": 28,
+  "citations_checked": 28,
+  "coverage": "last [[PAGE 314]] reached; all pages read; charts are images",
+  "completed_at": "2026-10-03 13:11"
  },
  {
   "key": "graham_security_analysis_6th",
