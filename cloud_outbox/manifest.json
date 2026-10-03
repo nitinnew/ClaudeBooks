@@ -382,14 +382,14 @@
   "title": "The Warren Buffett Way",
   "author": "Robert Hagstrom",
   "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/The Warren Buffett way - Robert G. Hagstorm.pdf",
-  "status": "todo",
+  "status": "done",
   "priority": "M",
-  "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
+  "page_basis": "pdf_pages",
+  "strategies": 7,
+  "citations_ok": 38,
+  "citations_checked": 38,
+  "coverage": "[[PAGE 1]]-[[PAGE 267]] all read; Appendix holdings tables scanned (no rules); printed pp.18,118 absent in PDF",
+  "completed_at": "2026-10-03 18:02"
  },
  {
   "key": "altucher_trade_like_buffett",

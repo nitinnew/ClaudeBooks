@@ -455,5 +455,17 @@
   "notes": "EWI 2009 eCourse; bar patterns: multiple inside bars, double key reversal, Popgun, Arrow, failed new low/high, The Zone; key/critical swing levels",
   "coverage": "[[PAGE 1]]-[[PAGE 47]] read in full",
   "completed_at": "2026-10-03 17:42"
+ },
+ "hagstrom_warren_buffett_way": {
+  "status": "done",
+  "text_layer": "yes",
+  "page_basis": "pdf_pages",
+  "pages": "267",
+  "strategies": 7,
+  "citations_ok": 38,
+  "citations_checked": 38,
+  "notes": "2nd ed. Wiley 2005; 12 tenets + owner-earnings two-stage DCF + focus portfolio; fundamental/forward-test; printed pp.18 and 118 missing from PDF",
+  "coverage": "[[PAGE 1]]-[[PAGE 267]] all read; Appendix holdings tables scanned (no rules); printed pp.18,118 absent in PDF",
+  "completed_at": "2026-10-03 18:02"
  }
 }
