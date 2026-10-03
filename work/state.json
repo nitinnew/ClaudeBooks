@@ -381,5 +381,17 @@
   "notes": "Small-cap earnings-breakout 'Superstock' method: PE run-rate<=10, <$15, float<10M, 500%+ weekly vol; BLT/magic-line/gap-test weekly entries; stacked sell signals; BCD dip buy; canary + Dow-34wma stretch filter.",
   "coverage": "last [[PAGE 250]] reached; all pages read; narrative chapters 1-5,13,14,16 contain only the few rules captured in s.3-4",
   "completed_at": "2026-10-03 14:23"
+ },
+ "mayer_100_baggers": {
+  "status": "done",
+  "text_layer": "yes",
+  "page_basis": "pdf_pages",
+  "pages": "202",
+  "strategies": 2,
+  "citations_ok": 15,
+  "citations_checked": 15,
+  "notes": "Long-horizon quality compounder: high ROE reinvested, twin engines (EPS growth + PE expansion), <$1B mcap, owner-operators, gross-margin moat, PEG<=1, 10-yr coffee can, no stop-losses; Donville ROE>=20% hold/sell rule.",
+  "coverage": "chapters 1-15 read ([[PAGE 1]]-[[PAGE 191]]); appendix pp.192-202 is a 365-stock data table with no trading rules (format checked, rows not used)",
+  "completed_at": "2026-10-03 14:25"
  }
 }

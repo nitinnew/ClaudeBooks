@@ -298,14 +298,14 @@
   "title": "100 Baggers",
   "author": "Christopher Mayer",
   "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/100_Baggers_Stocks_That_Return_100_to_1_and_How_To_Find_Them_by.pdf",
-  "status": "todo",
+  "status": "done",
   "priority": "M",
-  "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
+  "page_basis": "pdf_pages",
+  "strategies": 2,
+  "citations_ok": 15,
+  "citations_checked": 15,
+  "coverage": "chapters 1-15 read ([[PAGE 1]]-[[PAGE 191]]); appendix pp.192-202 is a 365-stock data table with no trading rules (format checked, rows not used)",
+  "completed_at": "2026-10-03 14:25"
  },
  {
   "key": "sadowski_9_advanced_strategies",
