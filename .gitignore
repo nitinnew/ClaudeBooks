@@ -1,0 +1,5 @@
+# copyrighted book material and raw Drive listings stay out of git
+work/pdfs/
+work/listings/
+work/raw_*.txt
+cloud_outbox/text/

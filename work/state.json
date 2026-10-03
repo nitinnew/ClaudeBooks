@@ -1,0 +1,79 @@
+{
+ "covel_complete_turtletrader": {
+  "status": "done",
+  "pages": "323",
+  "text_layer": "yes",
+  "page_basis": "pdf_pages",
+  "coverage": "last [[PAGE 323]]; all pages read; tables/charts are images (no text) so their figures are not used",
+  "strategies": 4,
+  "citations_ok": 24,
+  "citations_checked": 24,
+  "completed_at": "2026-10-03 12:13"
+ },
+ "weinstein_secrets_bull_bear": {
+  "notes": "BLOCKED in cloud: file exceeds the Drive connector fetch limit (download fails above ~6-8 MB; text view stops at ~100K chars). Needs the laptop session, or a split/compressed copy on Drive."
+ },
+ "minervini_trade_like_wizard": {
+  "notes": "BLOCKED in cloud: file exceeds the Drive connector fetch limit (download fails above ~6-8 MB; text view stops at ~100K chars). Needs the laptop session, or a split/compressed copy on Drive."
+ },
+ "minervini_mtp_2020": {
+  "notes": "BLOCKED in cloud: file exceeds the Drive connector fetch limit (download fails above ~6-8 MB; text view stops at ~100K chars). Needs the laptop session, or a split/compressed copy on Drive."
+ },
+ "shantharaj_breakout_trading_2": {
+  "notes": "BLOCKED in cloud: file exceeds the Drive connector fetch limit (download fails above ~6-8 MB; text view stops at ~100K chars). Needs the laptop session, or a split/compressed copy on Drive."
+ },
+ "shannon_anchored_vwap": {
+  "notes": "BLOCKED in cloud: file exceeds the Drive connector fetch limit (download fails above ~6-8 MB; text view stops at ~100K chars). Needs the laptop session, or a split/compressed copy on Drive."
+ },
+ "wilson_breakthrough_trading": {
+  "notes": "BLOCKED in cloud: file exceeds the Drive connector fetch limit (download fails above ~6-8 MB; text view stops at ~100K chars). Needs the laptop session, or a split/compressed copy on Drive."
+ },
+ "bulkowski_encyclopedia_candlestick": {
+  "notes": "BLOCKED in cloud: file exceeds the Drive connector fetch limit (download fails above ~6-8 MB; text view stops at ~100K chars). Needs the laptop session, or a split/compressed copy on Drive."
+ },
+ "schabacker_ta_stock_market_profits": {
+  "notes": "BLOCKED in cloud: file exceeds the Drive connector fetch limit (download fails above ~6-8 MB; text view stops at ~100K chars). Needs the laptop session, or a split/compressed copy on Drive."
+ },
+ "aronson_evidence_based_ta": {
+  "notes": "BLOCKED in cloud: file exceeds the Drive connector fetch limit (download fails above ~6-8 MB; text view stops at ~100K chars). Needs the laptop session, or a split/compressed copy on Drive."
+ },
+ "colby_encyclopedia_indicators": {
+  "notes": "BLOCKED in cloud: file exceeds the Drive connector fetch limit (download fails above ~6-8 MB; text view stops at ~100K chars). Needs the laptop session, or a split/compressed copy on Drive."
+ },
+ "gartley_profits_with_charts": {
+  "notes": "BLOCKED in cloud: file exceeds the Drive connector fetch limit (download fails above ~6-8 MB; text view stops at ~100K chars). Needs the laptop session, or a split/compressed copy on Drive."
+ },
+ "pruden_three_skills_top_trading": {
+  "notes": "BLOCKED in cloud: file exceeds the Drive connector fetch limit (download fails above ~6-8 MB; text view stops at ~100K chars). Needs the laptop session, or a split/compressed copy on Drive."
+ },
+ "hutson_wyckoff_charting": {
+  "notes": "BLOCKED in cloud: file exceeds the Drive connector fetch limit (download fails above ~6-8 MB; text view stops at ~100K chars). Needs the laptop session, or a split/compressed copy on Drive."
+ },
+ "miller_supply_demand_trading": {
+  "notes": "BLOCKED in cloud: file exceeds the Drive connector fetch limit (download fails above ~6-8 MB; text view stops at ~100K chars). Needs the laptop session, or a split/compressed copy on Drive."
+ },
+ "drew_price_action_practical": {
+  "notes": "Size 7-8.5 MB, near the cloud fetch limit (5 MB downloads work, 8.5 MB failed). Will try; may need the laptop session."
+ },
+ "zebralearn_technical_trader": {
+  "notes": "BLOCKED in cloud: file exceeds the Drive connector fetch limit (download fails above ~6-8 MB; text view stops at ~100K chars). Needs the laptop session, or a split/compressed copy on Drive."
+ },
+ "weir_timing_the_market": {
+  "notes": "BLOCKED in cloud: file exceeds the Drive connector fetch limit (download fails above ~6-8 MB; text view stops at ~100K chars). Needs the laptop session, or a split/compressed copy on Drive."
+ },
+ "kundur_trading_smart_pattern": {
+  "notes": "BLOCKED in cloud: file exceeds the Drive connector fetch limit (download fails above ~6-8 MB; text view stops at ~100K chars). Needs the laptop session, or a split/compressed copy on Drive."
+ },
+ "agrawal_simplest_book_ta": {
+  "notes": "Size 7-8.5 MB, near the cloud fetch limit (5 MB downloads work, 8.5 MB failed). Will try; may need the laptop session."
+ },
+ "unknown_subtle_art_intraday": {
+  "notes": "BLOCKED in cloud: file exceeds the Drive connector fetch limit (download fails above ~6-8 MB; text view stops at ~100K chars). Needs the laptop session, or a split/compressed copy on Drive."
+ },
+ "rudd_stock_patterns_day_trading": {
+  "notes": "BLOCKED in cloud: file exceeds the Drive connector fetch limit (download fails above ~6-8 MB; text view stops at ~100K chars). Needs the laptop session, or a split/compressed copy on Drive."
+ },
+ "vivek_price_in_time": {
+  "notes": "Size 7-8.5 MB, near the cloud fetch limit (5 MB downloads work, 8.5 MB failed). Will try; may need the laptop session."
+ }
+}
