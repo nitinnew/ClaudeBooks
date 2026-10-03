@@ -378,20 +378,6 @@
   "completed_at": "2026-10-03 17:42"
  },
  {
-  "key": "drew_price_action_practical",
-  "title": "Price Action Trading: A Practical Guide",
-  "author": "Edward Drew",
-  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/PRICE ACTION TRADING _ A PRACTI - EDWARD DREW.pdf",
-  "status": "todo",
-  "priority": "M",
-  "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
- },
- {
   "key": "hagstrom_warren_buffett_way",
   "title": "The Warren Buffett Way",
   "author": "Robert Hagstrom",
@@ -1258,6 +1244,20 @@
   "citations_checked": 0,
   "coverage": "",
   "completed_at": ""
+ },
+ {
+  "key": "drew_price_action_practical",
+  "title": "Price Action Trading: A Practical Guide",
+  "author": "Edward Drew",
+  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/PRICE ACTION TRADING _ A PRACTI - EDWARD DREW.pdf",
+  "status": "blocked_size",
+  "priority": "M",
+  "page_basis": "",
+  "strategies": 0,
+  "citations_ok": 0,
+  "citations_checked": 0,
+  "coverage": "",
+  "completed_at": "2026-10-03 17:43"
  },
  {
   "key": "jenkins_geometry_profits",

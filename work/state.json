@@ -63,7 +63,9 @@
   "status": "local_downloaded"
  },
  "drew_price_action_practical": {
-  "notes": "Size 7-8.5 MB, near the cloud fetch limit (5 MB downloads work, 8.5 MB failed). Will try; may need the laptop session."
+  "notes": "Drive connector download failed (message too large) at 7.85 MB; connector ceiling ~6.27 MB OK, 6.72 MB fails; not retried",
+  "status": "blocked_size",
+  "completed_at": "2026-10-03 17:43"
  },
  "zebralearn_technical_trader": {
   "notes": "Correction 3: downloaded to laptop and extracted there; never fetch in cloud.",
