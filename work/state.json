@@ -256,5 +256,17 @@
   "notes": "Used the 6.0 MB copy (id 145IciUc5jRkilpTouf7GC35OyEPEILOH); 8.4 MB duplicate not opened.",
   "coverage": "last [[PAGE 218]] reached; rules pp.6-179 read in full; mindset interview pp.180-195 read; index pp.197-218 skimmed (no rules); figures are images",
   "completed_at": "2026-10-03 13:02"
+ },
+ "shantharaj_breakout_trading": {
+  "status": "done",
+  "text_layer": "yes",
+  "page_basis": "pdf_pages",
+  "pages": "68",
+  "strategies": 1,
+  "citations_ok": 13,
+  "citations_checked": 13,
+  "notes": "1st edition (2020). 2.0 edition is blocked_size, so no edition comparison in cloud.",
+  "coverage": "last [[PAGE 68]] reached; all pages read; charts are images",
+  "completed_at": "2026-10-03 13:04"
  }
 }
