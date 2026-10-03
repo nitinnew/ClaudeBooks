@@ -280,5 +280,17 @@
   "notes": "Author is Jayesh Shah (inventory had Steve Burns); key renamed from burns_20_ema",
   "coverage": "last [[PAGE 40]] reached; all pages read; pp.1-2, 9, 17, 19, 21, 27 images; charts are images",
   "completed_at": "2026-10-03 12:45"
+ },
+ "giannino_nearly_bulletproof_setups": {
+  "status": "done",
+  "text_layer": "yes",
+  "page_basis": "pdf_pages",
+  "notes": "Author is Matt Giannino (inventory had 'Steve Burns?'); key renamed from burns_nearly_bulletproof_setups",
+  "pages": "126",
+  "strategies": 29,
+  "citations_ok": 29,
+  "citations_checked": 29,
+  "coverage": "last [[PAGE 126]] reached; all pages read; all setup charts are images",
+  "completed_at": "2026-10-03 12:47"
  }
 }
