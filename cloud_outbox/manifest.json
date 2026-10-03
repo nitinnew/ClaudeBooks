@@ -252,20 +252,6 @@
   "completed_at": "2026-10-03 14:09"
  },
  {
-  "key": "teo_price_action_secrets",
-  "title": "Price Action Trading Secrets",
-  "author": "Rayner Teo",
-  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/Rayner Teo - Price Action Trading Secrets_....pdf",
-  "status": "todo",
-  "priority": "M",
-  "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
- },
- {
   "key": "woods_trade_price_action",
   "title": "How to Trade with Price Action - Master",
   "author": "Galen Woods",
@@ -1250,6 +1236,20 @@
   "title": "The Simplest Book for Technical Analysis",
   "author": "Mukul Agrawal",
   "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/The Simplest Book For Technical Analysis - Mukul Agrawal.pdf",
+  "status": "blocked_size",
+  "priority": "M",
+  "page_basis": "",
+  "strategies": 0,
+  "citations_ok": 0,
+  "citations_checked": 0,
+  "coverage": "",
+  "completed_at": ""
+ },
+ {
+  "key": "teo_price_action_secrets",
+  "title": "Price Action Trading Secrets",
+  "author": "Rayner Teo",
+  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/Rayner Teo - Price Action Trading Secrets_....pdf",
   "status": "blocked_size",
   "priority": "M",
   "page_basis": "",

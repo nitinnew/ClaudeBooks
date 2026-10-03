@@ -341,5 +341,9 @@
   "notes": "Classical patterns (E&M/Brandt): close entry, last-day-rule stop, 0.4-0.8% risk, measured target, earnings exit, 2-attempt re-entry; H&S top failure; pennant/flag continuation; index regime.",
   "coverage": "last [[PAGE 316]] reached; all pages read; figures are images",
   "completed_at": "2026-10-03 14:09"
+ },
+ "teo_price_action_secrets": {
+  "status": "blocked_size",
+  "notes": "Drive file 'Rayner Teo - Price Action Trading Secrets...pdf' (id 1sLFIlp2o5X-c3Lo6GlBcB7e6yIbMQX_U), 6.72 MB (6,724,214 bytes); connector download failed once (message too large, 2026-10-03). Not retrying. Observed connector ceiling: 6.27 MB OK, 6.72 MB fails."
  }
 }
