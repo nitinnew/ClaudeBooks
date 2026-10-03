@@ -429,5 +429,17 @@
   "notes": "Wiley 2007; position-sizing/allocation only (optimal f, Kelly, dynamic fractional f, Leverage Space Model with drawdown constraint); no entry signals",
   "coverage": "[[PAGE 1]]-[[PAGE 66]] and [[PAGE 123]]-[[PAGE 446]] read; Ch.2 [[PAGE 67]]-[[PAGE 122]] skipped (statistics primer, no rules)",
   "completed_at": "2026-10-03 17:40"
+ },
+ "unknown_winning_rsi_playbook": {
+  "status": "done",
+  "text_layer": "yes",
+  "page_basis": "pdf_pages",
+  "pages": "27",
+  "strategies": 2,
+  "citations_ok": 12,
+  "citations_checked": 12,
+  "notes": "Hima Reddy / Celer Wealth 2017 promo ebook; RSI(14) bull/bear Power Zones; entry/exit rules withheld (paid add-on)",
+  "coverage": "[[PAGE 1]]-[[PAGE 27]] read in full",
+  "completed_at": "2026-10-03 17:41"
  }
 }

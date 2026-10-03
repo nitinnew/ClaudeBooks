@@ -354,14 +354,14 @@
   "title": "The Winning RSI Playbook",
   "author": "author to confirm",
   "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/The-Winning-RSI-Playbook-ebook.pdf",
-  "status": "todo",
+  "status": "done",
   "priority": "M",
-  "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
+  "page_basis": "pdf_pages",
+  "strategies": 2,
+  "citations_ok": 12,
+  "citations_checked": 12,
+  "coverage": "[[PAGE 1]]-[[PAGE 27]] read in full",
+  "completed_at": "2026-10-03 17:41"
  },
  {
   "key": "drew_price_action_practical",
