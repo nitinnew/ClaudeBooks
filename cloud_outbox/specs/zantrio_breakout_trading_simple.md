@@ -1,6 +1,6 @@
-# Breakout Trading: Simple, Proven Strategies for Identifying and Profiting from Breakouts — Zantrio, LLC (no author named)
+# Breakout Trading: Simple, Proven Strategies for Identifying and Profiting from Breakouts — Alton Swanson (Zantrio, LLC)
 
-- **Source file:** Google Drive `Phone Backup Aug 2025/WhatsApp Documents/Private/Breakout_Trading_Simple_Proven_Strategies.pdf` (file id `1HydNy2uiP2ETzTqhfidN4u4XKt2Z-I_H`, 362,355 bytes; © 2014 Zantrio, LLC [p. 5]). Key renamed from `unknown_breakout_trading_simple`; no personal author is named anywhere in the text.
+- **Source file:** Google Drive `Phone Backup Aug 2025/WhatsApp Documents/Private/Breakout_Trading_Simple_Proven_Strategies.pdf` (file id `1HydNy2uiP2ETzTqhfidN4u4XKt2Z-I_H`, 362,355 bytes; © 2014 Zantrio, LLC [p. 5]). Key renamed from `unknown_breakout_trading_simple`. The Drive copy names only the publisher; the author, Alton Swanson, is named on the laptop copy (correction 2).
 - **Text file used:** text/zantrio_breakout_trading_simple.txt  (page basis: pdf_pages)
 - **Page references:** `[p. N]` = the `[[PAGE N]]` marker in the text file (PDF page index, not the printed page number)
   - Take N ONLY from the nearest `[[PAGE N]]` marker above the passage. Never use page numbers printed in the book's running headers, table of contents or index; they are offset by the front matter.

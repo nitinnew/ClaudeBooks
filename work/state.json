@@ -88,10 +88,6 @@
   "notes": "blocked_size: 49.2 MB (49,161,649 bytes), above the Drive connector limit (~6-8 MB). Download path: My Drive/invest/STOCK PATTERNS FOR DAY TRADING.pdf (file id 1-AJBLkZRrAvbpniPW85XptttjCgR2lFJ). Laptop copy probable (invest/ mirrors \"Resources from NN drive\").",
   "status": "blocked_size"
  },
- "vivek_price_in_time": {
-  "notes": "Intraday; In invest/ (mirrors laptop \"Resources from NN drive\"); laptop copy probably exists. Not extracted; local session to confirm.",
-  "status": "possible_duplicate"
- },
  "ladha_13_swing_strategies": {
   "status": "done",
   "page_basis": "pdf_pages",
@@ -170,94 +166,6 @@
   "status": "deferred_out_of_scope",
   "notes": "Astrology/time-cycle material; out of scope for now. Deferred to the end."
  },
- "motilal_qglp": {
-  "status": "possible_duplicate",
-  "notes": "Indian fundamental framework; forward-test only; In invest/ (mirrors laptop \"Resources from NN drive\"); laptop copy probably exists. Not extracted; local session to confirm."
- },
- "unknown_edit_support_resistance": {
-  "status": "possible_duplicate",
-  "notes": "In invest/ (mirrors laptop \"Resources from NN drive\"); laptop copy probably exists. Not extracted; local session to confirm."
- },
- "unknown_vwap_pdf": {
-  "status": "possible_duplicate",
-  "notes": "In invest/ (mirrors laptop \"Resources from NN drive\"); laptop copy probably exists. Not extracted; local session to confirm."
- },
- "balu_sir_sd_pivot_notes": {
-  "status": "possible_duplicate",
-  "notes": "Not in Appendix C; may belong to a local course set; In invest/ (mirrors laptop \"Resources from NN drive\"); laptop copy probably exists. Not extracted; local session to confirm."
- },
- "zerodha_varsity_notes": {
-  "status": "possible_duplicate",
-  "notes": "Content to confirm; In invest/ (mirrors laptop \"Resources from NN drive\"); laptop copy probably exists. Not extracted; local session to confirm."
- },
- "unknown_master_mind_day_trading": {
-  "status": "possible_duplicate",
-  "notes": "Intraday; In invest/ (mirrors laptop \"Resources from NN drive\"); laptop copy probably exists. Not extracted; local session to confirm."
- },
- "unknown_rule_book_safest_trader": {
-  "status": "possible_duplicate",
-  "notes": "Beginner roadmap notes; In invest/ (mirrors laptop \"Resources from NN drive\"); laptop copy probably exists. Not extracted; local session to confirm."
- },
- "unknown_lazy_river_scalping": {
-  "status": "possible_duplicate",
-  "notes": "Scalping; In invest/ (mirrors laptop \"Resources from NN drive\"); laptop copy probably exists. Not extracted; local session to confirm."
- },
- "unknown_definitive_guide_candlestick": {
-  "status": "possible_duplicate",
-  "notes": "In invest/ (mirrors laptop \"Resources from NN drive\"); laptop copy probably exists. Not extracted; local session to confirm."
- },
- "dmdsplyinvestor_tradingview_setup": {
-  "status": "possible_duplicate",
-  "notes": "In invest/ (mirrors laptop \"Resources from NN drive\"); laptop copy probably exists. Not extracted; local session to confirm."
- },
- "unknown_investment_journey_thesis": {
-  "status": "possible_duplicate",
-  "notes": "In invest/ (mirrors laptop \"Resources from NN drive\"); laptop copy probably exists. Not extracted; local session to confirm."
- },
- "todmal_poojary_threads": {
-  "status": "possible_duplicate",
-  "notes": "mhtml format; connector may not read; In invest/ (mirrors laptop \"Resources from NN drive\"); laptop copy probably exists. Not extracted; local session to confirm."
- },
- "vartak_session": {
-  "status": "possible_duplicate",
-  "notes": "In invest/ (mirrors laptop \"Resources from NN drive\"); laptop copy probably exists. Not extracted; local session to confirm."
- },
- "ronak_moneycontrol_interview": {
-  "status": "possible_duplicate",
-  "notes": "In invest/ (mirrors laptop \"Resources from NN drive\"); laptop copy probably exists. Not extracted; local session to confirm."
- },
- "mukherjea_interview_notes": {
-  "status": "possible_duplicate",
-  "notes": "In invest/ (mirrors laptop \"Resources from NN drive\"); laptop copy probably exists. Not extracted; local session to confirm."
- },
- "indicator_code_notes": {
-  "status": "possible_duplicate",
-  "notes": "Indicator definitions rather than strategies; bundle into one spec; In invest/ (mirrors laptop \"Resources from NN drive\"); laptop copy probably exists. Not extracted; local session to confirm."
- },
- "nifty500_gann_sheet": {
-  "status": "possible_duplicate",
-  "notes": "Gann levels; In invest/ (mirrors laptop \"Resources from NN drive\"); laptop copy probably exists. Not extracted; local session to confirm."
- },
- "momentum_expiry_sheet": {
-  "status": "possible_duplicate",
-  "notes": "Expiry-week effect study; In invest/ (mirrors laptop \"Resources from NN drive\"); laptop copy probably exists. Not extracted; local session to confirm."
- },
- "nifty_tweets_record": {
-  "status": "possible_duplicate",
-  "notes": "In invest/ (mirrors laptop \"Resources from NN drive\"); laptop copy probably exists. Not extracted; local session to confirm."
- },
- "investopedia_tools_of_trade": {
-  "status": "possible_duplicate",
-  "notes": "Indicator overview; In invest/ (mirrors laptop \"Resources from NN drive\"); laptop copy probably exists. Not extracted; local session to confirm."
- },
- "cfa_society_seminar": {
-  "status": "possible_duplicate",
-  "notes": "Content to confirm; In invest/ (mirrors laptop \"Resources from NN drive\"); laptop copy probably exists. Not extracted; local session to confirm."
- },
- "naren_learnings_contrarian": {
-  "status": "possible_duplicate",
-  "notes": "Shortcuts; targets to resolve; In invest/ (mirrors laptop \"Resources from NN drive\"); laptop copy probably exists. Not extracted; local session to confirm."
- },
  "more_simple_profitable": {
   "status": "done",
   "text_layer": "yes",
@@ -301,9 +209,10 @@
   "strategies": 1,
   "citations_ok": 5,
   "citations_checked": 5,
-  "notes": "Publisher Zantrio LLC, no author named; key renamed from unknown_breakout_trading_simple. Framework only, not codable as written.",
+  "notes": "Author Alton Swanson (named on the laptop copy; Drive copy names only the publisher Zantrio LLC); key unchanged.",
   "coverage": "last [[PAGE 16]] reached; all pages read; charts are images",
-  "completed_at": "2026-10-03 12:48"
+  "completed_at": "2026-10-03 12:48",
+  "author": "Alton Swanson"
  },
  "unknown_ma_crossover_strategy": {
   "status": "done",
@@ -316,5 +225,24 @@
   "notes": "Scanned printout of a Python EMA 30/75 crossover script; OCR'd in cloud with RapidOCR (tools/ocr_pdf.py). No author named.",
   "coverage": "last [[PAGE 4]] reached; all 4 pages OCR'd and read",
   "completed_at": "2026-10-03 12:50"
+ },
+ "unknown_vwap_pdf": {
+  "notes": "Drive file is 1.62 MB (1,621,144 bytes), not the ~826 KB Riyank VWAP/AVWAP slides, so not the laptop copy (correction 2)."
+ },
+ "telegram_files_oct21": {
+  "status": "todo",
+  "notes": "Not on laptop (correction 2)."
+ },
+ "prechter_basics_elliott": {
+  "status": "todo",
+  "notes": "Not on laptop (correction 2)."
+ },
+ "arora_art_of_technical_analysis": {
+  "status": "blocked_size",
+  "notes": "blocked_size: 17.9 MB (17,882,160 bytes), above the Drive connector limit (~6-8 MB). Download path: My Drive/Phone Backup Aug 2025/WhatsApp Documents/The Art of Technical Analysis.pdf (file id 1lRjO_feeIYkitCjJ3aIiSmtLk1L1oPxv). Not on laptop (correction 2)."
+ },
+ "unknown_coffee_can_investor": {
+  "status": "blocked_size",
+  "notes": "blocked_size: 8.9 MB (8,874,228 bytes), above the Drive connector limit (~6-8 MB). Download path: My Drive/Phone Backup Aug 2025/WhatsApp Documents/COFEE CAN INVESTOR.pdf (file id 1jnHatuNbT-Dq9Y75Ws2Rl2e_weWLaD3j). Not on laptop (correction 2)."
  }
 }
