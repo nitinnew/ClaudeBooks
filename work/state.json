@@ -75,5 +75,16 @@
  },
  "vivek_price_in_time": {
   "notes": "Size 7-8.5 MB, near the cloud fetch limit (5 MB downloads work, 8.5 MB failed). Will try; may need the laptop session."
+ },
+ "ladha_13_swing_strategies": {
+  "status": "done",
+  "page_basis": "pdf_pages",
+  "coverage": "last [[PAGE 171]] reached; all pages read; example-chart pages are images with garbled caption text only",
+  "pages": "171",
+  "text_layer": "yes",
+  "strategies": 13,
+  "citations_ok": 76,
+  "citations_checked": 76,
+  "completed_at": "2026-10-03 12:20"
  }
 }

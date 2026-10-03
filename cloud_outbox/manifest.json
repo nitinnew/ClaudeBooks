@@ -14,6 +14,20 @@
   "completed_at": "2026-10-03 12:13"
  },
  {
+  "key": "ladha_13_swing_strategies",
+  "title": "13 Swing Trading Strategies",
+  "author": "Pankaj Ladha & Anant Ladha",
+  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/13_Swing_Trading_Strategies_Pankaj_Ladha,_Anant_Ladha_2022.pdf",
+  "status": "done",
+  "priority": "H",
+  "page_basis": "pdf_pages",
+  "strategies": 13,
+  "citations_ok": 76,
+  "citations_checked": 76,
+  "coverage": "last [[PAGE 171]] reached; all pages read; example-chart pages are images with garbled caption text only",
+  "completed_at": "2026-10-03 12:20"
+ },
+ {
   "key": "weinstein_secrets_bull_bear",
   "title": "Secrets for Profiting in Bull and Bear Markets",
   "author": "Stan Weinstein",
@@ -60,20 +74,6 @@
   "title": "Master Trader Program 2020 (notes)",
   "author": "Mark Minervini",
   "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/MTP 2020 - Mark Minervini.pdf",
-  "status": "todo",
-  "priority": "H",
-  "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
- },
- {
-  "key": "ladha_13_swing_strategies",
-  "title": "13 Swing Trading Strategies",
-  "author": "Pankaj Ladha & Anant Ladha",
-  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/13_Swing_Trading_Strategies_Pankaj_Ladha,_Anant_Ladha_2022.pdf",
   "status": "todo",
   "priority": "H",
   "page_basis": "",
