@@ -42,6 +42,20 @@
   "completed_at": "2026-10-03 12:22"
  },
  {
+  "key": "burns_moving_averages_101",
+  "title": "Moving Averages 101",
+  "author": "Steve Burns",
+  "drive_path": "invest/Moving_Averages_101_Incredible_Signals_That_Will_Make_You_Money.pdf ; Phone Backup Aug 2025/WhatsApp Documents/(same title)",
+  "status": "done",
+  "priority": "H",
+  "page_basis": "pdf_pages",
+  "strategies": 7,
+  "citations_ok": 32,
+  "citations_checked": 32,
+  "coverage": "last [[PAGE 78]] reached; all pages read; p.1 cover image; charts are images",
+  "completed_at": "2026-10-03 12:25"
+ },
+ {
   "key": "weinstein_secrets_bull_bear",
   "title": "Secrets for Profiting in Bull and Bear Markets",
   "author": "Stan Weinstein",
@@ -130,20 +144,6 @@
   "title": "Maximum Trading Gains with Anchored VWAP",
   "author": "Brian Shannon",
   "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/Maximum Trading Gains With Anchored VWAP_watermark.pdf",
-  "status": "todo",
-  "priority": "H",
-  "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
- },
- {
-  "key": "burns_moving_averages_101",
-  "title": "Moving Averages 101",
-  "author": "Steve Burns",
-  "drive_path": "invest/Moving_Averages_101_Incredible_Signals_That_Will_Make_You_Money.pdf ; Phone Backup Aug 2025/WhatsApp Documents/(same title)",
   "status": "todo",
   "priority": "H",
   "page_basis": "",

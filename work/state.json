@@ -97,5 +97,16 @@
   "citations_ok": 29,
   "citations_checked": 29,
   "completed_at": "2026-10-03 12:22"
+ },
+ "burns_moving_averages_101": {
+  "status": "done",
+  "pages": "78",
+  "text_layer": "yes",
+  "page_basis": "pdf_pages",
+  "coverage": "last [[PAGE 78]] reached; all pages read; p.1 cover image; charts are images",
+  "strategies": 7,
+  "citations_ok": 32,
+  "citations_checked": 32,
+  "completed_at": "2026-10-03 12:25"
  }
 }
