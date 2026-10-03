@@ -467,5 +467,18 @@
   "notes": "2nd ed. Wiley 2005; 12 tenets + owner-earnings two-stage DCF + focus portfolio; fundamental/forward-test; printed pp.18 and 118 missing from PDF",
   "coverage": "[[PAGE 1]]-[[PAGE 267]] all read; Appendix holdings tables scanned (no rules); printed pp.18,118 absent in PDF",
   "completed_at": "2026-10-03 18:02"
+ },
+ "altucher_trade_like_buffett": {
+  "status": "done",
+  "text_layer": "yes",
+  "page_basis": "pdf_pages",
+  "pages": "259",
+  "strategies": 10,
+  "citations_ok": 40,
+  "citations_checked": 40,
+  "file_id": "1Pp8Rah-PaDeQmhzKZB0Iowv0C0Ace7wC",
+  "notes": "Wiley 2005; cash-index/net-net screens, merger & stub arb, closed-end discount, P/E band (negative), Fed-model deviation, 10% pullback, extreme A/D; mechanical systems testable",
+  "coverage": "[[PAGE 1]]-[[PAGE 253]] read; numeric tables via filtered view; Index [[PAGE 254]]-[[PAGE 259]] scanned only",
+  "completed_at": "2026-10-03 18:10"
  }
 }
