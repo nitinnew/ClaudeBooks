@@ -364,24 +364,24 @@
   "completed_at": "2026-10-03 17:41"
  },
  {
-  "key": "drew_price_action_practical",
-  "title": "Price Action Trading: A Practical Guide",
-  "author": "Edward Drew",
-  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/PRICE ACTION TRADING _ A PRACTI - EDWARD DREW.pdf",
-  "status": "todo",
-  "priority": "M",
-  "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
- },
- {
   "key": "kennedy_price_bars",
   "title": "How to Trade the Highest Probability Opportunities: Price Bars",
   "author": "Jeffrey Kennedy",
   "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/Jeffrey Kennedy - How To Trade the Highest Probability Opportunities_....pdf",
+  "status": "done",
+  "priority": "M",
+  "page_basis": "pdf_pages",
+  "strategies": 7,
+  "citations_ok": 18,
+  "citations_checked": 18,
+  "coverage": "[[PAGE 1]]-[[PAGE 47]] read in full",
+  "completed_at": "2026-10-03 17:42"
+ },
+ {
+  "key": "drew_price_action_practical",
+  "title": "Price Action Trading: A Practical Guide",
+  "author": "Edward Drew",
+  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/PRICE ACTION TRADING _ A PRACTI - EDWARD DREW.pdf",
   "status": "todo",
   "priority": "M",
   "page_basis": "",
