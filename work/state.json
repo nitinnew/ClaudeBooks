@@ -78,7 +78,8 @@
   "status": "local_downloaded"
  },
  "agrawal_simplest_book_ta": {
-  "notes": "Size 7-8.5 MB, near the cloud fetch limit (5 MB downloads work, 8.5 MB failed). Will try; may need the laptop session."
+  "notes": "blocked_size: Drive path 'Phone Backup Aug 2025/WhatsApp Documents/The Simplest Book For Technical Analysis - Mukul Agrawal.pdf', 8.31 MB (8,308,462 bytes); connector download failed once (2026-10-03). Not retrying.",
+  "status": "blocked_size"
  },
  "unknown_subtle_art_intraday": {
   "notes": "Correction 3: downloaded to laptop and extracted there; never fetch in cloud.",
@@ -328,5 +329,17 @@
   "notes": "Sequel to Perfect Stock; explicit 20 rules (Appendix 1). Second copy not opened; presumed same text.",
   "coverage": "last [[PAGE 168]] reached; all pages read; figures are images",
   "completed_at": "2026-10-03 14:05"
+ },
+ "kim_classical_chart_patterns": {
+  "status": "done",
+  "text_layer": "yes",
+  "page_basis": "pdf_pages",
+  "pages": "316",
+  "strategies": 4,
+  "citations_ok": 31,
+  "citations_checked": 31,
+  "notes": "Classical patterns (E&M/Brandt): close entry, last-day-rule stop, 0.4-0.8% risk, measured target, earnings exit, 2-attempt re-entry; H&S top failure; pennant/flag continuation; index regime.",
+  "coverage": "last [[PAGE 316]] reached; all pages read; figures are images",
+  "completed_at": "2026-10-03 14:09"
  }
 }
