@@ -256,14 +256,14 @@
   "title": "How to Trade with Price Action - Master",
   "author": "Galen Woods",
   "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/How to Trade with Price Action - Master. Galen Woods.pdf",
-  "status": "todo",
+  "status": "done",
   "priority": "M",
-  "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
+  "page_basis": "pdf_pages",
+  "strategies": 4,
+  "citations_ok": 16,
+  "citations_checked": 16,
+  "coverage": "last [[PAGE 82]] reached; all pages read; Ch.2 chart types and Ch.6 order types contain no trading rules (summarised in s.4)",
+  "completed_at": "2026-10-03 14:19"
  },
  {
   "key": "zarattini_power_price_action",

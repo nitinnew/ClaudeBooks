@@ -345,5 +345,17 @@
  "teo_price_action_secrets": {
   "status": "blocked_size",
   "notes": "Drive file 'Rayner Teo - Price Action Trading Secrets...pdf' (id 1sLFIlp2o5X-c3Lo6GlBcB7e6yIbMQX_U), 6.72 MB (6,724,214 bytes); connector download failed once (message too large, 2026-10-03). Not retrying. Observed connector ceiling: 6.27 MB OK, 6.72 MB fails."
+ },
+ "woods_trade_price_action": {
+  "status": "done",
+  "text_layer": "yes",
+  "page_basis": "pdf_pages",
+  "pages": "82",
+  "strategies": 4,
+  "citations_ok": 16,
+  "citations_checked": 16,
+  "notes": "Intraday futures article compilation; inside-bar study (ES 5m, 37%->50% filtered), 20-MA pullback, pin-bar re-entry, NR7 with congestion filter.",
+  "coverage": "last [[PAGE 82]] reached; all pages read; Ch.2 chart types and Ch.6 order types contain no trading rules (summarised in s.4)",
+  "completed_at": "2026-10-03 14:19"
  }
 }
