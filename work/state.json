@@ -417,5 +417,17 @@
   "notes": "McGraw-Hill 2010; survivalist swing trading; first-hour range, bilateral, 50-EMA magnet, tiered Fib, continuation gap, Fib whipsaw, defensive shorts, expiration strikes",
   "coverage": "[[PAGE 1]]-[[PAGE 343]] read; index [[PAGE 344]]-[[PAGE 353]] skipped (no rules)",
   "completed_at": "2026-10-03 17:37"
+ },
+ "vince_portfolio_mathematics": {
+  "status": "done",
+  "text_layer": "yes",
+  "page_basis": "pdf_pages",
+  "pages": "446",
+  "strategies": 10,
+  "citations_ok": 19,
+  "citations_checked": 19,
+  "notes": "Wiley 2007; position-sizing/allocation only (optimal f, Kelly, dynamic fractional f, Leverage Space Model with drawdown constraint); no entry signals",
+  "coverage": "[[PAGE 1]]-[[PAGE 66]] and [[PAGE 123]]-[[PAGE 446]] read; Ch.2 [[PAGE 67]]-[[PAGE 122]] skipped (statistics primer, no rules)",
+  "completed_at": "2026-10-03 17:40"
  }
 }
