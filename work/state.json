@@ -244,5 +244,17 @@
  "unknown_coffee_can_investor": {
   "status": "blocked_size",
   "notes": "blocked_size: 8.9 MB (8,874,228 bytes), above the Drive connector limit (~6-8 MB). Download path: My Drive/Phone Backup Aug 2025/WhatsApp Documents/COFEE CAN INVESTOR.pdf (file id 1jnHatuNbT-Dq9Y75Ws2Rl2e_weWLaD3j). Not on laptop (correction 2)."
+ },
+ "minervini_think_trade_champion": {
+  "status": "done",
+  "text_layer": "yes",
+  "page_basis": "pdf_pages",
+  "pages": "218",
+  "strategies": 4,
+  "citations_ok": 28,
+  "citations_checked": 28,
+  "notes": "Used the 6.0 MB copy (id 145IciUc5jRkilpTouf7GC35OyEPEILOH); 8.4 MB duplicate not opened.",
+  "coverage": "last [[PAGE 218]] reached; rules pp.6-179 read in full; mindset interview pp.180-195 read; index pp.197-218 skimmed (no rules); figures are images",
+  "completed_at": "2026-10-03 13:02"
  }
 }

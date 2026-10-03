@@ -1,5 +1,19 @@
 [
  {
+  "key": "minervini_think_trade_champion",
+  "title": "Think & Trade Like a Champion",
+  "author": "Mark Minervini",
+  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/Think & Trade Like a Champion_ - Mark Minervini.pdf ; Phone Backup Aug 2025/WhatsApp Documents/Think and Trade like Champion.pdf",
+  "status": "done",
+  "priority": "H",
+  "page_basis": "pdf_pages",
+  "strategies": 4,
+  "citations_ok": 28,
+  "citations_checked": 28,
+  "coverage": "last [[PAGE 218]] reached; rules pp.6-179 read in full; mindset interview pp.180-195 read; index pp.197-218 skimmed (no rules); figures are images",
+  "completed_at": "2026-10-03 13:02"
+ },
+ {
   "key": "covel_complete_turtletrader",
   "title": "The Complete TurtleTrader",
   "author": "Michael Covel",
@@ -138,20 +152,6 @@
   "citations_checked": 5,
   "coverage": "last [[PAGE 4]] reached; all 4 pages OCR'd and read",
   "completed_at": "2026-10-03 12:50"
- },
- {
-  "key": "minervini_think_trade_champion",
-  "title": "Think & Trade Like a Champion",
-  "author": "Mark Minervini",
-  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/Think & Trade Like a Champion_ - Mark Minervini.pdf ; Phone Backup Aug 2025/WhatsApp Documents/Think and Trade like Champion.pdf",
-  "status": "todo",
-  "priority": "H",
-  "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
  },
  {
   "key": "shantharaj_breakout_trading",
