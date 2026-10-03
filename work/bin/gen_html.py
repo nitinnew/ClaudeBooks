@@ -2,7 +2,7 @@
 import json, html, datetime
 OUT = "/home/user/ClaudeBooks/cloud_outbox"
 man = json.load(open(f"{OUT}/manifest.json"))
-order = {"done":0,"in_progress":1,"todo":2,"needs_ocr":3,"possible_duplicate":4,"local_other_edition":5}
+order = {"done":0,"in_progress":1,"todo":2,"needs_ocr":3,"blocked_size":3.5,"possible_duplicate":4,"local_other_edition":5,"deferred_out_of_scope":99}
 pri = {"H":0,"M":1,"L":2,"":3}
 man.sort(key=lambda m: (order.get(m["status"], 9), pri.get(m["priority"], 3), m["key"]))
 from collections import Counter
@@ -44,7 +44,7 @@ td {{ padding:9px 8px; border-bottom:1px solid var(--line); vertical-align:top; 
 .num {{ font-variant-numeric:tabular-nums; text-align:right; font-family:var(--mono); font-size:13px; }}
 .pri {{ font-family:var(--mono); font-weight:500; }} .cov {{ font-size:13px; color:var(--muted); max-width:34ch; }} .lk {{ font-size:13px; white-space:nowrap; }}
 .pill {{ display:inline-block; font:500 11px/1 var(--mono); padding:4px 7px; border-radius:3px; background:var(--chip); white-space:nowrap; }}
-.s-done {{ color:var(--done); }} .s-todo,.s-in_progress {{ color:var(--todo); }} .s-needs_ocr {{ color:var(--ocr); }} .s-possible_duplicate,.s-local_other_edition {{ color:var(--dup); }}
+.s-done {{ color:var(--done); }} .s-todo,.s-in_progress {{ color:var(--todo); }} .s-needs_ocr,.s-blocked_size {{ color:var(--ocr); }} .s-possible_duplicate,.s-local_other_edition {{ color:var(--dup); }}
 </style>
 <div class="wrap">
 <header><h1>Strategy Extraction Cloud Outbox</h1>

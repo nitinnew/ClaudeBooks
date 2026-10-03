@@ -11,70 +11,86 @@
   "completed_at": "2026-10-03 12:13"
  },
  "weinstein_secrets_bull_bear": {
-  "notes": "BLOCKED in cloud: file exceeds the Drive connector fetch limit (download fails above ~6-8 MB; text view stops at ~100K chars). Needs the laptop session, or a split/compressed copy on Drive."
+  "notes": "blocked_size: 11.8 MB (11,846,422 bytes), above the Drive connector limit (~6-8 MB). Download path: My Drive/Phone Backup Aug 2025/WhatsApp Documents/toaz.info-stan-weinstein-s-secrets-for-profiting-in-bull-and-bear-markpdf-pr_961aa40cdfc1074ae7d1632be23a612f.pdf (file id 1Zxirvdb0Q73QsLzMBiTx2LW-oDcBA3AN).",
+  "status": "blocked_size"
  },
  "minervini_trade_like_wizard": {
-  "notes": "BLOCKED in cloud: file exceeds the Drive connector fetch limit (download fails above ~6-8 MB; text view stops at ~100K chars). Needs the laptop session, or a split/compressed copy on Drive."
+  "notes": "blocked_size: 11.0 MB (10,980,823 bytes), above the Drive connector limit (~6-8 MB). Download path: My Drive/Phone Backup Aug 2025/WhatsApp Documents/Mark_Minervini_Trade_Like_a_Stock.pdf (file id 1txPHfiCwIQWtapY5R3BiahfUM-eJYSWl).",
+  "status": "blocked_size"
  },
  "minervini_mtp_2020": {
-  "notes": "BLOCKED in cloud: file exceeds the Drive connector fetch limit (download fails above ~6-8 MB; text view stops at ~100K chars). Needs the laptop session, or a split/compressed copy on Drive."
+  "notes": "blocked_size: 19.5 MB (19,461,557 bytes), above the Drive connector limit (~6-8 MB). Download path: My Drive/Phone Backup Aug 2025/WhatsApp Documents/MTP 2020 - Mark Minervini.pdf (file id 16QRg9epdhJkkls4qUfbb6YewUezQFK5p).",
+  "status": "blocked_size"
  },
  "shantharaj_breakout_trading_2": {
-  "notes": "BLOCKED in cloud: file exceeds the Drive connector fetch limit (download fails above ~6-8 MB; text view stops at ~100K chars). Needs the laptop session, or a split/compressed copy on Drive."
+  "notes": "blocked_size: 29.1 MB (29,091,560 bytes), above the Drive connector limit (~6-8 MB). Download path: My Drive/Phone Backup Aug 2025/WhatsApp Documents/How_To_Make_Money_With_Breakout_Trading_2_0_Analyse_The_Stock_Market.pdf (file id 1xrepILKzQAG3IpayCpmyNhqk7XTyG-O6).",
+  "status": "blocked_size"
  },
  "shannon_anchored_vwap": {
-  "notes": "BLOCKED in cloud: file exceeds the Drive connector fetch limit (download fails above ~6-8 MB; text view stops at ~100K chars). Needs the laptop session, or a split/compressed copy on Drive."
+  "notes": "blocked_size: 19.7 MB (19,728,662 bytes), above the Drive connector limit (~6-8 MB). Download path: My Drive/Phone Backup Aug 2025/WhatsApp Documents/Maximum Trading Gains With Anchored VWAP_watermark.pdf (file id 1uxskQXg8awz29WrLVd_PTyVjiuV8Qwhy).",
+  "status": "blocked_size"
  },
  "wilson_breakthrough_trading": {
-  "notes": "BLOCKED in cloud: file exceeds the Drive connector fetch limit (download fails above ~6-8 MB; text view stops at ~100K chars). Needs the laptop session, or a split/compressed copy on Drive."
+  "notes": "blocked_size: 14.6 MB (14,613,839 bytes), above the Drive connector limit (~6-8 MB). Download path: My Drive/invest/breakthrough trading revolutionary.pdf (file id 1jxL9RUAgRbQ2XwiqLuu5UtSnLvVOhiID). Laptop copy probable (invest/ mirrors \"Resources from NN drive\").",
+  "status": "blocked_size"
  },
  "bulkowski_encyclopedia_candlestick": {
-  "notes": "BLOCKED in cloud: file exceeds the Drive connector fetch limit (download fails above ~6-8 MB; text view stops at ~100K chars). Needs the laptop session, or a split/compressed copy on Drive."
+  "notes": "blocked_size: 29.3 MB (29,315,156 bytes), above the Drive connector limit (~6-8 MB). Download path: My Drive/Phone Backup Aug 2025/WhatsApp Documents/0247_encyclopedia-of-candlestick-charts.pdf (file id 1WOIfrKuF4-Irdgh1Af1CkwOoBe24ego7).",
+  "status": "blocked_size"
  },
  "schabacker_ta_stock_market_profits": {
-  "notes": "BLOCKED in cloud: file exceeds the Drive connector fetch limit (download fails above ~6-8 MB; text view stops at ~100K chars). Needs the laptop session, or a split/compressed copy on Drive."
- },
- "aronson_evidence_based_ta": {
-  "notes": "BLOCKED in cloud: file exceeds the Drive connector fetch limit (download fails above ~6-8 MB; text view stops at ~100K chars). Needs the laptop session, or a split/compressed copy on Drive."
+  "notes": "blocked_size: 19.9 MB (19,883,577 bytes), above the Drive connector limit (~6-8 MB). Download path: My Drive/Phone Backup Aug 2025/WhatsApp Documents/Technical Analysis and Stock Ma - Richard W. Schabacker.pdf (file id 1tnX7tMIUAHHjxYEufD-Z2pVOVBj6yLow).",
+  "status": "blocked_size"
  },
  "colby_encyclopedia_indicators": {
-  "notes": "BLOCKED in cloud: file exceeds the Drive connector fetch limit (download fails above ~6-8 MB; text view stops at ~100K chars). Needs the laptop session, or a split/compressed copy on Drive."
+  "notes": "blocked_size: 9.4 MB (9,350,351 bytes), above the Drive connector limit (~6-8 MB). Download path: My Drive/Phone Backup Aug 2025/WhatsApp Documents/colby_robert_w_encyclopedia_of_technical_market_indicators.pdf (file id 1TQe1cFTpFGsYzgQS6neKMSjNiNuY8gn4).",
+  "status": "blocked_size"
  },
  "gartley_profits_with_charts": {
-  "notes": "BLOCKED in cloud: file exceeds the Drive connector fetch limit (download fails above ~6-8 MB; text view stops at ~100K chars). Needs the laptop session, or a split/compressed copy on Drive."
+  "notes": "blocked_size: 39.9 MB (39,907,598 bytes), above the Drive connector limit (~6-8 MB). Download path: My Drive/Phone Backup Aug 2025/WhatsApp Documents/Private/Profits in the Stock Market With Charts -- H_ M_ Gartley -- 1935 -- Lambert Gann Publishing.pdf (file id 1Me8EQRFfKfDDs1uz_ONDvTzBKh6glyzt).",
+  "status": "blocked_size"
  },
  "pruden_three_skills_top_trading": {
-  "notes": "BLOCKED in cloud: file exceeds the Drive connector fetch limit (download fails above ~6-8 MB; text view stops at ~100K chars). Needs the laptop session, or a split/compressed copy on Drive."
+  "notes": "blocked_size: 21.8 MB (21,817,150 bytes), above the Drive connector limit (~6-8 MB). Download path: My Drive/Phone Backup Aug 2025/WhatsApp Documents/The_Three_Skills_of_Top_Trading.pdf (file id 1wyKoilZtfl5CVq26Poja9YAOdj311bgw).",
+  "status": "blocked_size"
  },
  "hutson_wyckoff_charting": {
-  "notes": "BLOCKED in cloud: file exceeds the Drive connector fetch limit (download fails above ~6-8 MB; text view stops at ~100K chars). Needs the laptop session, or a split/compressed copy on Drive."
+  "notes": "Already done on laptop as hutson_wyckoff_method (Appendix C1, \"Hutson (ed.) - Charting the Stock Market\"). Not extracted.",
+  "status": "local_exists"
  },
  "miller_supply_demand_trading": {
-  "notes": "BLOCKED in cloud: file exceeds the Drive connector fetch limit (download fails above ~6-8 MB; text view stops at ~100K chars). Needs the laptop session, or a split/compressed copy on Drive."
+  "notes": "blocked_size: 14.5 MB (14,534,870 bytes), above the Drive connector limit (~6-8 MB). Download path: My Drive/Phone Backup Aug 2025/WhatsApp Documents/Supply and Demand Trading by Frank Miller.pdf (file id 1q5fX3C0yQRbsBGETX0-Yn6KQNPGgnDva).",
+  "status": "blocked_size"
  },
  "drew_price_action_practical": {
   "notes": "Size 7-8.5 MB, near the cloud fetch limit (5 MB downloads work, 8.5 MB failed). Will try; may need the laptop session."
  },
  "zebralearn_technical_trader": {
-  "notes": "BLOCKED in cloud: file exceeds the Drive connector fetch limit (download fails above ~6-8 MB; text view stops at ~100K chars). Needs the laptop session, or a split/compressed copy on Drive."
+  "notes": "blocked_size: 19.8 MB (19,778,691 bytes), above the Drive connector limit (~6-8 MB). Download path: My Drive/Phone Backup Aug 2025/WhatsApp Documents/The Trading Mastermind.pdf (file id 1lRgKEm90CIh4UbCb86vvwXQfUE-riOp4).",
+  "status": "blocked_size"
  },
  "weir_timing_the_market": {
-  "notes": "BLOCKED in cloud: file exceeds the Drive connector fetch limit (download fails above ~6-8 MB; text view stops at ~100K chars). Needs the laptop session, or a split/compressed copy on Drive."
+  "notes": "blocked_size: 16.0 MB (15,962,774 bytes), above the Drive connector limit (~6-8 MB). Download path: My Drive/Phone Backup Aug 2025/WhatsApp Documents/Timing the Market How To Profit in the Stock Market.pdf (file id 1XC7RG32iMadU-SB_oSZrpC17ofFcOQUi).",
+  "status": "blocked_size"
  },
  "kundur_trading_smart_pattern": {
-  "notes": "BLOCKED in cloud: file exceeds the Drive connector fetch limit (download fails above ~6-8 MB; text view stops at ~100K chars). Needs the laptop session, or a split/compressed copy on Drive."
+  "notes": "blocked_size: 11.1 MB (11,138,397 bytes), above the Drive connector limit (~6-8 MB). Download path: My Drive/Phone Backup Aug 2025/WhatsApp Documents/Trading Chart Patterns Book.pdf (file id 1e9j_FLFBPng3TYbB8NHkxkQ1WbSdJyuO).",
+  "status": "blocked_size"
  },
  "agrawal_simplest_book_ta": {
   "notes": "Size 7-8.5 MB, near the cloud fetch limit (5 MB downloads work, 8.5 MB failed). Will try; may need the laptop session."
  },
  "unknown_subtle_art_intraday": {
-  "notes": "BLOCKED in cloud: file exceeds the Drive connector fetch limit (download fails above ~6-8 MB; text view stops at ~100K chars). Needs the laptop session, or a split/compressed copy on Drive."
+  "notes": "blocked_size: 33.7 MB (33,706,853 bytes), above the Drive connector limit (~6-8 MB). Download path: My Drive/invest/subtle art of intraday trading (file id 1XAglHA_8Q8r3iZJzIaG5GfcVkf4sO7_5). Laptop copy probable (invest/ mirrors \"Resources from NN drive\").",
+  "status": "blocked_size"
  },
  "rudd_stock_patterns_day_trading": {
-  "notes": "BLOCKED in cloud: file exceeds the Drive connector fetch limit (download fails above ~6-8 MB; text view stops at ~100K chars). Needs the laptop session, or a split/compressed copy on Drive."
+  "notes": "blocked_size: 49.2 MB (49,161,649 bytes), above the Drive connector limit (~6-8 MB). Download path: My Drive/invest/STOCK PATTERNS FOR DAY TRADING.pdf (file id 1-AJBLkZRrAvbpniPW85XptttjCgR2lFJ). Laptop copy probable (invest/ mirrors \"Resources from NN drive\").",
+  "status": "blocked_size"
  },
  "vivek_price_in_time": {
-  "notes": "Size 7-8.5 MB, near the cloud fetch limit (5 MB downloads work, 8.5 MB failed). Will try; may need the laptop session."
+  "notes": "Intraday; In invest/ (mirrors laptop \"Resources from NN drive\"); laptop copy probably exists. Not extracted; local session to confirm.",
+  "status": "possible_duplicate"
  },
  "ladha_13_swing_strategies": {
   "status": "done",
@@ -119,5 +135,138 @@
   "citations_ok": 14,
   "citations_checked": 14,
   "completed_at": "2026-10-03 12:26"
+ },
+ "unknown_top_down_analysis": {
+  "status": "local_exists",
+  "title": "Top Down Analysis on the Financial Markets",
+  "author": "Ref Wayne & Bafana Masilela",
+  "notes": "Already done on laptop as top_down_analysis (C1). Not extracted."
+ },
+ "nana_maam_notes": {
+  "status": "local_exists",
+  "notes": "File is on the laptop (missed in the original local list). Not extracted."
+ },
+ "darvax_tweets": {
+  "status": "local_exists",
+  "notes": "File is on the laptop (missed in the original local list). Not extracted."
+ },
+ "jenkins_geometry_profits": {
+  "status": "blocked_size",
+  "notes": "blocked_size: 24.3 MB (24,266,220 bytes), above the Drive connector limit (~6-8 MB). Download path: My Drive/Phone Backup Aug 2025/WhatsApp Documents/The_Geometry_of_Stock_Market_Profits_by_Michael_Jenkins_z_lib_org.pdf (file id 1ZrT88-bTeVPWg8nIYnw4xmGo20TfCEb1)."
+ },
+ "tgs_mechanics_indian_market": {
+  "status": "blocked_size",
+  "notes": "blocked_size: 26.9 MB (26,861,297 bytes), above the Drive connector limit (~6-8 MB). Download path: My Drive/Phone Backup Aug 2025/WhatsApp Documents/Mechanics of Stock Market.pdf (file id 13roGUho3NwMBGqee5SbUpuUuFuQtQenj)."
+ },
+ "bernstein_30_days_market_mastery": {
+  "status": "blocked_size",
+  "notes": "blocked_size: 21.0 MB (21,042,091 bytes), above the Drive connector limit (~6-8 MB). Download path: My Drive/Phone Backup Aug 2025/WhatsApp Documents/30_Days_to_Market_Mastery_A_Step_by_Step_Guide_to_Profitable_Trading.pdf (file id 1GRLFYSSZokbCOSQhCszgrMNO8io5Aad7)."
+ },
+ "options_strategy_material": {
+  "status": "deferred_out_of_scope",
+  "notes": "Options-only material; NSE cash-equity scope, no options data. Deferred to the end."
+ },
+ "astrology_material": {
+  "status": "deferred_out_of_scope",
+  "notes": "Astrology/time-cycle material; out of scope for now. Deferred to the end."
+ },
+ "motilal_qglp": {
+  "status": "possible_duplicate",
+  "notes": "Indian fundamental framework; forward-test only; In invest/ (mirrors laptop \"Resources from NN drive\"); laptop copy probably exists. Not extracted; local session to confirm."
+ },
+ "unknown_edit_support_resistance": {
+  "status": "possible_duplicate",
+  "notes": "In invest/ (mirrors laptop \"Resources from NN drive\"); laptop copy probably exists. Not extracted; local session to confirm."
+ },
+ "unknown_vwap_pdf": {
+  "status": "possible_duplicate",
+  "notes": "In invest/ (mirrors laptop \"Resources from NN drive\"); laptop copy probably exists. Not extracted; local session to confirm."
+ },
+ "balu_sir_sd_pivot_notes": {
+  "status": "possible_duplicate",
+  "notes": "Not in Appendix C; may belong to a local course set; In invest/ (mirrors laptop \"Resources from NN drive\"); laptop copy probably exists. Not extracted; local session to confirm."
+ },
+ "zerodha_varsity_notes": {
+  "status": "possible_duplicate",
+  "notes": "Content to confirm; In invest/ (mirrors laptop \"Resources from NN drive\"); laptop copy probably exists. Not extracted; local session to confirm."
+ },
+ "unknown_master_mind_day_trading": {
+  "status": "possible_duplicate",
+  "notes": "Intraday; In invest/ (mirrors laptop \"Resources from NN drive\"); laptop copy probably exists. Not extracted; local session to confirm."
+ },
+ "unknown_rule_book_safest_trader": {
+  "status": "possible_duplicate",
+  "notes": "Beginner roadmap notes; In invest/ (mirrors laptop \"Resources from NN drive\"); laptop copy probably exists. Not extracted; local session to confirm."
+ },
+ "unknown_lazy_river_scalping": {
+  "status": "possible_duplicate",
+  "notes": "Scalping; In invest/ (mirrors laptop \"Resources from NN drive\"); laptop copy probably exists. Not extracted; local session to confirm."
+ },
+ "unknown_definitive_guide_candlestick": {
+  "status": "possible_duplicate",
+  "notes": "In invest/ (mirrors laptop \"Resources from NN drive\"); laptop copy probably exists. Not extracted; local session to confirm."
+ },
+ "dmdsplyinvestor_tradingview_setup": {
+  "status": "possible_duplicate",
+  "notes": "In invest/ (mirrors laptop \"Resources from NN drive\"); laptop copy probably exists. Not extracted; local session to confirm."
+ },
+ "unknown_investment_journey_thesis": {
+  "status": "possible_duplicate",
+  "notes": "In invest/ (mirrors laptop \"Resources from NN drive\"); laptop copy probably exists. Not extracted; local session to confirm."
+ },
+ "todmal_poojary_threads": {
+  "status": "possible_duplicate",
+  "notes": "mhtml format; connector may not read; In invest/ (mirrors laptop \"Resources from NN drive\"); laptop copy probably exists. Not extracted; local session to confirm."
+ },
+ "vartak_session": {
+  "status": "possible_duplicate",
+  "notes": "In invest/ (mirrors laptop \"Resources from NN drive\"); laptop copy probably exists. Not extracted; local session to confirm."
+ },
+ "ronak_moneycontrol_interview": {
+  "status": "possible_duplicate",
+  "notes": "In invest/ (mirrors laptop \"Resources from NN drive\"); laptop copy probably exists. Not extracted; local session to confirm."
+ },
+ "mukherjea_interview_notes": {
+  "status": "possible_duplicate",
+  "notes": "In invest/ (mirrors laptop \"Resources from NN drive\"); laptop copy probably exists. Not extracted; local session to confirm."
+ },
+ "indicator_code_notes": {
+  "status": "possible_duplicate",
+  "notes": "Indicator definitions rather than strategies; bundle into one spec; In invest/ (mirrors laptop \"Resources from NN drive\"); laptop copy probably exists. Not extracted; local session to confirm."
+ },
+ "nifty500_gann_sheet": {
+  "status": "possible_duplicate",
+  "notes": "Gann levels; In invest/ (mirrors laptop \"Resources from NN drive\"); laptop copy probably exists. Not extracted; local session to confirm."
+ },
+ "momentum_expiry_sheet": {
+  "status": "possible_duplicate",
+  "notes": "Expiry-week effect study; In invest/ (mirrors laptop \"Resources from NN drive\"); laptop copy probably exists. Not extracted; local session to confirm."
+ },
+ "nifty_tweets_record": {
+  "status": "possible_duplicate",
+  "notes": "In invest/ (mirrors laptop \"Resources from NN drive\"); laptop copy probably exists. Not extracted; local session to confirm."
+ },
+ "investopedia_tools_of_trade": {
+  "status": "possible_duplicate",
+  "notes": "Indicator overview; In invest/ (mirrors laptop \"Resources from NN drive\"); laptop copy probably exists. Not extracted; local session to confirm."
+ },
+ "cfa_society_seminar": {
+  "status": "possible_duplicate",
+  "notes": "Content to confirm; In invest/ (mirrors laptop \"Resources from NN drive\"); laptop copy probably exists. Not extracted; local session to confirm."
+ },
+ "naren_learnings_contrarian": {
+  "status": "possible_duplicate",
+  "notes": "Shortcuts; targets to resolve; In invest/ (mirrors laptop \"Resources from NN drive\"); laptop copy probably exists. Not extracted; local session to confirm."
+ },
+ "more_simple_profitable": {
+  "status": "done",
+  "text_layer": "yes",
+  "page_basis": "pdf_pages",
+  "pages": "49",
+  "strategies": 3,
+  "citations_ok": 20,
+  "citations_checked": 20,
+  "coverage": "last [[PAGE 49]] reached; all pages read; pp.1-3, 48 and case-study charts pp.40-45 are images",
+  "completed_at": "2026-10-03 12:43"
  }
 }

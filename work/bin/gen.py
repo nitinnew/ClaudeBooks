@@ -22,11 +22,16 @@ L.append("**Status counts (rows):** " + ", ".join(f"{k}: {v}" for k, v in sorted
 L.append("")
 L.append("| # | key | title | author | Drive path | type | pages | text layer | status | priority | notes |")
 L.append("|---|---|---|---|---|---|---|---|---|---|---|")
-stat_order = {"done":0,"in_progress":1,"todo":2,"needs_ocr":3,"possible_duplicate":4,"local_other_edition":5,"local_exists":6,"skipped_drm":7,"not_strategy_source":8,"video_deferred":9}
+stat_order = {"done":0,"in_progress":1,"todo":2,"needs_ocr":3,"blocked_size":3.5,"possible_duplicate":4,"local_other_edition":5,"local_exists":6,"skipped_drm":7,"not_strategy_source":8,"video_deferred":9,"deferred_out_of_scope":10}
 items.sort(key=lambda i: (stat_order.get(i["status"], 5), order.get(i["priority"], 3)))
 esc = lambda s: str(s).replace("|", "\\|")
 for n, i in enumerate(items, 1):
     L.append("| " + " | ".join(esc(x) for x in [n, i["key"], i["title"], i["author"], i["drive_path"], i["type"], i["pages"], i["text_layer"], i["status"], i["priority"], i["notes"]]) + " |")
+bl = [i for i in items if i["status"] == "blocked_size"]
+if bl:
+    L += ["", "## Download list for the laptop (blocked_size)", "", "Too large for the Drive connector. Download these to the laptop; the laptop session extracts them.", "",
+          "| key | priority | size and Drive path |", "|---|---|---|"]
+    L += [f"| {i['key']} | {i['priority']} | {esc(i['notes'].replace('blocked_size: ', ''))} |" for i in bl]
 open(f"{OUT}/inventory.md", "w").write("\n".join(L) + "\n")
 man = []
 for i in items:
