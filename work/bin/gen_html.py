@@ -2,7 +2,7 @@
 import json, html, datetime
 OUT = "/home/user/ClaudeBooks/cloud_outbox"
 man = json.load(open(f"{OUT}/manifest.json"))
-order = {"done":0,"in_progress":1,"todo":2,"needs_ocr":3,"blocked_size":3.5,"possible_duplicate":4,"local_other_edition":5,"deferred_out_of_scope":99}
+order = {"done":0,"in_progress":1,"todo":2,"needs_ocr":3,"blocked_size":3.5,"possible_duplicate":4,"local_other_edition":5,"local_downloaded":6.5,"deferred_out_of_scope":99}
 pri = {"H":0,"M":1,"L":2,"":3}
 man.sort(key=lambda m: (order.get(m["status"], 9), pri.get(m["priority"], 3), m["key"]))
 from collections import Counter

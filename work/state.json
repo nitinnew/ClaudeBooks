@@ -11,82 +11,82 @@
   "completed_at": "2026-10-03 12:13"
  },
  "weinstein_secrets_bull_bear": {
-  "notes": "blocked_size: 11.8 MB (11,846,422 bytes), above the Drive connector limit (~6-8 MB). Download path: My Drive/Phone Backup Aug 2025/WhatsApp Documents/toaz.info-stan-weinstein-s-secrets-for-profiting-in-bull-and-bear-markpdf-pr_961aa40cdfc1074ae7d1632be23a612f.pdf (file id 1Zxirvdb0Q73QsLzMBiTx2LW-oDcBA3AN).",
-  "status": "blocked_size"
+  "notes": "Correction 3: downloaded to laptop and extracted there; never fetch in cloud.",
+  "status": "local_downloaded"
  },
  "minervini_trade_like_wizard": {
-  "notes": "blocked_size: 11.0 MB (10,980,823 bytes), above the Drive connector limit (~6-8 MB). Download path: My Drive/Phone Backup Aug 2025/WhatsApp Documents/Mark_Minervini_Trade_Like_a_Stock.pdf (file id 1txPHfiCwIQWtapY5R3BiahfUM-eJYSWl).",
-  "status": "blocked_size"
+  "notes": "Correction 3: downloaded to laptop and extracted there; never fetch in cloud.",
+  "status": "local_downloaded"
  },
  "minervini_mtp_2020": {
-  "notes": "blocked_size: 19.5 MB (19,461,557 bytes), above the Drive connector limit (~6-8 MB). Download path: My Drive/Phone Backup Aug 2025/WhatsApp Documents/MTP 2020 - Mark Minervini.pdf (file id 16QRg9epdhJkkls4qUfbb6YewUezQFK5p).",
-  "status": "blocked_size"
+  "notes": "Correction 3: downloaded to laptop and extracted there; never fetch in cloud.",
+  "status": "local_downloaded"
  },
  "shantharaj_breakout_trading_2": {
-  "notes": "blocked_size: 29.1 MB (29,091,560 bytes), above the Drive connector limit (~6-8 MB). Download path: My Drive/Phone Backup Aug 2025/WhatsApp Documents/How_To_Make_Money_With_Breakout_Trading_2_0_Analyse_The_Stock_Market.pdf (file id 1xrepILKzQAG3IpayCpmyNhqk7XTyG-O6).",
-  "status": "blocked_size"
+  "notes": "Correction 3: downloaded to laptop and extracted there; never fetch in cloud.",
+  "status": "local_downloaded"
  },
  "shannon_anchored_vwap": {
-  "notes": "blocked_size: 19.7 MB (19,728,662 bytes), above the Drive connector limit (~6-8 MB). Download path: My Drive/Phone Backup Aug 2025/WhatsApp Documents/Maximum Trading Gains With Anchored VWAP_watermark.pdf (file id 1uxskQXg8awz29WrLVd_PTyVjiuV8Qwhy).",
-  "status": "blocked_size"
+  "notes": "Correction 3: downloaded to laptop and extracted there; never fetch in cloud.",
+  "status": "local_downloaded"
  },
  "wilson_breakthrough_trading": {
-  "notes": "blocked_size: 14.6 MB (14,613,839 bytes), above the Drive connector limit (~6-8 MB). Download path: My Drive/invest/breakthrough trading revolutionary.pdf (file id 1jxL9RUAgRbQ2XwiqLuu5UtSnLvVOhiID). Laptop copy probable (invest/ mirrors \"Resources from NN drive\").",
-  "status": "blocked_size"
+  "notes": "Correction 3: downloaded to laptop and extracted there; never fetch in cloud.",
+  "status": "local_downloaded"
  },
  "bulkowski_encyclopedia_candlestick": {
-  "notes": "blocked_size: 29.3 MB (29,315,156 bytes), above the Drive connector limit (~6-8 MB). Download path: My Drive/Phone Backup Aug 2025/WhatsApp Documents/0247_encyclopedia-of-candlestick-charts.pdf (file id 1WOIfrKuF4-Irdgh1Af1CkwOoBe24ego7).",
-  "status": "blocked_size"
+  "notes": "Correction 3: downloaded to laptop and extracted there; never fetch in cloud.",
+  "status": "local_downloaded"
  },
  "schabacker_ta_stock_market_profits": {
-  "notes": "blocked_size: 19.9 MB (19,883,577 bytes), above the Drive connector limit (~6-8 MB). Download path: My Drive/Phone Backup Aug 2025/WhatsApp Documents/Technical Analysis and Stock Ma - Richard W. Schabacker.pdf (file id 1tnX7tMIUAHHjxYEufD-Z2pVOVBj6yLow).",
-  "status": "blocked_size"
+  "notes": "Correction 3: downloaded to laptop and extracted there; never fetch in cloud.",
+  "status": "local_downloaded"
  },
  "colby_encyclopedia_indicators": {
-  "notes": "blocked_size: 9.4 MB (9,350,351 bytes), above the Drive connector limit (~6-8 MB). Download path: My Drive/Phone Backup Aug 2025/WhatsApp Documents/colby_robert_w_encyclopedia_of_technical_market_indicators.pdf (file id 1TQe1cFTpFGsYzgQS6neKMSjNiNuY8gn4).",
-  "status": "blocked_size"
+  "notes": "Correction 3: downloaded to laptop and extracted there; never fetch in cloud.",
+  "status": "local_downloaded"
  },
  "gartley_profits_with_charts": {
-  "notes": "blocked_size: 39.9 MB (39,907,598 bytes), above the Drive connector limit (~6-8 MB). Download path: My Drive/Phone Backup Aug 2025/WhatsApp Documents/Private/Profits in the Stock Market With Charts -- H_ M_ Gartley -- 1935 -- Lambert Gann Publishing.pdf (file id 1Me8EQRFfKfDDs1uz_ONDvTzBKh6glyzt).",
-  "status": "blocked_size"
+  "notes": "Correction 3: downloaded to laptop and extracted there; never fetch in cloud.",
+  "status": "local_downloaded"
  },
  "pruden_three_skills_top_trading": {
-  "notes": "blocked_size: 21.8 MB (21,817,150 bytes), above the Drive connector limit (~6-8 MB). Download path: My Drive/Phone Backup Aug 2025/WhatsApp Documents/The_Three_Skills_of_Top_Trading.pdf (file id 1wyKoilZtfl5CVq26Poja9YAOdj311bgw).",
-  "status": "blocked_size"
+  "notes": "Correction 3: downloaded to laptop and extracted there; never fetch in cloud.",
+  "status": "local_downloaded"
  },
  "hutson_wyckoff_charting": {
   "notes": "Already done on laptop as hutson_wyckoff_method (Appendix C1, \"Hutson (ed.) - Charting the Stock Market\"). Not extracted.",
   "status": "local_exists"
  },
  "miller_supply_demand_trading": {
-  "notes": "blocked_size: 14.5 MB (14,534,870 bytes), above the Drive connector limit (~6-8 MB). Download path: My Drive/Phone Backup Aug 2025/WhatsApp Documents/Supply and Demand Trading by Frank Miller.pdf (file id 1q5fX3C0yQRbsBGETX0-Yn6KQNPGgnDva).",
-  "status": "blocked_size"
+  "notes": "Correction 3: downloaded to laptop and extracted there; never fetch in cloud.",
+  "status": "local_downloaded"
  },
  "drew_price_action_practical": {
   "notes": "Size 7-8.5 MB, near the cloud fetch limit (5 MB downloads work, 8.5 MB failed). Will try; may need the laptop session."
  },
  "zebralearn_technical_trader": {
-  "notes": "blocked_size: 19.8 MB (19,778,691 bytes), above the Drive connector limit (~6-8 MB). Download path: My Drive/Phone Backup Aug 2025/WhatsApp Documents/The Trading Mastermind.pdf (file id 1lRgKEm90CIh4UbCb86vvwXQfUE-riOp4).",
-  "status": "blocked_size"
+  "notes": "Correction 3: downloaded to laptop and extracted there; never fetch in cloud.",
+  "status": "local_downloaded"
  },
  "weir_timing_the_market": {
-  "notes": "blocked_size: 16.0 MB (15,962,774 bytes), above the Drive connector limit (~6-8 MB). Download path: My Drive/Phone Backup Aug 2025/WhatsApp Documents/Timing the Market How To Profit in the Stock Market.pdf (file id 1XC7RG32iMadU-SB_oSZrpC17ofFcOQUi).",
-  "status": "blocked_size"
+  "notes": "Correction 3: downloaded to laptop and extracted there; never fetch in cloud.",
+  "status": "local_downloaded"
  },
  "kundur_trading_smart_pattern": {
-  "notes": "blocked_size: 11.1 MB (11,138,397 bytes), above the Drive connector limit (~6-8 MB). Download path: My Drive/Phone Backup Aug 2025/WhatsApp Documents/Trading Chart Patterns Book.pdf (file id 1e9j_FLFBPng3TYbB8NHkxkQ1WbSdJyuO).",
-  "status": "blocked_size"
+  "notes": "Correction 3: downloaded to laptop and extracted there; never fetch in cloud.",
+  "status": "local_downloaded"
  },
  "agrawal_simplest_book_ta": {
   "notes": "Size 7-8.5 MB, near the cloud fetch limit (5 MB downloads work, 8.5 MB failed). Will try; may need the laptop session."
  },
  "unknown_subtle_art_intraday": {
-  "notes": "blocked_size: 33.7 MB (33,706,853 bytes), above the Drive connector limit (~6-8 MB). Download path: My Drive/invest/subtle art of intraday trading (file id 1XAglHA_8Q8r3iZJzIaG5GfcVkf4sO7_5). Laptop copy probable (invest/ mirrors \"Resources from NN drive\").",
-  "status": "blocked_size"
+  "notes": "Correction 3: downloaded to laptop and extracted there; never fetch in cloud.",
+  "status": "local_downloaded"
  },
  "rudd_stock_patterns_day_trading": {
-  "notes": "blocked_size: 49.2 MB (49,161,649 bytes), above the Drive connector limit (~6-8 MB). Download path: My Drive/invest/STOCK PATTERNS FOR DAY TRADING.pdf (file id 1-AJBLkZRrAvbpniPW85XptttjCgR2lFJ). Laptop copy probable (invest/ mirrors \"Resources from NN drive\").",
-  "status": "blocked_size"
+  "notes": "Correction 3: downloaded to laptop and extracted there; never fetch in cloud.",
+  "status": "local_downloaded"
  },
  "ladha_13_swing_strategies": {
   "status": "done",
@@ -151,12 +151,12 @@
   "notes": "blocked_size: 24.3 MB (24,266,220 bytes), above the Drive connector limit (~6-8 MB). Download path: My Drive/Phone Backup Aug 2025/WhatsApp Documents/The_Geometry_of_Stock_Market_Profits_by_Michael_Jenkins_z_lib_org.pdf (file id 1ZrT88-bTeVPWg8nIYnw4xmGo20TfCEb1)."
  },
  "tgs_mechanics_indian_market": {
-  "status": "blocked_size",
-  "notes": "blocked_size: 26.9 MB (26,861,297 bytes), above the Drive connector limit (~6-8 MB). Download path: My Drive/Phone Backup Aug 2025/WhatsApp Documents/Mechanics of Stock Market.pdf (file id 13roGUho3NwMBGqee5SbUpuUuFuQtQenj)."
+  "status": "local_downloaded",
+  "notes": "Correction 3: downloaded to laptop and extracted there; never fetch in cloud."
  },
  "bernstein_30_days_market_mastery": {
-  "status": "blocked_size",
-  "notes": "blocked_size: 21.0 MB (21,042,091 bytes), above the Drive connector limit (~6-8 MB). Download path: My Drive/Phone Backup Aug 2025/WhatsApp Documents/30_Days_to_Market_Mastery_A_Step_by_Step_Guide_to_Profitable_Trading.pdf (file id 1GRLFYSSZokbCOSQhCszgrMNO8io5Aad7)."
+  "status": "local_downloaded",
+  "notes": "Correction 3: downloaded to laptop and extracted there; never fetch in cloud."
  },
  "options_strategy_material": {
   "status": "deferred_out_of_scope",
@@ -304,5 +304,17 @@
   "notes": "1940 text. Common-stock selection chapters read in full (27-29, 37-39, 42-43, 50); bond/preferred parts not read (no equity trading rules). NCAV, 20x/12.5x avg-earnings cap, Babson 2/3-4/3 timing.",
   "coverage": "partial: pp.13-17, 401-445, 525-560, 601-627, 722-742 read; 750-756 skimmed; bond parts not read",
   "completed_at": "2026-10-03 13:14"
+ },
+ "koteshwar_perfect_stock": {
+  "status": "done",
+  "text_layer": "yes",
+  "page_basis": "pdf_pages",
+  "pages": "178",
+  "strategies": 3,
+  "citations_ok": 13,
+  "citations_checked": 13,
+  "notes": "Novel (fiction) on TASR 2003-04; rules from characters' trade journals. Second copy (1,062,072 bytes) not opened; presumed same text.",
+  "coverage": "last [[PAGE 178]] reached; all pages read; charts are images",
+  "completed_at": "2026-10-03 14:03"
  }
 }

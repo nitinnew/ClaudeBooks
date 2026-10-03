@@ -22,7 +22,7 @@ L.append("**Status counts (rows):** " + ", ".join(f"{k}: {v}" for k, v in sorted
 L.append("")
 L.append("| # | key | title | author | Drive path | type | pages | text layer | status | priority | notes |")
 L.append("|---|---|---|---|---|---|---|---|---|---|---|")
-stat_order = {"done":0,"in_progress":1,"todo":2,"needs_ocr":3,"blocked_size":3.5,"possible_duplicate":4,"local_other_edition":5,"local_exists":6,"skipped_drm":7,"not_strategy_source":8,"video_deferred":9,"deferred_out_of_scope":10}
+stat_order = {"done":0,"in_progress":1,"todo":2,"needs_ocr":3,"blocked_size":3.5,"possible_duplicate":4,"local_other_edition":5,"local_exists":6,"local_downloaded":6.5,"skipped_drm":7,"not_strategy_source":8,"video_deferred":9,"deferred_out_of_scope":10}
 items.sort(key=lambda i: (stat_order.get(i["status"], 5), order.get(i["priority"], 3)))
 esc = lambda s: str(s).replace("|", "\\|")
 for n, i in enumerate(items, 1):
