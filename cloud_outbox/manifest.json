@@ -228,14 +228,14 @@
   "title": "The Perfect Speculator",
   "author": "Brad Koteshwar",
   "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/The Perfect Speculator by Brad Koteshwar.pdf ; Phone Backup Aug 2025/WhatsApp Documents/Brad Koteshwar - The Perfect Speculator-Great Expressions Publishing (2005).pdf",
-  "status": "todo",
+  "status": "done",
   "priority": "M",
-  "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
+  "page_basis": "pdf_pages",
+  "strategies": 3,
+  "citations_ok": 16,
+  "citations_checked": 16,
+  "coverage": "last [[PAGE 168]] reached; all pages read; figures are images",
+  "completed_at": "2026-10-03 14:05"
  },
  {
   "key": "agrawal_simplest_book_ta",

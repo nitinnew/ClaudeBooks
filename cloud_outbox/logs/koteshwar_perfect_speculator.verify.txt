@@ -1,0 +1,2 @@
+
+quotes checked: 16  ok: 16  wrong page: 0  not found: 0
