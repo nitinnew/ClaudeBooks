@@ -357,5 +357,17 @@
   "notes": "Intraday futures article compilation; inside-bar study (ES 5m, 37%->50% filtered), 20-MA pullback, pin-bar re-entry, NR7 with congestion filter.",
   "coverage": "last [[PAGE 82]] reached; all pages read; Ch.2 chart types and Ch.6 order types contain no trading rules (summarised in s.4)",
   "completed_at": "2026-10-03 14:19"
+ },
+ "zarattini_power_price_action": {
+  "status": "done",
+  "text_layer": "yes",
+  "page_basis": "pdf_pages",
+  "pages": "30",
+  "strategies": 2,
+  "citations_ok": 12,
+  "citations_checked": 12,
+  "notes": "Research paper (with M. Stamatoudis, 2024): US gap-ups >=6%; mechanical ORB ladder ~no edge; discretionary 18% selection + micromanagement: 1,580 trades, 18% win, +1.03R avg, CAGR 59%.",
+  "coverage": "last [[PAGE 30]] reached; all pages read; lit review/bios/references contain no rules",
+  "completed_at": "2026-10-03 14:21"
  }
 }
