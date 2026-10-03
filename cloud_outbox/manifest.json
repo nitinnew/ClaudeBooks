@@ -172,14 +172,14 @@
   "title": "Evidence-Based Technical Analysis",
   "author": "David Aronson",
   "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/Evidence-Based Technical Analysis.pdf",
-  "status": "todo",
+  "status": "done",
   "priority": "M",
-  "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
+  "page_basis": "pdf_pages",
+  "strategies": 4,
+  "citations_ok": 12,
+  "citations_checked": 12,
+  "coverage": "pp. 1-69 and 390-453 read sequentially (+ note p.511); Ch.3-7 and 454-528 skimmed: theory/statistics, no rules",
+  "completed_at": "2026-10-03 13:08"
  },
  {
   "key": "ochoa_secrets_pivot_boss",

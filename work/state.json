@@ -268,5 +268,17 @@
   "notes": "1st edition (2020). 2.0 edition is blocked_size, so no edition comparison in cloud.",
   "coverage": "last [[PAGE 68]] reached; all pages read; charts are images",
   "completed_at": "2026-10-03 13:04"
+ },
+ "aronson_evidence_based_ta": {
+  "status": "done",
+  "text_layer": "yes",
+  "page_basis": "pdf_pages",
+  "pages": "528",
+  "strategies": 4,
+  "citations_ok": 12,
+  "citations_checked": 12,
+  "notes": "Methods book; 6,402-rule S&P 500 study (trend/extreme/divergence grammar) found no rule significant after data-mining correction. Use as testing protocol.",
+  "coverage": "pp. 1-69 and 390-453 read sequentially (+ note p.511); Ch.3-7 and 454-528 skimmed: theory/statistics, no rules",
+  "completed_at": "2026-10-03 13:08"
  }
 }
