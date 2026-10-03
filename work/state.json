@@ -268,5 +268,17 @@
   "citations_checked": 20,
   "coverage": "last [[PAGE 49]] reached; all pages read; pp.1-3, 48 and case-study charts pp.40-45 are images",
   "completed_at": "2026-10-03 12:43"
+ },
+ "shah_20_ema": {
+  "status": "done",
+  "text_layer": "yes",
+  "page_basis": "pdf_pages",
+  "pages": "40",
+  "strategies": 1,
+  "citations_ok": 13,
+  "citations_checked": 13,
+  "notes": "Author is Jayesh Shah (inventory had Steve Burns); key renamed from burns_20_ema",
+  "coverage": "last [[PAGE 40]] reached; all pages read; pp.1-2, 9, 17, 19, 21, 27 images; charts are images",
+  "completed_at": "2026-10-03 12:45"
  }
 }
