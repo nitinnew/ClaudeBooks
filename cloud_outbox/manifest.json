@@ -42,6 +42,20 @@
   "completed_at": "2026-10-03 12:22"
  },
  {
+  "key": "persic_successful_breakout_trading",
+  "title": "Successful Breakout Trading: A Practical Guide",
+  "author": "Sinisa Persic, CMT",
+  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/Successful_Breakout_Trading_A_Practical_Guide.pdf ; Phone Backup Aug 2025/WhatsApp Documents/..._traderhr_Z_Library.pdf",
+  "status": "done",
+  "priority": "H",
+  "page_basis": "pdf_pages",
+  "strategies": 1,
+  "citations_ok": 14,
+  "citations_checked": 14,
+  "coverage": "last [[PAGE 36]] reached; all pages read; position-size and Kelly equations are images (missing); flow charts pp.33-34 images",
+  "completed_at": "2026-10-03 12:26"
+ },
+ {
   "key": "burns_moving_averages_101",
   "title": "Moving Averages 101",
   "author": "Steve Burns",
@@ -116,20 +130,6 @@
   "title": "How to Make Money with Breakout Trading 2.0",
   "author": "Indrazith Shantharaj",
   "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/How_To_Make_Money_With_Breakout_Trading_2_0_Analyse_The_Stock_Market.pdf",
-  "status": "todo",
-  "priority": "H",
-  "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
- },
- {
-  "key": "unknown_successful_breakout_trading",
-  "title": "Successful Breakout Trading: A Practical Guide",
-  "author": "author to confirm",
-  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/Successful_Breakout_Trading_A_Practical_Guide.pdf ; Phone Backup Aug 2025/WhatsApp Documents/..._traderhr_Z_Library.pdf",
   "status": "todo",
   "priority": "H",
   "page_basis": "",

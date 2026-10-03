@@ -108,5 +108,16 @@
   "citations_ok": 32,
   "citations_checked": 32,
   "completed_at": "2026-10-03 12:25"
+ },
+ "persic_successful_breakout_trading": {
+  "status": "done",
+  "pages": "36",
+  "text_layer": "yes",
+  "page_basis": "pdf_pages",
+  "coverage": "last [[PAGE 36]] reached; all pages read; position-size and Kelly equations are images (missing); flow charts pp.33-34 images",
+  "strategies": 1,
+  "citations_ok": 14,
+  "citations_checked": 14,
+  "completed_at": "2026-10-03 12:26"
  }
 }
