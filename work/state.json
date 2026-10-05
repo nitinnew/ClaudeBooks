@@ -413,12 +413,12 @@
   "text_layer": "yes",
   "page_basis": "pdf_pages",
   "pages": "353",
-  "strategies": 10,
+  "strategies": 25,
   "citations_ok": 28,
   "citations_checked": 28,
   "notes": "McGraw-Hill 2010; survivalist swing trading; first-hour range, bilateral, 50-EMA magnet, tiered Fib, continuation gap, Fib whipsaw, defensive shorts, expiration strikes",
-  "coverage": "[[PAGE 1]]-[[PAGE 343]] read; index [[PAGE 344]]-[[PAGE 353]] skipped (no rules)",
-  "completed_at": "2026-10-03 17:37"
+  "coverage": "[[PAGE 1]]-[[PAGE 347]] read line by line incl. front matter (copyright/contents previously only partly viewed); index [[PAGE 347]]-[[PAGE 353]] scanned",
+  "completed_at": "2026-10-05 08:09"
  },
  "vince_portfolio_mathematics": {
   "status": "done",
