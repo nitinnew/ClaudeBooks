@@ -425,12 +425,12 @@
   "text_layer": "yes",
   "page_basis": "pdf_pages",
   "pages": "446",
-  "strategies": 10,
+  "strategies": 19,
   "citations_ok": 19,
   "citations_checked": 19,
   "notes": "Wiley 2007; position-sizing/allocation only (optimal f, Kelly, dynamic fractional f, Leverage Space Model with drawdown constraint); no entry signals",
-  "coverage": "[[PAGE 1]]-[[PAGE 66]] and [[PAGE 123]]-[[PAGE 446]] read; Ch.2 [[PAGE 67]]-[[PAGE 122]] skipped (statistics primer, no rules)",
-  "completed_at": "2026-10-03 17:40"
+  "coverage": "[[PAGE 1]]-[[PAGE 446]] read sequentially (filtered view: numeric-only table lines dropped; tables pp.158-167, 268-283, 316-319, 410/428/434 not read cell by cell; index scanned). Correction: Ch.2 previously mis-reported as rule-free",
+  "completed_at": "2026-10-05 08:01"
  },
  "unknown_winning_rsi_playbook": {
   "status": "done",

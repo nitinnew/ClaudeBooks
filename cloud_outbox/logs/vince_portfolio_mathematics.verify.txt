@@ -1,2 +1,2 @@
 
-quotes checked: 19  ok: 19  wrong page: 0  not found: 0
+quotes checked: 62  ok: 62  wrong page: 0  not found: 0
