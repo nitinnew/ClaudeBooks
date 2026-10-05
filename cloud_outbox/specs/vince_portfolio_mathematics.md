@@ -922,6 +922,7 @@ contracts = floor(cum_utils / (min(utils_k) / -f_u))
 - Building a personal utility-preference curve via certainty equivalents [p. 246–250].
 - Scenario construction: cover ~99% of outcomes, avoid the three-scenario trap, use one holding period [p. 189, 198].
 - Diversification increases the number of holding periods per unit time; it does not reduce risk at optimal leverage [p. 313, 382].
+- **Typos in the source:** derived numbers and equation labels contain errors. Example: [p. 353] prints ln(21)/ln(1.01933) as 1590201 (≈ 159.02). Equation numbering drifts: (10.05) vs (10.09) [p. 368–369]; (12.10) vs (12.11) [p. 434]. Recompute; do not copy constants blindly.
 
 ## 5. Adapting to NSE (Indian equities)
 
