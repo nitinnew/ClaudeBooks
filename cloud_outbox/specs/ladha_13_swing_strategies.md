@@ -587,7 +587,7 @@ risk 0.5–1% of equity; time stop 20 sessions (ASSUMPTION)
 
 - "Base or resistance can be easily used for ﬁrst 2-3 times but always remember as a particular base or resistance becomes weak on 4th time onwards." [p. 145]
 - "The stoploss must be kept at a close below the lowest price in that support zone." [p. 146]
-- "Price of a stock hitting previous support zone and holding it out is always a buy zone." [p. 146]
+- "Price of a stock hitting previous support zone and holding it out is always a buy zone." [p. 147]
 - "Book your proﬁts when the ratio of price to the stoploss is 2 to 3 times." [p. 147]
 - "If the stock crosses the trading range and does it for two consecutive days than we will look for another range bound opportunity." [p. 147]
 

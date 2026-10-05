@@ -109,8 +109,8 @@ for series X in inputs, n in [3,5,8,12,18,27,41,61,91,137,205]:
 
 **Key quotes**
 
-- "Two different values for the threshold displacement parameter were tested: 10 and 20." [p. 429]
-- "Three different values were considered for the channel normalization look-back span: 15, 30, and 60." [p. 429]
+- "Two different values for the threshold displacement parameter were tested: 10 and 20." [p. 430]
+- "Three different values were considered for the channel normalization look-back span: 15, 30, and 60." [p. 430]
 - "The rule with the best performance, E-12-28-10-30,1 generated a mean annualized return of 10.25 percent, on detrended market data." [p. 442]
 - "Type 12 is short although the indicator is above the upper threshold, long at all other times." [p. 511]
 

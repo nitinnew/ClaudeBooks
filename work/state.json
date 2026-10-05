@@ -449,12 +449,12 @@
   "text_layer": "yes",
   "page_basis": "pdf_pages",
   "pages": "47",
-  "strategies": 7,
-  "citations_ok": 18,
-  "citations_checked": 18,
-  "notes": "EWI 2009 eCourse; bar patterns: multiple inside bars, double key reversal, Popgun, Arrow, failed new low/high, The Zone; key/critical swing levels",
-  "coverage": "[[PAGE 1]]-[[PAGE 47]] read in full",
-  "completed_at": "2026-10-03 17:42"
+  "strategies": 8,
+  "citations_ok": 48,
+  "citations_checked": 48,
+  "notes": "Rewritten in full template (correction 4): 8 strategies with 12-field tables (multiple inside bars, double key reversal, Popgun, Arrow, failed new low/high, The Zone, key/critical swing overlay, close-location bias)",
+  "coverage": "[[PAGE 1]]-[[PAGE 47]] all read (re-read in full for correction-4 rewrite); nothing skimmed; figures are images, captions read",
+  "completed_at": "2026-10-05 01:11"
  },
  "hagstrom_warren_buffett_way": {
   "status": "done",

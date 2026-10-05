@@ -371,11 +371,11 @@
   "status": "done",
   "priority": "M",
   "page_basis": "pdf_pages",
-  "strategies": 7,
-  "citations_ok": 18,
-  "citations_checked": 18,
-  "coverage": "[[PAGE 1]]-[[PAGE 47]] read in full",
-  "completed_at": "2026-10-03 17:42"
+  "strategies": 8,
+  "citations_ok": 48,
+  "citations_checked": 48,
+  "coverage": "[[PAGE 1]]-[[PAGE 47]] all read (re-read in full for correction-4 rewrite); nothing skimmed; figures are images, captions read",
+  "completed_at": "2026-10-05 01:11"
  },
  {
   "key": "hagstrom_warren_buffett_way",
