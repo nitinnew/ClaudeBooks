@@ -490,5 +490,15 @@
   "pages": "256",
   "coverage": "[[PAGE 1]]-[[PAGE 256]] read (Sonnet sub-agent, coordinator checked); index [[PAGE 246]]-[[PAGE 256]] keyword-scanned",
   "completed_at": "2026-10-06 15:29"
+ },
+ "mukherjea_diamonds_dust": {
+  "status": "done",
+  "strategies": 12,
+  "citations_ok": 71,
+  "citations_checked": 71,
+  "file_id": "1QlyG540Bu1vMQZcztGEiWFsEu0VKzDWI",
+  "pages": "259",
+  "coverage": "[[PAGE 1]]-[[PAGE 259]] read in full incl. 3 appendices (Sonnet sub-agent, coordinator checked); image-only exhibits not captured",
+  "completed_at": "2026-10-06 15:38"
  }
 }
