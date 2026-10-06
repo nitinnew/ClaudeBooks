@@ -150,7 +150,7 @@
   "notes": "File is on the laptop (missed in the original local list). Not extracted."
  },
  "jenkins_geometry_profits": {
-  "status": "blocked_size",
+  "status": "local_downloaded",
   "notes": "blocked_size: 24.3 MB (24,266,220 bytes), above the Drive connector limit (~6-8 MB). Download path: My Drive/Phone Backup Aug 2025/WhatsApp Documents/The_Geometry_of_Stock_Market_Profits_by_Michael_Jenkins_z_lib_org.pdf (file id 1ZrT88-bTeVPWg8nIYnw4xmGo20TfCEb1)."
  },
  "tgs_mechanics_indian_market": {
@@ -241,11 +241,11 @@
   "notes": "Not on laptop (correction 2)."
  },
  "arora_art_of_technical_analysis": {
-  "status": "blocked_size",
+  "status": "local_downloaded",
   "notes": "blocked_size: 17.9 MB (17,882,160 bytes), above the Drive connector limit (~6-8 MB). Download path: My Drive/Phone Backup Aug 2025/WhatsApp Documents/The Art of Technical Analysis.pdf (file id 1lRjO_feeIYkitCjJ3aIiSmtLk1L1oPxv). Not on laptop (correction 2)."
  },
  "unknown_coffee_can_investor": {
-  "status": "blocked_size",
+  "status": "local_downloaded",
   "notes": "blocked_size: 8.9 MB (8,874,228 bytes), above the Drive connector limit (~6-8 MB). Download path: My Drive/Phone Backup Aug 2025/WhatsApp Documents/COFEE CAN INVESTOR.pdf (file id 1jnHatuNbT-Dq9Y75Ws2Rl2e_weWLaD3j). Not on laptop (correction 2)."
  },
  "minervini_think_trade_champion": {
