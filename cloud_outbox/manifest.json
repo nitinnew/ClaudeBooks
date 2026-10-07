@@ -466,14 +466,14 @@
   "title": "Parabolic SAR Trading Strategy (report)",
   "author": "author to confirm",
   "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/Report-Parabolic SAR Trading Strategy.pdf",
-  "status": "todo",
+  "status": "done",
   "priority": "M",
   "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
+  "strategies": 2,
+  "citations_ok": 11,
+  "citations_checked": 11,
+  "coverage": "[[PAGE 1]]-[[PAGE 20]] read in full (Sonnet sub-agent; coordinator read full text, expanded 2.2); p.1 cover, no text; publisher tradingstrategyguides.com",
+  "completed_at": "2026-10-07 03:02"
  },
  {
   "key": "unknown_trendline_strategy_secret",

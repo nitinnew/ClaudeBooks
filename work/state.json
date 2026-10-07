@@ -520,5 +520,15 @@
   "pages": "168",
   "coverage": "[[PAGE 1]]-[[PAGE 168]] read in full (Sonnet sub-agent, coordinator checked); pp.1,116,119 image-only; author not stated",
   "completed_at": "2026-10-07 02:15"
+ },
+ "unknown_parabolic_sar_strategy": {
+  "status": "done",
+  "strategies": 2,
+  "citations_ok": 11,
+  "citations_checked": 11,
+  "file_id": "1buyAiq71Kay2S-4WMM0c2yPww24RA28F",
+  "pages": "20",
+  "coverage": "[[PAGE 1]]-[[PAGE 20]] read in full (Sonnet sub-agent; coordinator read full text, expanded 2.2); p.1 cover, no text; publisher tradingstrategyguides.com",
+  "completed_at": "2026-10-07 03:02"
  }
 }
