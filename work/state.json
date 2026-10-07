@@ -530,5 +530,15 @@
   "pages": "20",
   "coverage": "[[PAGE 1]]-[[PAGE 20]] read in full (Sonnet sub-agent; coordinator read full text, expanded 2.2); p.1 cover, no text; publisher tradingstrategyguides.com",
   "completed_at": "2026-10-07 03:02"
+ },
+ "unknown_trendline_strategy_secret": {
+  "status": "done",
+  "strategies": 5,
+  "citations_ok": 19,
+  "citations_checked": 19,
+  "file_id": "1kUVOMiugYmq1Yu9aoC7z2CyZUCw7YUjO",
+  "pages": "114",
+  "coverage": "[[PAGE 1]]-[[PAGE 114]] read in full (Sonnet sub-agent, coordinator checked); p.8 chart only, p.109 garbled cheat sheet; author Myronn Saremo (p.2)",
+  "completed_at": "2026-10-07 03:05"
  }
 }
