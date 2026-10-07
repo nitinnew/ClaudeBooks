@@ -510,5 +510,15 @@
   "pages": "130",
   "coverage": "[[PAGE 1]]-[[PAGE 130]] read in full (report pp.1-118 + booklet pp.119-130; Sonnet sub-agent, coordinator checked); p.35 image-only (Framework #2 missing)",
   "completed_at": "2026-10-07 02:11"
+ },
+ "unknown_candlestick_trading_bible": {
+  "status": "done",
+  "strategies": 8,
+  "citations_ok": 29,
+  "citations_checked": 29,
+  "file_id": "14OVHc0H6bnHn7owYqpnlb36YUCEFAfDM",
+  "pages": "168",
+  "coverage": "[[PAGE 1]]-[[PAGE 168]] read in full (Sonnet sub-agent, coordinator checked); pp.1,116,119 image-only; author not stated",
+  "completed_at": "2026-10-07 02:15"
  }
 }

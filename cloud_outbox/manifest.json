@@ -452,14 +452,14 @@
   "title": "The Candlestick Trading Bible",
   "author": "author to confirm",
   "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/THE CANDLESTICK TRADING BIBLE(1).pdf",
-  "status": "todo",
+  "status": "done",
   "priority": "M",
   "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
+  "strategies": 8,
+  "citations_ok": 29,
+  "citations_checked": 29,
+  "coverage": "[[PAGE 1]]-[[PAGE 168]] read in full (Sonnet sub-agent, coordinator checked); pp.1,116,119 image-only; author not stated",
+  "completed_at": "2026-10-07 02:15"
  },
  {
   "key": "unknown_parabolic_sar_strategy",
