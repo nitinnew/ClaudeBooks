@@ -438,14 +438,14 @@
   "title": "QGLP (Motilal Oswal) 2020 report + QGLP booklet",
   "author": "Motilal Oswal (Raamdeo Agrawal)",
   "drive_path": "invest/qglp motilal 2020.pdf ; invest/QGLP-Booklet.pdf",
-  "status": "todo",
+  "status": "done",
   "priority": "M",
   "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
+  "strategies": 10,
+  "citations_ok": 46,
+  "citations_checked": 46,
+  "coverage": "[[PAGE 1]]-[[PAGE 130]] read in full (report pp.1-118 + booklet pp.119-130; Sonnet sub-agent, coordinator checked); p.35 image-only (Framework #2 missing)",
+  "completed_at": "2026-10-07 02:11"
  },
  {
   "key": "unknown_candlestick_trading_bible",

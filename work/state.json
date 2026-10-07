@@ -500,5 +500,15 @@
   "pages": "259",
   "coverage": "[[PAGE 1]]-[[PAGE 259]] read in full incl. 3 appendices (Sonnet sub-agent, coordinator checked); image-only exhibits not captured",
   "completed_at": "2026-10-06 15:38"
+ },
+ "motilal_qglp": {
+  "status": "done",
+  "strategies": 10,
+  "citations_ok": 46,
+  "citations_checked": 46,
+  "file_id": "1qQjTO8eQ3Kejs9oMPO8fe5GgNbVAwfyC + 1qS8HBaO2DbJDWcTA1kPCRgFAK5ujk1Fn",
+  "pages": "130",
+  "coverage": "[[PAGE 1]]-[[PAGE 130]] read in full (report pp.1-118 + booklet pp.119-130; Sonnet sub-agent, coordinator checked); p.35 image-only (Framework #2 missing)",
+  "completed_at": "2026-10-07 02:11"
  }
 }
