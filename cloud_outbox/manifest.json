@@ -508,14 +508,14 @@
   "title": "Volume Secret Master",
   "author": "author to confirm",
   "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/Private/Volume_Secret_Master.pdf",
-  "status": "todo",
+  "status": "done",
   "priority": "M",
   "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
+  "strategies": 3,
+  "citations_ok": 17,
+  "citations_checked": 17,
+  "coverage": "[[PAGE 1]]-[[PAGE 45]] read in full (Sonnet sub-agent, coordinator checked); p.40 header only; author Nigel Hawkes / Hawkeye Traders LLC; core indicator proprietary",
+  "completed_at": "2026-10-11 13:34"
  },
  {
   "key": "unknown_bollinger_practical",

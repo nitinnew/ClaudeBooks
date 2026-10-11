@@ -557,5 +557,15 @@
   "pages": "399",
   "coverage": "[[PAGE 1]]-[[PAGE 399]] read in full (Sonnet sub-agent, coordinator checked); pp.1,10,169,246,379 empty; charts image-only; index not in file",
   "completed_at": "2026-10-11 13:31"
+ },
+ "unknown_volume_secret_master": {
+  "status": "done",
+  "strategies": 3,
+  "citations_ok": 17,
+  "citations_checked": 17,
+  "file_id": "1cJ8amddiUO2sJ_hJmmSU-4mvOg6KKetW",
+  "pages": "45",
+  "coverage": "[[PAGE 1]]-[[PAGE 45]] read in full (Sonnet sub-agent, coordinator checked); p.40 header only; author Nigel Hawkes / Hawkeye Traders LLC; core indicator proprietary",
+  "completed_at": "2026-10-11 13:34"
  }
 }
