@@ -655,5 +655,15 @@
   "pages": "10",
   "coverage": "[[PAGE 1]]-[[PAGE 10]] read in full (Sonnet sub-agent; coordinator read full text); p.5 caption only; forex 5-min scalp signed '-J' (JCrawford@learntotradeforprofit.com); needs intraday data",
   "completed_at": "2026-10-11 15:35"
+ },
+ "unknown_definitive_guide_candlestick": {
+  "status": "done",
+  "strategies": 5,
+  "citations_ok": 24,
+  "citations_checked": 24,
+  "file_id": "1DN51x_fygugVM_F12saAcznfwXp_gGKe",
+  "pages": "28",
+  "coverage": "[[PAGE 1]]-[[PAGE 28]] read in full (Sonnet sub-agent, coordinator checked); pp.1,12,14,15,18,24 chart-only; title 'Candlesticks Analysis' by Pradeep Iyer",
+  "completed_at": "2026-10-11 15:44"
  }
 }

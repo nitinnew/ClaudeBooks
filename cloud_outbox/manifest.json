@@ -606,14 +606,14 @@
   "title": "Definitive Guide to Candlestick",
   "author": "author to confirm",
   "drive_path": "invest/Definitive guide to candle stick.pdf",
-  "status": "todo",
+  "status": "done",
   "priority": "L",
   "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
+  "strategies": 5,
+  "citations_ok": 24,
+  "citations_checked": 24,
+  "coverage": "[[PAGE 1]]-[[PAGE 28]] read in full (Sonnet sub-agent, coordinator checked); pp.1,12,14,15,18,24 chart-only; title 'Candlesticks Analysis' by Pradeep Iyer",
+  "completed_at": "2026-10-11 15:44"
  },
  {
   "key": "dmdsplyinvestor_tradingview_setup",
