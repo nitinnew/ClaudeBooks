@@ -610,5 +610,15 @@
   "pages": "54",
   "coverage": "[[PAGE 1]]-[[PAGE 54]] read in full (SD deck pp.1-50, pivot note pp.51-53, pivot.xlsx p.54; Sonnet sub-agent, coordinator checked); 18 slide pages image-only (7,21,24,25,31,32,36-46,53)",
   "completed_at": "2026-10-11 14:31"
+ },
+ "zerodha_varsity_notes": {
+  "status": "done",
+  "strategies": 15,
+  "citations_ok": 47,
+  "citations_checked": 47,
+  "file_id": "1XyBE_KBLeTyrYVjS8nqmePNfQC1Tmkt8",
+  "pages": "11",
+  "coverage": "[[PAGE 1]]-[[PAGE 11]] read in full (docx; pages = Word's saved page breaks; Sonnet sub-agent, coordinator checked and fixed 2.10-2.11 page drift); 2 embedded images not captured",
+  "completed_at": "2026-10-11 14:36"
  }
 }

@@ -564,14 +564,14 @@
   "title": "Zerodha Varsity (notes docx)",
   "author": "Zerodha Varsity",
   "drive_path": "invest/Zerodha varsity.docx",
-  "status": "todo",
+  "status": "done",
   "priority": "M",
   "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
+  "strategies": 15,
+  "citations_ok": 47,
+  "citations_checked": 47,
+  "coverage": "[[PAGE 1]]-[[PAGE 11]] read in full (docx; pages = Word's saved page breaks; Sonnet sub-agent, coordinator checked and fixed 2.10-2.11 page drift); 2 embedded images not captured",
+  "completed_at": "2026-10-11 14:36"
  },
  {
   "key": "unknown_master_mind_day_trading",
