@@ -490,20 +490,6 @@
   "completed_at": "2026-10-07 03:05"
  },
  {
-  "key": "rhoads_candlestick_dummies",
-  "title": "Candlestick Charting For Dummies",
-  "author": "Russell Rhoads",
-  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/Candlestick Charting For Dummies ( PDFDrive ).pdf",
-  "status": "todo",
-  "priority": "M",
-  "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
- },
- {
   "key": "sadekar_candlestick_charts",
   "title": "How to Make Money Trading with Candlestick Charts",
   "author": "Balkrishna Sadekar",
@@ -1258,6 +1244,20 @@
   "citations_checked": 0,
   "coverage": "",
   "completed_at": "2026-10-03 17:43"
+ },
+ {
+  "key": "rhoads_candlestick_dummies",
+  "title": "Candlestick Charting For Dummies",
+  "author": "Russell Rhoads",
+  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/Candlestick Charting For Dummies ( PDFDrive ).pdf",
+  "status": "blocked_size",
+  "priority": "M",
+  "page_basis": "",
+  "strategies": 0,
+  "citations_ok": 0,
+  "citations_checked": 0,
+  "coverage": "not read: 12.0 MB PDF exceeds the 10 MB connector download limit",
+  "completed_at": "2026-10-11 13:25"
  },
  {
   "key": "rayner_fibonacci_docx",

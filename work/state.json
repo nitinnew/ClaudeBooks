@@ -540,5 +540,12 @@
   "pages": "114",
   "coverage": "[[PAGE 1]]-[[PAGE 114]] read in full (Sonnet sub-agent, coordinator checked); p.8 chart only, p.109 garbled cheat sheet; author Myronn Saremo (p.2)",
   "completed_at": "2026-10-07 03:05"
+ },
+ "rhoads_candlestick_dummies": {
+  "status": "blocked_size",
+  "file_id": "1uGNH8YoDPb3RAhQpaIQbnd8Re1HqbNw7",
+  "coverage": "not read: 12.0 MB PDF exceeds the 10 MB connector download limit",
+  "completed_at": "2026-10-11 13:25",
+  "notes": "blocked_size: Drive 'Candlestick Charting For Dummies ( PDFDrive ).pdf', 12.03 MB (12,033,059 bytes); connector refused: over 10 MB limit (2026-10-11). Not retrying."
  }
 }
