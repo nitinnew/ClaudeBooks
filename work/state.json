@@ -665,5 +665,15 @@
   "pages": "28",
   "coverage": "[[PAGE 1]]-[[PAGE 28]] read in full (Sonnet sub-agent, coordinator checked); pp.1,12,14,15,18,24 chart-only; title 'Candlesticks Analysis' by Pradeep Iyer",
   "completed_at": "2026-10-11 15:44"
+ },
+ "dmdsplyinvestor_tradingview_setup": {
+  "status": "done",
+  "strategies": 1,
+  "citations_ok": 14,
+  "citations_checked": 14,
+  "file_id": "19FC4mJmKIWeO_eYpz_UuybQBNS-Sewie",
+  "pages": "11",
+  "coverage": "[[PAGE 1]]-[[PAGE 11]] read in full (Sonnet sub-agent; coordinator read full text); p.2 empty, pp.4,7,9 video links only (videos unavailable), p.11 disclaimer; indicator setup only, no entry/exit rules",
+  "completed_at": "2026-10-11 15:45"
  }
 }
