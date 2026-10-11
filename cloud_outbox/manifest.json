@@ -592,14 +592,14 @@
   "title": "Lazy River Scalping Strategy",
   "author": "author to confirm",
   "drive_path": "invest/LazyRiverScalpingStrategy_2.pdf ; Phone Backup Aug 2025/WhatsApp Documents/(same)",
-  "status": "todo",
+  "status": "done",
   "priority": "L",
   "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
+  "strategies": 1,
+  "citations_ok": 16,
+  "citations_checked": 16,
+  "coverage": "[[PAGE 1]]-[[PAGE 10]] read in full (Sonnet sub-agent; coordinator read full text); p.5 caption only; forex 5-min scalp signed '-J' (JCrawford@learntotradeforprofit.com); needs intraday data",
+  "completed_at": "2026-10-11 15:35"
  },
  {
   "key": "unknown_definitive_guide_candlestick",

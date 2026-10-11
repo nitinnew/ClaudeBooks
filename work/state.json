@@ -645,5 +645,15 @@
   "text_layer": "no_google_ocr_via_connector",
   "coverage": "[[PAGE 1]]-[[PAGE 14]] read in full (handwritten scan; Google OCR text, page breaks aligned by coordinator; Sonnet sub-agent, coordinator checked); p.14 duplicates p.7; diagrams lost",
   "completed_at": "2026-10-11 15:32"
+ },
+ "unknown_lazy_river_scalping": {
+  "status": "done",
+  "strategies": 1,
+  "citations_ok": 16,
+  "citations_checked": 16,
+  "file_id": "16GVHJ8FD0RvjR6SGFKkq15YY9nwb63Kz",
+  "pages": "10",
+  "coverage": "[[PAGE 1]]-[[PAGE 10]] read in full (Sonnet sub-agent; coordinator read full text); p.5 caption only; forex 5-min scalp signed '-J' (JCrawford@learntotradeforprofit.com); needs intraday data",
+  "completed_at": "2026-10-11 15:35"
  }
 }
