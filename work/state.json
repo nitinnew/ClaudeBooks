@@ -620,5 +620,19 @@
   "pages": "11",
   "coverage": "[[PAGE 1]]-[[PAGE 11]] read in full (docx; pages = Word's saved page breaks; Sonnet sub-agent, coordinator checked and fixed 2.10-2.11 page drift); 2 embedded images not captured",
   "completed_at": "2026-10-11 14:36"
+ },
+ "unknown_master_mind_day_trading": {
+  "status": "blocked_size",
+  "file_id": "1Gjv_eJagoS4oggPKW4eGBQRbM2ly_Ke_",
+  "coverage": "not read: full download breaks the connector; connector text view truncated mid-Chapter 4",
+  "notes": "blocked_size: Drive 'invest/Master_Mind_Of_Day_Trading_How_To_Make_Money_in_Intraday_Trading.pdf', 8.98 MB (8,977,500 bytes). Author Nataraj Malavade (copyright 2020; Market Profile + price action, intraday). download_file_content closed the connector connection (2026-10-11). read_file_content returned only ~59.8K chars, ending mid-section 4.8 'Non-trend day'; Chapters 5 (strategies, exits) and 6 (statistics, position sizing) missing, so no spec was written. Needs laptop download.",
+  "completed_at": "2026-10-11 15:28"
+ },
+ "vivek_price_in_time": {
+  "status": "blocked_size",
+  "file_id": "1oGixI1eiqDwPfTTIUgstR9Q-Y4watoiB",
+  "coverage": "not read in full: connector text view truncated at printed p. 80",
+  "notes": "blocked_size: Drive 'invest/The_Price_In_Time_A_Powerfull_High_Profitability_Day_Trading_Method.pdf', 7.14 MB (7,142,387 bytes). Author is Gabriele Fabris (copyright 2020, forex day trading, @gabry_trader_fx), not 'Vivek'. Not attempted via download_file_content (7.07 MB files broke the connector twice). read_file_content returned ~59.0K chars ending at printed p. 80 ('The timeframe does not count'); the trading plan, CHECKLIST, money management, position sizing and risk-reward chapters (printed pp. 84-100+) are missing, so no spec was written. Needs laptop download.",
+  "completed_at": "2026-10-11 15:28"
  }
 }

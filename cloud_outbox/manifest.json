@@ -574,34 +574,6 @@
   "completed_at": "2026-10-11 14:36"
  },
  {
-  "key": "unknown_master_mind_day_trading",
-  "title": "Master Mind of Day Trading: How to Make Money in Intraday Trading",
-  "author": "author to confirm",
-  "drive_path": "invest/Master_Mind_Of_Day_Trading_How_To_Make_Money_in_Intraday_Trading.pdf",
-  "status": "todo",
-  "priority": "L",
-  "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
- },
- {
-  "key": "vivek_price_in_time",
-  "title": "The Price in Time: A Powerful High-Profitability Day Trading Method",
-  "author": "author to confirm",
-  "drive_path": "invest/The_Price_In_Time_A_Powerfull_High_Profitability_Day_Trading_Method.pdf ; Phone Backup Aug 2025/WhatsApp Documents/Sent/(same)",
-  "status": "todo",
-  "priority": "L",
-  "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
- },
- {
   "key": "unknown_rule_book_safest_trader",
   "title": "Rule Book Safest Trader",
   "author": "unknown (Indian)",
@@ -1244,6 +1216,34 @@
   "citations_checked": 0,
   "coverage": "not read: connector download failed twice",
   "completed_at": "2026-10-11 13:42"
+ },
+ {
+  "key": "unknown_master_mind_day_trading",
+  "title": "Master Mind of Day Trading: How to Make Money in Intraday Trading",
+  "author": "author to confirm",
+  "drive_path": "invest/Master_Mind_Of_Day_Trading_How_To_Make_Money_in_Intraday_Trading.pdf",
+  "status": "blocked_size",
+  "priority": "L",
+  "page_basis": "",
+  "strategies": 0,
+  "citations_ok": 0,
+  "citations_checked": 0,
+  "coverage": "not read: full download breaks the connector; connector text view truncated mid-Chapter 4",
+  "completed_at": "2026-10-11 15:28"
+ },
+ {
+  "key": "vivek_price_in_time",
+  "title": "The Price in Time: A Powerful High-Profitability Day Trading Method",
+  "author": "author to confirm",
+  "drive_path": "invest/The_Price_In_Time_A_Powerfull_High_Profitability_Day_Trading_Method.pdf ; Phone Backup Aug 2025/WhatsApp Documents/Sent/(same)",
+  "status": "blocked_size",
+  "priority": "L",
+  "page_basis": "",
+  "strategies": 0,
+  "citations_ok": 0,
+  "citations_checked": 0,
+  "coverage": "not read in full: connector text view truncated at printed p. 80",
+  "completed_at": "2026-10-11 15:28"
  },
  {
   "key": "rayner_fibonacci_docx",
