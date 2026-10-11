@@ -550,14 +550,14 @@
   "title": "Balu Sir course notes (SD 10 Apr 22, Pivot) + pivot.xlsx",
   "author": "Balu Sir",
   "drive_path": "invest/SD balu Sir 10 apr 22.pdf ; invest/pivot balu sir.pdf ; invest/pivot.xlsx",
-  "status": "todo",
+  "status": "done",
   "priority": "M",
   "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
+  "strategies": 5,
+  "citations_ok": 37,
+  "citations_checked": 37,
+  "coverage": "[[PAGE 1]]-[[PAGE 54]] read in full (SD deck pp.1-50, pivot note pp.51-53, pivot.xlsx p.54; Sonnet sub-agent, coordinator checked); 18 slide pages image-only (7,21,24,25,31,32,36-46,53)",
+  "completed_at": "2026-10-11 14:31"
  },
  {
   "key": "zerodha_varsity_notes",

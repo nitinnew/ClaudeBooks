@@ -600,5 +600,15 @@
   "coverage": "not read: connector download failed twice",
   "notes": "blocked_size: Drive 'invest/edit_Support and Resistance Trading Strategy.pdf', 7.07 MB (7,074,816 bytes); under the 10 MB limit but the base64 response broke the connector connection on 2 attempts (2026-10-11). Not retrying; needs laptop download.",
   "completed_at": "2026-10-11 13:42"
+ },
+ "balu_sir_sd_pivot_notes": {
+  "status": "done",
+  "strategies": 5,
+  "citations_ok": 37,
+  "citations_checked": 37,
+  "file_id": "1hD5g0CrKCa4z4PT8YQO3XoUPazM0xMVV + 1eSIXDds2IVuz04PJAJdWirrPz98HIgTY + 1eYLVlY7ndNo826HXXmJEJiEsNGVKJ4d3",
+  "pages": "54",
+  "coverage": "[[PAGE 1]]-[[PAGE 54]] read in full (SD deck pp.1-50, pivot note pp.51-53, pivot.xlsx p.54; Sonnet sub-agent, coordinator checked); 18 slide pages image-only (7,21,24,25,31,32,36-46,53)",
+  "completed_at": "2026-10-11 14:31"
  }
 }
