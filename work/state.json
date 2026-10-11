@@ -230,7 +230,15 @@
   "completed_at": "2026-10-03 12:50"
  },
  "unknown_vwap_pdf": {
-  "notes": "Drive file is 1.62 MB (1,621,144 bytes), not the ~826 KB Riyank VWAP/AVWAP slides, so not the laptop copy (correction 2)."
+  "notes": "Drive file is 1.62 MB (1,621,144 bytes), not the ~826 KB Riyank VWAP/AVWAP slides, so not the laptop copy (correction 2).",
+  "status": "done",
+  "strategies": 4,
+  "citations_ok": 14,
+  "citations_checked": 14,
+  "file_id": "1ZVX0ArMSZQetYJefUVK67OpAQL0TZHZT",
+  "pages": "8",
+  "coverage": "[[PAGE 1]]-[[PAGE 8]] read in full (Sonnet sub-agent; coordinator read full text); p.8 header only; breakout/reversal rules on p.4 are chart-only; authors Jitendra Jain & Yogesh Nanda; needs intraday data",
+  "completed_at": "2026-10-11 13:44"
  },
  "telegram_files_oct21": {
   "status": "todo",

@@ -536,14 +536,14 @@
   "title": "VWAP pdf",
   "author": "author to confirm",
   "drive_path": "invest/VWAP pdf.pdf",
-  "status": "todo",
+  "status": "done",
   "priority": "M",
   "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
+  "strategies": 4,
+  "citations_ok": 14,
+  "citations_checked": 14,
+  "coverage": "[[PAGE 1]]-[[PAGE 8]] read in full (Sonnet sub-agent; coordinator read full text); p.8 header only; breakout/reversal rules on p.4 are chart-only; authors Jitendra Jain & Yogesh Nanda; needs intraday data",
+  "completed_at": "2026-10-11 13:44"
  },
  {
   "key": "balu_sir_sd_pivot_notes",
