@@ -577,5 +577,13 @@
   "pages": "9",
   "coverage": "[[PAGE 1]]-[[PAGE 9]] read in full (Sonnet sub-agent; coordinator read full text); short machine-translated note, charts image-only, no parameters given",
   "completed_at": "2026-10-11 13:40"
+ },
+ "babu_rao_volume_scanner": {
+  "status": "not_strategy_source",
+  "strategies": 0,
+  "file_id": "1TXH1kTaOzKBeylpPZdglBZWFulmcFWC3 + 1QgJW8s41mxcaM5FEz5UyPG7MIc_SekP1",
+  "coverage": "both xlsx copies read in full (1 sheet each): scanner output snapshots only, no scan criteria or rules",
+  "notes": "not_strategy_source: both files are exported scan results, not a scanner definition. Main file (15 KB): 2 rows (CENTRALBK +5.55%, PAYTM +4.77%); '-1' copy (17 KB): 8 rows (PSB, CENTRALBK, GRAVITA, PATELENG, IOB, CUMMINSIND, PAYTM, HFCL; +4.1% to +7.0%). Columns: Sr., Stock Name, Symbol, Links ('P&F | F.A'), % Chg, Price, Volume. No filter conditions, thresholds or dates stated, so nothing to extract (read 2026-10-11).",
+  "completed_at": "2026-10-11 13:41"
  }
 }

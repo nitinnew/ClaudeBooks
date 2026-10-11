@@ -532,20 +532,6 @@
   "completed_at": "2026-10-11 13:40"
  },
  {
-  "key": "babu_rao_volume_scanner",
-  "title": "BABU RAO volume scanner / Technical Analysis Scanner",
-  "author": "unknown",
-  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/BABU RAO volume scanner, Technical Analysis Scanner.xlsx (+ '-1' copy)",
-  "status": "todo",
-  "priority": "M",
-  "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
- },
- {
   "key": "unknown_edit_support_resistance",
   "title": "Support and Resistance Trading Strategy",
   "author": "author to confirm",
@@ -1636,6 +1622,20 @@
   "citations_checked": 0,
   "coverage": "",
   "completed_at": ""
+ },
+ {
+  "key": "babu_rao_volume_scanner",
+  "title": "BABU RAO volume scanner / Technical Analysis Scanner",
+  "author": "unknown",
+  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/BABU RAO volume scanner, Technical Analysis Scanner.xlsx (+ '-1' copy)",
+  "status": "not_strategy_source",
+  "priority": "M",
+  "page_basis": "",
+  "strategies": 0,
+  "citations_ok": 0,
+  "citations_checked": 0,
+  "coverage": "both xlsx copies read in full (1 sheet each): scanner output snapshots only, no scan criteria or rules",
+  "completed_at": "2026-10-11 13:41"
  },
  {
   "key": "options_strategy_material",
