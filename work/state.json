@@ -547,5 +547,15 @@
   "coverage": "not read: 12.0 MB PDF exceeds the 10 MB connector download limit",
   "completed_at": "2026-10-11 13:25",
   "notes": "blocked_size: Drive 'Candlestick Charting For Dummies ( PDFDrive ).pdf', 12.03 MB (12,033,059 bytes); connector refused: over 10 MB limit (2026-10-11). Not retrying."
+ },
+ "sadekar_candlestick_charts": {
+  "status": "done",
+  "strategies": 15,
+  "citations_ok": 49,
+  "citations_checked": 49,
+  "file_id": "16aDMFz-ocVhV-2zHij5qK0LT5-4JSePa",
+  "pages": "399",
+  "coverage": "[[PAGE 1]]-[[PAGE 399]] read in full (Sonnet sub-agent, coordinator checked); pp.1,10,169,246,379 empty; charts image-only; index not in file",
+  "completed_at": "2026-10-11 13:31"
  }
 }
