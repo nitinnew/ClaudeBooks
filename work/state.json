@@ -634,5 +634,16 @@
   "coverage": "not read in full: connector text view truncated at printed p. 80",
   "notes": "blocked_size: Drive 'invest/The_Price_In_Time_A_Powerfull_High_Profitability_Day_Trading_Method.pdf', 7.14 MB (7,142,387 bytes). Author is Gabriele Fabris (copyright 2020, forex day trading, @gabry_trader_fx), not 'Vivek'. Not attempted via download_file_content (7.07 MB files broke the connector twice). read_file_content returned ~59.0K chars ending at printed p. 80 ('The timeframe does not count'); the trading plan, CHECKLIST, money management, position sizing and risk-reward chapters (printed pp. 84-100+) are missing, so no spec was written. Needs laptop download.",
   "completed_at": "2026-10-11 15:28"
+ },
+ "unknown_rule_book_safest_trader": {
+  "status": "done",
+  "strategies": 5,
+  "citations_ok": 20,
+  "citations_checked": 20,
+  "file_id": "1X5aZxz0TcDQ1xik41pJ4WNrpCCkXNMia",
+  "pages": "14",
+  "text_layer": "no_google_ocr_via_connector",
+  "coverage": "[[PAGE 1]]-[[PAGE 14]] read in full (handwritten scan; Google OCR text, page breaks aligned by coordinator; Sonnet sub-agent, coordinator checked); p.14 duplicates p.7; diagrams lost",
+  "completed_at": "2026-10-11 15:32"
  }
 }

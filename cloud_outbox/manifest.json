@@ -578,14 +578,14 @@
   "title": "Rule Book Safest Trader",
   "author": "unknown (Indian)",
   "drive_path": "invest/RULE BOOK SAFEST TRADER.pdf ; Phone Backup Aug 2025/WhatsApp Documents/Sent/DOC-20231229-WA0232",
-  "status": "todo",
+  "status": "done",
   "priority": "L",
   "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
+  "strategies": 5,
+  "citations_ok": 20,
+  "citations_checked": 20,
+  "coverage": "[[PAGE 1]]-[[PAGE 14]] read in full (handwritten scan; Google OCR text, page breaks aligned by coordinator; Sonnet sub-agent, coordinator checked); p.14 duplicates p.7; diagrams lost",
+  "completed_at": "2026-10-11 15:32"
  },
  {
   "key": "unknown_lazy_river_scalping",
