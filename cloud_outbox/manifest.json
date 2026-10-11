@@ -532,20 +532,6 @@
   "completed_at": "2026-10-11 13:40"
  },
  {
-  "key": "unknown_edit_support_resistance",
-  "title": "Support and Resistance Trading Strategy",
-  "author": "author to confirm",
-  "drive_path": "invest/edit_Support and Resistance Trading Strategy.pdf",
-  "status": "todo",
-  "priority": "M",
-  "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
- },
- {
   "key": "unknown_vwap_pdf",
   "title": "VWAP pdf",
   "author": "author to confirm",
@@ -1244,6 +1230,20 @@
   "citations_checked": 0,
   "coverage": "not read: 12.0 MB PDF exceeds the 10 MB connector download limit",
   "completed_at": "2026-10-11 13:25"
+ },
+ {
+  "key": "unknown_edit_support_resistance",
+  "title": "Support and Resistance Trading Strategy",
+  "author": "author to confirm",
+  "drive_path": "invest/edit_Support and Resistance Trading Strategy.pdf",
+  "status": "blocked_size",
+  "priority": "M",
+  "page_basis": "",
+  "strategies": 0,
+  "citations_ok": 0,
+  "citations_checked": 0,
+  "coverage": "not read: connector download failed twice",
+  "completed_at": "2026-10-11 13:42"
  },
  {
   "key": "rayner_fibonacci_docx",

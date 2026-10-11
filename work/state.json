@@ -585,5 +585,12 @@
   "coverage": "both xlsx copies read in full (1 sheet each): scanner output snapshots only, no scan criteria or rules",
   "notes": "not_strategy_source: both files are exported scan results, not a scanner definition. Main file (15 KB): 2 rows (CENTRALBK +5.55%, PAYTM +4.77%); '-1' copy (17 KB): 8 rows (PSB, CENTRALBK, GRAVITA, PATELENG, IOB, CUMMINSIND, PAYTM, HFCL; +4.1% to +7.0%). Columns: Sr., Stock Name, Symbol, Links ('P&F | F.A'), % Chg, Price, Volume. No filter conditions, thresholds or dates stated, so nothing to extract (read 2026-10-11).",
   "completed_at": "2026-10-11 13:41"
+ },
+ "unknown_edit_support_resistance": {
+  "status": "blocked_size",
+  "file_id": "1BLKqJFReKfKLzdomfu8IiCKyrbDizheB",
+  "coverage": "not read: connector download failed twice",
+  "notes": "blocked_size: Drive 'invest/edit_Support and Resistance Trading Strategy.pdf', 7.07 MB (7,074,816 bytes); under the 10 MB limit but the base64 response broke the connector connection on 2 attempts (2026-10-11). Not retrying; needs laptop download.",
+  "completed_at": "2026-10-11 13:42"
  }
 }
