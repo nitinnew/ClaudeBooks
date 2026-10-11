@@ -567,5 +567,15 @@
   "pages": "45",
   "coverage": "[[PAGE 1]]-[[PAGE 45]] read in full (Sonnet sub-agent, coordinator checked); p.40 header only; author Nigel Hawkes / Hawkeye Traders LLC; core indicator proprietary",
   "completed_at": "2026-10-11 13:34"
+ },
+ "unknown_bollinger_practical": {
+  "status": "done",
+  "strategies": 4,
+  "citations_ok": 9,
+  "citations_checked": 9,
+  "file_id": "1nuLXtpfhmbAkbFWtYqI-G5YyCEt34s72",
+  "pages": "9",
+  "coverage": "[[PAGE 1]]-[[PAGE 9]] read in full (Sonnet sub-agent; coordinator read full text); short machine-translated note, charts image-only, no parameters given",
+  "completed_at": "2026-10-11 13:40"
  }
 }
