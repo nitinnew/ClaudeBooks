@@ -675,5 +675,15 @@
   "pages": "11",
   "coverage": "[[PAGE 1]]-[[PAGE 11]] read in full (Sonnet sub-agent; coordinator read full text); p.2 empty, pp.4,7,9 video links only (videos unavailable), p.11 disclaimer; indicator setup only, no entry/exit rules",
   "completed_at": "2026-10-11 15:45"
+ },
+ "unknown_investment_journey_thesis": {
+  "status": "done",
+  "strategies": 2,
+  "citations_ok": 13,
+  "citations_checked": 13,
+  "file_id": "1E0JuifndNgZ6ng9JI6qHWjF7ABOz9f5k",
+  "pages": "13",
+  "coverage": "[[PAGE 1]]-[[PAGE 13]] read in full (Sonnet sub-agent, coordinator checked); p.13 empty, p.12 disclaimer; personal notes, author not stated; mostly qualitative",
+  "completed_at": "2026-10-12 15:28"
  }
 }
