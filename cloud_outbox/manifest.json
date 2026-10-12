@@ -676,14 +676,14 @@
   "title": "Interview Ronak (Moneycontrol)",
   "author": "Ronak (to confirm)",
   "drive_path": "invest/Interview Ronak_Moneycontrol (1).pdf",
-  "status": "todo",
+  "status": "done",
   "priority": "L",
   "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
+  "strategies": 2,
+  "citations_ok": 15,
+  "citations_checked": 15,
+  "coverage": "[[PAGE 1]]-[[PAGE 5]] read in full (Sonnet sub-agent; coordinator read full text); p.3 screenshot not in text; index options/OI method, not testable on our data; surname not stated",
+  "completed_at": "2026-10-12 15:51"
  },
  {
   "key": "mukherjea_interview_notes",

@@ -706,5 +706,15 @@
   "pages": "8",
   "coverage": "[[PAGE 1]]-[[PAGE 8]] read in full (Sonnet sub-agent; coordinator read full text); attendee notes of a Samit Vartak talk (file says Samir); fundamentals forward-test only",
   "completed_at": "2026-10-12 15:48"
+ },
+ "ronak_moneycontrol_interview": {
+  "status": "done",
+  "strategies": 2,
+  "citations_ok": 15,
+  "citations_checked": 15,
+  "file_id": "1zhBDpVWqcAmTd3Bt6_MRjO6b9Z_dNS1-",
+  "pages": "5",
+  "coverage": "[[PAGE 1]]-[[PAGE 5]] read in full (Sonnet sub-agent; coordinator read full text); p.3 screenshot not in text; index options/OI method, not testable on our data; surname not stated",
+  "completed_at": "2026-10-12 15:51"
  }
 }
