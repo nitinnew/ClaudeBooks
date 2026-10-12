@@ -726,5 +726,16 @@
   "pages": "30",
   "coverage": "[[PAGE 1]]-[[PAGE 30]] read in full (Sonnet sub-agent, coordinator checked); notes by Venkatesh Jayaraman of 3 Mukherjea talks; fundamentals forward-test only",
   "completed_at": "2026-10-12 16:21"
+ },
+ "indicator_code_notes": {
+  "status": "done",
+  "strategies": 4,
+  "citations_ok": 30,
+  "citations_checked": 30,
+  "file_id": "1tQ7H4ZfV2YEea6sOg_IG7yE0zZj9cQm- + 19MWty88G8nTO2ejbuvpYTLa_I0f1nXJoX1sXlhP1XgI + 1roDnP1RSQPOYTixLZf7bz2VXH5nf8-D7qmwITbCDcmo + 1N2YiXyScMp8hagOKpMLMycxGFLCO_aHLit8Ic2a2rDQ + 1btHVMfm_39JjsCggm-zCd179LpxOM36x",
+  "pages": "5",
+  "page_basis": "files",
+  "coverage": "all 5 files read (one page per file; UI-only Pine code omitted by coordinator; Sonnet sub-agent, coordinator checked); indicators only, no written strategy; vkcash is a watchlist",
+  "completed_at": "2026-10-12 16:26"
  }
 }

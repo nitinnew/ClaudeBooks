@@ -704,14 +704,14 @@
   "title": "Indicator code/notes: TTM squeeze clone, ALL PURPOSE INDICATORS, BB with SD, VWAP with SD BANDS, vkcash.txt",
   "author": "various (LazyBear etc.)",
   "drive_path": "invest/TTM squeeze clone [LazyBear].txt ; Copy of ALL PURPOSE INDICATORS ; Copy of BB with SD ; Copy of VWAP with SD BANDS ; vkcash (7).txt",
-  "status": "todo",
+  "status": "done",
   "priority": "L",
-  "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
+  "page_basis": "files",
+  "strategies": 4,
+  "citations_ok": 30,
+  "citations_checked": 30,
+  "coverage": "all 5 files read (one page per file; UI-only Pine code omitted by coordinator; Sonnet sub-agent, coordinator checked); indicators only, no written strategy; vkcash is a watchlist",
+  "completed_at": "2026-10-12 16:26"
  },
  {
   "key": "nifty500_gann_sheet",
