@@ -648,14 +648,14 @@
   "title": "Twitter threads: @AdityaTodmal, @niki_poojary",
   "author": "Aditya Todmal; Niki Poojary",
   "drive_path": "invest/Thread by @AdityaTodmal... ; invest/Thread by @niki_poojary... (mhtml)",
-  "status": "todo",
+  "status": "done",
   "priority": "L",
-  "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
+  "page_basis": "tweets",
+  "strategies": 3,
+  "citations_ok": 25,
+  "citations_checked": 25,
+  "coverage": "[[PAGE 1]]-[[PAGE 52]] read in full (mhtml decoded by coordinator, one page per tweet; Sonnet sub-agent, coordinator checked); screenshot images holding most detailed rules not captured; index options, not testable on our data",
+  "completed_at": "2026-10-12 15:32"
  },
  {
   "key": "vartak_session",

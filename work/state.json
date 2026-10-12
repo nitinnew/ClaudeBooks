@@ -685,5 +685,16 @@
   "pages": "13",
   "coverage": "[[PAGE 1]]-[[PAGE 13]] read in full (Sonnet sub-agent, coordinator checked); p.13 empty, p.12 disclaimer; personal notes, author not stated; mostly qualitative",
   "completed_at": "2026-10-12 15:28"
+ },
+ "todmal_poojary_threads": {
+  "status": "done",
+  "strategies": 3,
+  "citations_ok": 25,
+  "citations_checked": 25,
+  "file_id": "1OrPvyyaT2MJG1mcpkxPLdF23QpB8-bCI + 1OnWGWV6WczggXetr6C12q-u6xy8qGyW7",
+  "pages": "52",
+  "page_basis": "tweets",
+  "coverage": "[[PAGE 1]]-[[PAGE 52]] read in full (mhtml decoded by coordinator, one page per tweet; Sonnet sub-agent, coordinator checked); screenshot images holding most detailed rules not captured; index options, not testable on our data",
+  "completed_at": "2026-10-12 15:32"
  }
 }
