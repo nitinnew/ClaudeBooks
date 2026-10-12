@@ -696,5 +696,15 @@
   "page_basis": "tweets",
   "coverage": "[[PAGE 1]]-[[PAGE 52]] read in full (mhtml decoded by coordinator, one page per tweet; Sonnet sub-agent, coordinator checked); screenshot images holding most detailed rules not captured; index options, not testable on our data",
   "completed_at": "2026-10-12 15:32"
+ },
+ "vartak_session": {
+  "status": "done",
+  "strategies": 1,
+  "citations_ok": 29,
+  "citations_checked": 29,
+  "file_id": "1mDbnwK2sQwKyzipwh0JGup2QGngn79qC",
+  "pages": "8",
+  "coverage": "[[PAGE 1]]-[[PAGE 8]] read in full (Sonnet sub-agent; coordinator read full text); attendee notes of a Samit Vartak talk (file says Samir); fundamentals forward-test only",
+  "completed_at": "2026-10-12 15:48"
  }
 }
