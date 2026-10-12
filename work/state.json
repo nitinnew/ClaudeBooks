@@ -716,5 +716,15 @@
   "pages": "5",
   "coverage": "[[PAGE 1]]-[[PAGE 5]] read in full (Sonnet sub-agent; coordinator read full text); p.3 screenshot not in text; index options/OI method, not testable on our data; surname not stated",
   "completed_at": "2026-10-12 15:51"
+ },
+ "mukherjea_interview_notes": {
+  "status": "done",
+  "strategies": 7,
+  "citations_ok": 31,
+  "citations_checked": 31,
+  "file_id": "1gbOcJXvfcIUhjOfqROWJk3vtyIqjSDmW",
+  "pages": "30",
+  "coverage": "[[PAGE 1]]-[[PAGE 30]] read in full (Sonnet sub-agent, coordinator checked); notes by Venkatesh Jayaraman of 3 Mukherjea talks; fundamentals forward-test only",
+  "completed_at": "2026-10-12 16:21"
  }
 }
