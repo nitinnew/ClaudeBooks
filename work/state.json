@@ -756,5 +756,15 @@
   "coverage": "xlsx read in full via Drive text view (1 sheet): empty data-collection template, no results and no rules",
   "notes": "not_strategy_source: 'Momentum before & after expiry.xlsx' (21 KB) is an unfilled study template, not a strategy. Layout: Stockname RELIANCE; for each monthly F&O expiry from 29 Apr 2021 to 31 Mar 2022 (12 expiries) it lists the expiry date, the date 5 trading days before and 5 after, with columns OPEN/High/Low/Close (GOOGLEFINANCE, all showing 'Loading...'), HIGH MINUS LOW (#VALUE!), 'Obove 200 SMA YES / NO' (only the first row says 'Yes'), and ATM CALL / ATM PUT rows to be entered manually (blank, 0.00). Notes in the sheet: date format mm dd yy; ATM call/put data to add manually; data pulled from Google Finance. No hypothesis is stated in words, no results were ever filled in, and no entry/exit rule exists, so nothing to extract. The implied study (price range and ATM option premiums 5 days before vs after monthly expiry, split by above/below 200-day SMA) could be rebuilt on our daily data for the price part only (no options data). Read 2026-10-16.",
   "completed_at": "2026-10-16 16:18"
+ },
+ "nifty_tweets_record": {
+  "status": "done",
+  "strategies": 1,
+  "citations_ok": 19,
+  "citations_checked": 19,
+  "file_id": "1q26P2leHHP3wLGeaKNPMRNa73VIIjmnJ",
+  "pages": "55",
+  "coverage": "[[PAGE 55]] (all 1388 lines; RapidOCR of screenshots; 1 partly codable level-trigger set + non-codable 33-call track record)",
+  "completed_at": "2026-10-16 16:26"
  }
 }

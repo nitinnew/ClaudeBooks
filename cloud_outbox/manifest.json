@@ -732,14 +732,14 @@
   "title": "NIFTY Tweets 12 months record",
   "author": "unknown",
   "drive_path": "invest/NIFTY Tweets 12 months record.pdf",
-  "status": "todo",
+  "status": "done",
   "priority": "L",
   "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
+  "strategies": 1,
+  "citations_ok": 19,
+  "citations_checked": 19,
+  "coverage": "[[PAGE 55]] (all 1388 lines; RapidOCR of screenshots; 1 partly codable level-trigger set + non-codable 33-call track record)",
+  "completed_at": "2026-10-16 16:26"
  },
  {
   "key": "investopedia_tools_of_trade",
