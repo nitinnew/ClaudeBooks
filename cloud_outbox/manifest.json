@@ -728,20 +728,6 @@
   "completed_at": "2026-10-16 16:18"
  },
  {
-  "key": "momentum_expiry_sheet",
-  "title": "Momentum before & after expiry",
-  "author": "unknown",
-  "drive_path": "invest/Momentum before & after expiry.xlsx",
-  "status": "todo",
-  "priority": "L",
-  "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
- },
- {
   "key": "nifty_tweets_record",
   "title": "NIFTY Tweets 12 months record",
   "author": "unknown",
@@ -1636,6 +1622,20 @@
   "citations_checked": 0,
   "coverage": "both xlsx copies read in full (1 sheet each): scanner output snapshots only, no scan criteria or rules",
   "completed_at": "2026-10-11 13:41"
+ },
+ {
+  "key": "momentum_expiry_sheet",
+  "title": "Momentum before & after expiry",
+  "author": "unknown",
+  "drive_path": "invest/Momentum before & after expiry.xlsx",
+  "status": "not_strategy_source",
+  "priority": "L",
+  "page_basis": "",
+  "strategies": 0,
+  "citations_ok": 0,
+  "citations_checked": 0,
+  "coverage": "xlsx read in full via Drive text view (1 sheet): empty data-collection template, no results and no rules",
+  "completed_at": "2026-10-16 16:18"
  },
  {
   "key": "options_strategy_material",
