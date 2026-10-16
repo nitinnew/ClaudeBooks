@@ -793,5 +793,15 @@
   "pages": "11",
   "coverage": "[[PAGE 11]] (all 177 lines; Drive plain-text rendering split into 11 article sections; images and %D formula absent)",
   "completed_at": "2026-10-16 18:58"
+ },
+ "burns_trading_habits": {
+  "status": "done",
+  "strategies": 5,
+  "citations_ok": 26,
+  "citations_checked": 26,
+  "file_id": "1wQTiSuP_IBLpYUfjOgo_32LPuj0V9OCa",
+  "pages": "64",
+  "coverage": "[[PAGE 64]] (all 1254 lines; pp. 1, 6, 49 blank image pages)",
+  "completed_at": "2026-10-16 19:00"
  }
 }
