@@ -718,14 +718,14 @@
   "title": "Copy of NIFTY 500 GANN",
   "author": "unknown",
   "drive_path": "invest/Copy of NIFTY 500 GANN (Google Sheet)",
-  "status": "todo",
+  "status": "done",
   "priority": "L",
-  "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
+  "page_basis": "sheets",
+  "strategies": 4,
+  "citations_ok": 36,
+  "citations_checked": 36,
+  "coverage": "both sheets read (xlsx export dumped cell by cell; Nifty500 rows 12-504 summarised as a repeated per-stock pattern; Sonnet sub-agent, coordinator checked); index-futures point offsets, no futures data",
+  "completed_at": "2026-10-16 16:18"
  },
  {
   "key": "momentum_expiry_sheet",

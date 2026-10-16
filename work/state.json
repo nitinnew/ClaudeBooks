@@ -737,5 +737,16 @@
   "page_basis": "files",
   "coverage": "all 5 files read (one page per file; UI-only Pine code omitted by coordinator; Sonnet sub-agent, coordinator checked); indicators only, no written strategy; vkcash is a watchlist",
   "completed_at": "2026-10-12 16:26"
+ },
+ "nifty500_gann_sheet": {
+  "status": "done",
+  "strategies": 4,
+  "citations_ok": 36,
+  "citations_checked": 36,
+  "file_id": "1ukiWAJMdp_lA_L7v25-2Lpo6idcbdOYMa4wHPLYju8E",
+  "pages": "2",
+  "page_basis": "sheets",
+  "coverage": "both sheets read (xlsx export dumped cell by cell; Nifty500 rows 12-504 summarised as a repeated per-stock pattern; Sonnet sub-agent, coordinator checked); index-futures point offsets, no futures data",
+  "completed_at": "2026-10-16 16:18"
  }
 }

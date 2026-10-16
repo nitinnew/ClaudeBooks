@@ -1,0 +1,3 @@
+
+quotes checked: 4  ok: 4  wrong page: 0  not found: 0
+coordinator exact-page check of quoted cell lines ("..." [p. N]): quoted lines ok 36 wrong 0 notfound 0
