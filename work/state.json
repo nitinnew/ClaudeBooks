@@ -783,5 +783,15 @@
   "coverage": "not read: both items are Drive shortcuts whose targets the connector cannot reach",
   "notes": "blocked_shortcut: both files in invest/ are Google Drive shortcuts (mimeType application/vnd.google-apps.shortcut), 'Learnings from my investment career (Shankar Naren)_Oct2021.pdf' (1aH6Jsam0AMKfbSe3yaykthJ51vuapS04, created 2021-10-17) and 'A Contrarian Checklist.pdf' (1lIlDW1mQIiInlLfkuDKjNJpGvHSTyXFL, created 2021-10-16). The connector does not expose the shortcut target id; read_file_content on the shortcut returns title only (no content), download_file_content returns 'Download not allowed', and a Drive search for the target PDFs by title finds nothing (the targets were presumably shared files that are no longer shared or were removed). To process: open each shortcut in Drive and 'Make a copy' (or download and re-upload) the target PDF into invest/. Unrelated file noted: 'What Are We Worried About- - Sankaran Naren - IFA Galaxy 2025.pdf' (1dgkd2WVAKJv8wczEYa-e8G5BpMDS9SVn, 85 KB, different folder) is a different, later Naren deck and is not in the inventory. Checked 2026-10-16.",
   "completed_at": "2026-10-16 18:56"
+ },
+ "investopedia_tools_of_trade": {
+  "status": "done",
+  "strategies": 10,
+  "citations_ok": 37,
+  "citations_checked": 37,
+  "file_id": "1e2DW-wxiOC2zRacMNFvrBA3Ud8hyYiOe",
+  "pages": "11",
+  "coverage": "[[PAGE 11]] (all 177 lines; Drive plain-text rendering split into 11 article sections; images and %D formula absent)",
+  "completed_at": "2026-10-16 18:58"
  }
 }

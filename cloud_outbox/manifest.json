@@ -746,14 +746,14 @@
   "title": "Tools of the Trade (Investopedia compilation)",
   "author": "Investopedia",
   "drive_path": "invest/Tools of the Trade.docx",
-  "status": "todo",
+  "status": "done",
   "priority": "L",
   "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
+  "strategies": 10,
+  "citations_ok": 37,
+  "citations_checked": 37,
+  "coverage": "[[PAGE 11]] (all 177 lines; Drive plain-text rendering split into 11 article sections; images and %D formula absent)",
+  "completed_at": "2026-10-16 18:58"
  },
  {
   "key": "telegram_files_oct21",
