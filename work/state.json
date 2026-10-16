@@ -766,5 +766,22 @@
   "pages": "55",
   "coverage": "[[PAGE 55]] (all 1388 lines; RapidOCR of screenshots; 1 partly codable level-trigger set + non-codable 33-call track record)",
   "completed_at": "2026-10-16 16:26"
+ },
+ "cfa_society_seminar": {
+  "status": "not_strategy_source",
+  "strategies": 0,
+  "file_id": "1Niv4ezHZ3idH7d0zgez0EvJ0VzlqD26q",
+  "pages": "44",
+  "coverage": "PDF text layer read in full (44 slides, 545 lines, all pages have text; charts are images)",
+  "notes": "not_strategy_source: 'CFA-Society-Seminar.pdf' (4.26 MB, 44 slides) is a macro marketing deck by PineTree Macro / Aparna Investment Management for the Anantam International SPC Fund (global asset allocation fund), presented to CFA India Society on 11 Nov 2022 and marked 'Confidential/Not for Distribution'. Content: global liquidity thesis (pp. 2-11, 25-27: shrinking reserves, MOVE index ~50 vs ~150 reading p. 9, Powell Credibility Indicator p. 5), structural inflation themes (pp. 12-23), outlook (p. 38), fund pitch (pp. 39-42: US-listed ETFs/ETNs/stocks, annualised 10.53% gross since Oct 2018 vs benchmark -1.31%, Sharpe 0.96 p. 40; top holdings such as Uranium ETF, Berkshire Hathaway p. 41), disclaimer and contacts (pp. 43-44). The only rule-like content is the p. 36 'Investment Framework' quadrant map: Inflationary Bust (long cash in reserve currency, commodities; short bonds, financial assets), Inflationary Boom (long miners, gold, commodities, EM stocks, real estate, cyclicals; short US 10Y, USD), Deflationary Bust (long USD, DM long bond, gold; short EM, value, commodities, high yield), Deflationary Boom (long USD, high growth, DM bonds, moat companies; short EM, value). It gives no rule for identifying the current quadrant ('once you identify the quadrant you are in'), no thresholds, sizing or rebalancing, and the instruments are global ETFs/bonds/currencies outside our NSE equity data, so nothing codable to extract. Read 2026-10-16.",
+  "completed_at": "2026-10-16 18:56"
+ },
+ "naren_learnings_contrarian": {
+  "status": "blocked_shortcut",
+  "strategies": 0,
+  "file_id": "1aH6Jsam0AMKfbSe3yaykthJ51vuapS04 + 1lIlDW1mQIiInlLfkuDKjNJpGvHSTyXFL",
+  "coverage": "not read: both items are Drive shortcuts whose targets the connector cannot reach",
+  "notes": "blocked_shortcut: both files in invest/ are Google Drive shortcuts (mimeType application/vnd.google-apps.shortcut), 'Learnings from my investment career (Shankar Naren)_Oct2021.pdf' (1aH6Jsam0AMKfbSe3yaykthJ51vuapS04, created 2021-10-17) and 'A Contrarian Checklist.pdf' (1lIlDW1mQIiInlLfkuDKjNJpGvHSTyXFL, created 2021-10-16). The connector does not expose the shortcut target id; read_file_content on the shortcut returns title only (no content), download_file_content returns 'Download not allowed', and a Drive search for the target PDFs by title finds nothing (the targets were presumably shared files that are no longer shared or were removed). To process: open each shortcut in Drive and 'Make a copy' (or download and re-upload) the target PDF into invest/. Unrelated file noted: 'What Are We Worried About- - Sankaran Naren - IFA Galaxy 2025.pdf' (1dgkd2WVAKJv8wczEYa-e8G5BpMDS9SVn, 85 KB, different folder) is a different, later Naren deck and is not in the inventory. Checked 2026-10-16.",
+  "completed_at": "2026-10-16 18:56"
  }
 }

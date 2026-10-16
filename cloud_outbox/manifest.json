@@ -756,34 +756,6 @@
   "completed_at": ""
  },
  {
-  "key": "cfa_society_seminar",
-  "title": "CFA Society Seminar",
-  "author": "unknown",
-  "drive_path": "invest/CFA-Society-Seminar.pdf",
-  "status": "todo",
-  "priority": "L",
-  "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
- },
- {
-  "key": "naren_learnings_contrarian",
-  "title": "Learnings from my investment career (S. Naren) ; A Contrarian Checklist",
-  "author": "S. Naren (ICICI Pru AMC)",
-  "drive_path": "invest/(Drive shortcuts)",
-  "status": "todo",
-  "priority": "L",
-  "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
- },
- {
   "key": "telegram_files_oct21",
   "title": "Telegram files 5_6183711123267649981/82.pdf, 5_6134027418328891773.pptx, 5_6120919946940645703.pptx",
   "author": "unknown (likely Murthy sir course)",
@@ -1246,6 +1218,20 @@
   "completed_at": ""
  },
  {
+  "key": "naren_learnings_contrarian",
+  "title": "Learnings from my investment career (S. Naren) ; A Contrarian Checklist",
+  "author": "S. Naren (ICICI Pru AMC)",
+  "drive_path": "invest/(Drive shortcuts)",
+  "status": "blocked_shortcut",
+  "priority": "L",
+  "page_basis": "",
+  "strategies": 0,
+  "citations_ok": 0,
+  "citations_checked": 0,
+  "coverage": "not read: both items are Drive shortcuts whose targets the connector cannot reach",
+  "completed_at": "2026-10-16 18:56"
+ },
+ {
   "key": "hutson_wyckoff_charting",
   "title": "Charting the Stock Market: The Wyckoff Method",
   "author": "Jack Hutson (ed.)",
@@ -1636,6 +1622,20 @@
   "citations_checked": 0,
   "coverage": "xlsx read in full via Drive text view (1 sheet): empty data-collection template, no results and no rules",
   "completed_at": "2026-10-16 16:18"
+ },
+ {
+  "key": "cfa_society_seminar",
+  "title": "CFA Society Seminar",
+  "author": "unknown",
+  "drive_path": "invest/CFA-Society-Seminar.pdf",
+  "status": "not_strategy_source",
+  "priority": "L",
+  "page_basis": "",
+  "strategies": 0,
+  "citations_ok": 0,
+  "citations_checked": 0,
+  "coverage": "PDF text layer read in full (44 slides, 545 lines, all pages have text; charts are images)",
+  "completed_at": "2026-10-16 18:56"
  },
  {
   "key": "options_strategy_material",
