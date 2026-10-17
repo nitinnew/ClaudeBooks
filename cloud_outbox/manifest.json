@@ -910,6 +910,20 @@
   "completed_at": "2026-10-17 15:10"
  },
  {
+  "key": "dr_prashant_notes",
+  "title": "Dr Prashant notes (Chart Patterns, Candlestick Patterns)",
+  "author": "Dr Prashant",
+  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/Chart Patterns Notes by Dr Prashant.pdf ; Candlestick Patterns Notes by Dr Prashant.pdf",
+  "status": "done",
+  "priority": "L",
+  "page_basis": "",
+  "strategies": 29,
+  "citations_ok": 95,
+  "citations_checked": 95,
+  "coverage": "[[PAGE 17]] (both PDFs, column-aware OCR of page images; illustrations not in text)",
+  "completed_at": "2026-10-17 15:19"
+ },
+ {
   "key": "telegram_files_oct21",
   "title": "Telegram files 5_6183711123267649981/82.pdf, 5_6134027418328891773.pptx, 5_6120919946940645703.pptx",
   "author": "unknown (likely Murthy sir course)",
@@ -928,20 +942,6 @@
   "title": "The Basics of the Elliott Wave Principle",
   "author": "Robert Prechter",
   "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/The Basics Of Elliot Wave Principle - Robert R Prechter(1).pdf",
-  "status": "todo",
-  "priority": "L",
-  "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
- },
- {
-  "key": "dr_prashant_notes",
-  "title": "Dr Prashant notes (Chart Patterns, Candlestick Patterns)",
-  "author": "Dr Prashant",
-  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/Chart Patterns Notes by Dr Prashant.pdf ; Candlestick Patterns Notes by Dr Prashant.pdf",
   "status": "todo",
   "priority": "L",
   "page_basis": "",

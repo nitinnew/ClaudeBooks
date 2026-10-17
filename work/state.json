@@ -920,5 +920,15 @@
   "coverage": "[[PAGE 27]] (4 of 5 PDFs, all 456 lines; Intraday strategy PDF skipped_drm: password-protected)",
   "notes": "Four short ChartBank PDFs concatenated (Triangle pp.1-7, Flag pp.8-12, Cup and Handle pp.13-16, RSI divergence pp.17-27). skipped_drm: 'Intraday strategy by Chartbank (1).pdf' (1ePFFRkib8bZAG0dMrP6-2nh4P4tArfGC, 1.62 MB) is password-protected (needs a user password); not opened by any route, per the no-DRM rule. If the user has the password or an unprotected copy, it can be added as a separate item.",
   "completed_at": "2026-10-17 15:10"
+ },
+ "dr_prashant_notes": {
+  "status": "done",
+  "strategies": 29,
+  "citations_ok": 95,
+  "citations_checked": 95,
+  "file_id": "1vsHqoriAnfecrUby3m3c5ndcNty8A1ma + 12D68Ktz6RKWE--1vYfmPoz9BfXlQsXdF",
+  "pages": "17",
+  "coverage": "[[PAGE 17]] (both PDFs, column-aware OCR of page images; illustrations not in text)",
+  "completed_at": "2026-10-17 15:19"
  }
 }
