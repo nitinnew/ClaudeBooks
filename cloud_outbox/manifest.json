@@ -798,6 +798,20 @@
   "completed_at": "2026-10-17 03:40"
  },
  {
+  "key": "mccullough_master_market",
+  "title": "Master the Market",
+  "author": "Keith McCullough",
+  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/Private/Master The Market by Keith McCullough.pdf",
+  "status": "done",
+  "priority": "L",
+  "page_basis": "",
+  "strategies": 3,
+  "citations_ok": 34,
+  "citations_checked": 34,
+  "coverage": "[[PAGE 53]] (all 2042 lines; GIP quad and asset charts are images)",
+  "completed_at": "2026-10-17 14:25"
+ },
+ {
   "key": "telegram_files_oct21",
   "title": "Telegram files 5_6183711123267649981/82.pdf, 5_6134027418328891773.pptx, 5_6120919946940645703.pptx",
   "author": "unknown (likely Murthy sir course)",
@@ -816,34 +830,6 @@
   "title": "The Basics of the Elliott Wave Principle",
   "author": "Robert Prechter",
   "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/The Basics Of Elliot Wave Principle - Robert R Prechter(1).pdf",
-  "status": "todo",
-  "priority": "L",
-  "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
- },
- {
-  "key": "mccullough_master_market",
-  "title": "Master the Market",
-  "author": "Keith McCullough",
-  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/Private/Master The Market by Keith McCullough.pdf",
-  "status": "todo",
-  "priority": "L",
-  "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
- },
- {
-  "key": "durenard_automated_trading",
-  "title": "Professional Automated Trading: Theory and Practice",
-  "author": "Eugene Durenard",
-  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/Professional Automated Trading Theory and Practice (Eugene A. Durenard) (Z-Library).pdf",
   "status": "todo",
   "priority": "L",
   "page_basis": "",
@@ -1202,6 +1188,20 @@
   "citations_checked": 0,
   "coverage": "not read: file over connector size limit",
   "completed_at": "2026-10-17 03:29"
+ },
+ {
+  "key": "durenard_automated_trading",
+  "title": "Professional Automated Trading: Theory and Practice",
+  "author": "Eugene Durenard",
+  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/Professional Automated Trading Theory and Practice (Eugene A. Durenard) (Z-Library).pdf",
+  "status": "blocked_size",
+  "priority": "L",
+  "page_basis": "",
+  "strategies": 0,
+  "citations_ok": 0,
+  "citations_checked": 0,
+  "coverage": "not read: file over connector size limit",
+  "completed_at": "2026-10-17 14:21"
  },
  {
   "key": "rayner_fibonacci_docx",

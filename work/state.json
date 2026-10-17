@@ -831,5 +831,23 @@
   "pages": "271",
   "coverage": "[[PAGE 271]] (all 7960 lines incl. glossary/index; 6 blank and ~50 chart-caption-only pages)",
   "completed_at": "2026-10-17 03:40"
+ },
+ "durenard_automated_trading": {
+  "status": "blocked_size",
+  "strategies": 0,
+  "file_id": "1FKyi3pfMIBkqHVkxLNvD3ekG-3wWLEbg",
+  "coverage": "not read: file over connector size limit",
+  "notes": "blocked_size: 'Professional Automated Trading Theory and Practice (Eugene A. Durenard) (Z-Library).pdf' is 12.1 MB (12,146,757 bytes), above the ~7 MB size at which the Drive connector's binary download fails or the plain-text rendering truncates (~60K chars). Not attempted. To process: download locally and place in work/pdfs/ (or split into <7 MB parts). Checked 2026-10-17.",
+  "completed_at": "2026-10-17 14:21"
+ },
+ "mccullough_master_market": {
+  "status": "done",
+  "strategies": 3,
+  "citations_ok": 34,
+  "citations_checked": 34,
+  "file_id": "165yfJwceB6XcrIiuS1Broje6GDdwxPDc",
+  "pages": "53",
+  "coverage": "[[PAGE 53]] (all 2042 lines; GIP quad and asset charts are images)",
+  "completed_at": "2026-10-17 14:25"
  }
 }
