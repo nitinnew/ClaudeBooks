@@ -821,5 +821,15 @@
   "pages": "125",
   "coverage": "[[PAGE 125]] (all 2992 lines; p.1 blank, pp.97-105 chart-caption only)",
   "completed_at": "2026-10-17 03:34"
+ },
+ "mcdowell_elliott_simplified": {
+  "status": "done",
+  "strategies": 4,
+  "citations_ok": 40,
+  "citations_checked": 40,
+  "file_id": "1PcOlMW58zFWzxl9qAxikseqfw2OJT2i9",
+  "pages": "271",
+  "coverage": "[[PAGE 271]] (all 7960 lines incl. glossary/index; 6 blank and ~50 chart-caption-only pages)",
+  "completed_at": "2026-10-17 03:40"
  }
 }
