@@ -879,5 +879,15 @@
   "pages": "289",
   "coverage": "[[PAGE 289]] (all 11834 lines; divider pages blank; indexes moved through quickly)",
   "completed_at": "2026-10-17 14:54"
+ },
+ "unknown_trap_pattern": {
+  "status": "done",
+  "strategies": 2,
+  "citations_ok": 8,
+  "citations_checked": 8,
+  "file_id": "1gRWuVhjaiI0sHclrT_8gTg5jYlfcb5Le",
+  "pages": "5",
+  "coverage": "[[PAGE 5]] (all 117 lines; author Riyank Arora; example charts are images)",
+  "completed_at": "2026-10-17 14:59"
  }
 }

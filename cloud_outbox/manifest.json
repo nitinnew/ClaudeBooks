@@ -854,6 +854,20 @@
   "completed_at": "2026-10-17 14:54"
  },
  {
+  "key": "unknown_trap_pattern",
+  "title": "The Trap Pattern",
+  "author": "author to confirm",
+  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/The Trap Pattern.pdf",
+  "status": "done",
+  "priority": "L",
+  "page_basis": "",
+  "strategies": 2,
+  "citations_ok": 8,
+  "citations_checked": 8,
+  "coverage": "[[PAGE 5]] (all 117 lines; author Riyank Arora; example charts are images)",
+  "completed_at": "2026-10-17 14:59"
+ },
+ {
   "key": "telegram_files_oct21",
   "title": "Telegram files 5_6183711123267649981/82.pdf, 5_6134027418328891773.pptx, 5_6120919946940645703.pptx",
   "author": "unknown (likely Murthy sir course)",
@@ -872,20 +886,6 @@
   "title": "The Basics of the Elliott Wave Principle",
   "author": "Robert Prechter",
   "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/The Basics Of Elliot Wave Principle - Robert R Prechter(1).pdf",
-  "status": "todo",
-  "priority": "L",
-  "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
- },
- {
-  "key": "unknown_trap_pattern",
-  "title": "The Trap Pattern",
-  "author": "author to confirm",
-  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/The Trap Pattern.pdf",
   "status": "todo",
   "priority": "L",
   "page_basis": "",
