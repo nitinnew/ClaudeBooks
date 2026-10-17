@@ -896,6 +896,20 @@
   "completed_at": "2026-10-17 15:08"
  },
  {
+  "key": "chartbank_pattern_pdfs",
+  "title": "ChartBank pattern PDFs (Triangle, Flag, Cup and Handle, RSI divergence, Intraday strategy)",
+  "author": "Chart Bank",
+  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/Triangle chart pattern by Chart Bank Mv.pdf ; Flag pattern by Chartbank.pdf ; Cup and Handle pattern by ChartBank.pdf ; RSI divergence by Chartbank.pdf ; Intraday strategy by Chartbank (1).pdf",
+  "status": "done",
+  "priority": "L",
+  "page_basis": "",
+  "strategies": 8,
+  "citations_ok": 33,
+  "citations_checked": 33,
+  "coverage": "[[PAGE 27]] (4 of 5 PDFs, all 456 lines; Intraday strategy PDF skipped_drm: password-protected)",
+  "completed_at": "2026-10-17 15:10"
+ },
+ {
   "key": "telegram_files_oct21",
   "title": "Telegram files 5_6183711123267649981/82.pdf, 5_6134027418328891773.pptx, 5_6120919946940645703.pptx",
   "author": "unknown (likely Murthy sir course)",
@@ -914,20 +928,6 @@
   "title": "The Basics of the Elliott Wave Principle",
   "author": "Robert Prechter",
   "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/The Basics Of Elliot Wave Principle - Robert R Prechter(1).pdf",
-  "status": "todo",
-  "priority": "L",
-  "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
- },
- {
-  "key": "chartbank_pattern_pdfs",
-  "title": "ChartBank pattern PDFs (Triangle, Flag, Cup and Handle, RSI divergence, Intraday strategy)",
-  "author": "Chart Bank",
-  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/Triangle chart pattern by Chart Bank Mv.pdf ; Flag pattern by Chartbank.pdf ; Cup and Handle pattern by ChartBank.pdf ; RSI divergence by Chartbank.pdf ; Intraday strategy by Chartbank (1).pdf",
   "status": "todo",
   "priority": "L",
   "page_basis": "",
