@@ -811,5 +811,15 @@
   "coverage": "not read: file over connector size limit",
   "notes": "blocked_size: 'Mastering Elliott Wave_ Present - Glenn Neely.pdf' is 27.9 MB (27,910,801 bytes), about 4x the ~7 MB size at which the Drive connector's binary download fails or the plain-text rendering truncates (~60K chars). Not attempted to avoid a known-failing transfer. To process: download locally and place in work/pdfs/ (or split into <7 MB parts in Drive). Checked 2026-10-17.",
   "completed_at": "2026-10-17 03:29"
+ },
+ "burns_new_trader_rich_trader": {
+  "status": "done",
+  "strategies": 6,
+  "citations_ok": 27,
+  "citations_checked": 27,
+  "file_id": "1yab3KFzQmy4gyJcWh_Rp9l9_ADjrrnjj",
+  "pages": "125",
+  "coverage": "[[PAGE 125]] (all 2992 lines; p.1 blank, pp.97-105 chart-caption only)",
+  "completed_at": "2026-10-17 03:34"
  }
 }

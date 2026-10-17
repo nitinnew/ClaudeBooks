@@ -770,24 +770,24 @@
   "completed_at": "2026-10-16 19:00"
  },
  {
-  "key": "telegram_files_oct21",
-  "title": "Telegram files 5_6183711123267649981/82.pdf, 5_6134027418328891773.pptx, 5_6120919946940645703.pptx",
-  "author": "unknown (likely Murthy sir course)",
-  "drive_path": "invest/5_618371112326764998[12] ; 5_613402741832889177[3].pptx ; 5_6120919946940645703.pptx",
-  "status": "todo",
-  "priority": "L",
-  "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
- },
- {
   "key": "burns_new_trader_rich_trader",
   "title": "New Trader, Rich Trader",
   "author": "Steve Burns",
   "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/New-Trader-Rich-Trader-PDF.pdf",
+  "status": "done",
+  "priority": "L",
+  "page_basis": "",
+  "strategies": 6,
+  "citations_ok": 27,
+  "citations_checked": 27,
+  "coverage": "[[PAGE 125]] (all 2992 lines; p.1 blank, pp.97-105 chart-caption only)",
+  "completed_at": "2026-10-17 03:34"
+ },
+ {
+  "key": "telegram_files_oct21",
+  "title": "Telegram files 5_6183711123267649981/82.pdf, 5_6134027418328891773.pptx, 5_6120919946940645703.pptx",
+  "author": "unknown (likely Murthy sir course)",
+  "drive_path": "invest/5_618371112326764998[12] ; 5_613402741832889177[3].pptx ; 5_6120919946940645703.pptx",
   "status": "todo",
   "priority": "L",
   "page_basis": "",
