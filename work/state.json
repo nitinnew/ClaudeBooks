@@ -859,5 +859,15 @@
   "pages": "590",
   "coverage": "[[PAGE 590]] (all 15554 lines, 2010 edition; image tables missing incl. value-averaging table p.537; index moved through quickly)",
   "completed_at": "2026-10-17 14:37"
+ },
+ "garrett_torque_analysis": {
+  "status": "done",
+  "strategies": 6,
+  "citations_ok": 44,
+  "citations_checked": 44,
+  "file_id": "1INw0YylpktxJVDvSeZW9l2EZk1d2ZODj",
+  "pages": "243",
+  "coverage": "[[PAGE 243]] (all 13796 lines; RapidOCR of scanned pages; charts and Tables 4.1/4.2/6.1/6.2 OCR-scrambled)",
+  "completed_at": "2026-10-17 14:46"
  }
 }

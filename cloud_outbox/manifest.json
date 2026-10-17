@@ -812,6 +812,20 @@
   "completed_at": "2026-10-17 14:25"
  },
  {
+  "key": "garrett_torque_analysis",
+  "title": "Investing for Profit with Torque Analysis of Stock Market Cycles",
+  "author": "William C. Garrett",
+  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/William_C__Garrett_Investing_for.pdf",
+  "status": "done",
+  "priority": "L",
+  "page_basis": "",
+  "strategies": 6,
+  "citations_ok": 44,
+  "citations_checked": 44,
+  "coverage": "[[PAGE 243]] (all 13796 lines; RapidOCR of scanned pages; charts and Tables 4.1/4.2/6.1/6.2 OCR-scrambled)",
+  "completed_at": "2026-10-17 14:46"
+ },
+ {
   "key": "kelly_neatest_little_guide",
   "title": "The Neatest Little Guide to Stock Market Investing",
   "author": "Jason Kelly",
@@ -844,20 +858,6 @@
   "title": "The Basics of the Elliott Wave Principle",
   "author": "Robert Prechter",
   "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/The Basics Of Elliot Wave Principle - Robert R Prechter(1).pdf",
-  "status": "todo",
-  "priority": "L",
-  "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
- },
- {
-  "key": "garrett_torque_analysis",
-  "title": "Investing for Profit with Torque Analysis of Stock Market Cycles",
-  "author": "William C. Garrett",
-  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/William_C__Garrett_Investing_for.pdf",
   "status": "todo",
   "priority": "L",
   "page_basis": "",
