@@ -849,5 +849,15 @@
   "pages": "53",
   "coverage": "[[PAGE 53]] (all 2042 lines; GIP quad and asset charts are images)",
   "completed_at": "2026-10-17 14:25"
+ },
+ "kelly_neatest_little_guide": {
+  "status": "done",
+  "strategies": 23,
+  "citations_ok": 100,
+  "citations_checked": 100,
+  "file_id": "1hkcf1VmdYqvH6DaXKmANmTb1brTrE7Ll",
+  "pages": "590",
+  "coverage": "[[PAGE 590]] (all 15554 lines, 2010 edition; image tables missing incl. value-averaging table p.537; index moved through quickly)",
+  "completed_at": "2026-10-17 14:37"
  }
 }

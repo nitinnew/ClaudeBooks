@@ -1,11 +1,11 @@
 # The Neatest Little Guide to Stock Market Investing — Jason Kelly
 
-- **Source file:** Google Drive "The neatest little guide to stock marketing investing.pdf" (Plume / Penguin; ebook, 590 small pages). Edition: copyright line reads "Jason Kelly, 1998, 2004, 2007, 2010" [p. 6] and the worksheet pages carry "Copyright © 2010 Jason Kelly" [p. 508], with market data up to March 2009 [p. 483]; so this is the 2010 revised edition (4th edition of the 1998 original).
+- **Source file:** Google Drive "The neatest little guide to stock marketing investing.pdf" (Plume / Penguin; ebook, 590 small pages). Edition: copyright line reads "Jason Kelly, 1998, 2004, 2007, 2010" [p. 6] and the worksheet pages carry "Copyright © 2010 Jason Kelly" [p. 508], with market data up to March 2009 [p. 483]; so this is the revised edition dated 2010 (the latest of the four copyright years listed).
 - **Text file used:** text/kelly_neatest_little_guide.txt  (page basis: pdf_pages)
 - **Page references:** `[p. N]` = the `[[PAGE N]]` marker in the text file (PDF page index, not the printed page number)
   - Take N ONLY from the nearest `[[PAGE N]]` marker above the passage. The book's own cross-references ("page 122", "page 126", "pages 131 to 136", "page 64" etc.) are printed-page numbers of an older layout and are NOT used here.
   - The ebook footers ("4/590") are never used.
-- **Coverage:** Read the entire text file, lines 1-15554, last marker reached [[PAGE 590]]. Pages 1 and 5 are blank. Pages 332-333, 354, 507, 509, 510, 537 contain only a footer (figure/table pages), and 508 and 511 hold only a worksheet title / copyright line, so every table printed as an image is MISSING from the text: the Value Line sample pages, the IBM balance sheet / income statement, the Stocks-to-Watch and Reasons-and-Limits worksheets, the "cheat sheet" of measures per stock type (p. 462), the Dow dividend-strategy results table (p. 247), the Double the Dow / Maximum Midcap year-by-year tables (pp. 253, 259, 262), the O'Shaughnessy risk/return table (p. 221), the index and Morningstar market-cap return tables (pp. 38-39, 91-93) and the Appendix 3 value-averaging table (p. 537). Appendix 2 (ETF ticker list, pp. 530-535) was read and contains tickers only. The alphabetical Index (pp. 538-590) was moved through quickly after confirming that its entries are topic names with no rules.
+- **Coverage:** Read the entire text file, lines 1-15554, last marker reached [[PAGE 590]]. Pages 1 and 5 are blank. Pages 332-333, 507, 509, 510 and 537 contain only a footer (figure/table pages), p. 354 holds only the label "Liabilities", and 508 and 511 hold only a worksheet title / copyright line, so every table printed as an image is MISSING from the text: the Value Line sample pages, the IBM balance sheet / income statement, the Stocks-to-Watch and Reasons-and-Limits worksheets, the "cheat sheet" of measures per stock type (p. 462), the Dow dividend-strategy results table (p. 247), the Double the Dow / Maximum Midcap year-by-year tables (pp. 253, 259, 262), the O'Shaughnessy risk/return table (p. 221), the index and Morningstar market-cap return tables (pp. 38-39, 91-93) and the Appendix 3 value-averaging table (p. 537). Appendix 2 (ETF ticker list, pp. 530-535) was read and contains tickers only. The alphabetical Index (pp. 538-590) was moved through quickly after confirming that its entries are topic names with no rules. *Coordinator check: the coordinator re-ran verify_citations (100/100 ok) and an exact-page strict check (0 off-by-one), and confirmed all 23 field tables have exactly the 12 template rows. 14 unquoted citations were spot-checked by grep and page read (value-averaging worked row $10,313 x 1.03 = $10,622 at $70.37 p.231, IJR p.229-231, Dow Low 5 9.4% vs Dow 6.4% p.518, O'Higgins p.240-248, Maximum Midcap p.261-262/380/522, O'Neil never average down p.151, value P/E 'must equal' p.439 vs 'equal to or below' p.525, 'strong uptrend or a breakout' p.449, value stocks' weak relative strength p.459 (split across a line), doubling down at -50% p.470-471); all matched.*
 
 ## 1. The method in brief
 
@@ -154,7 +154,7 @@ hold = 5 stocks of top10 with highest yield ; equal weight 20% each ; rebalance 
 ```
 
 **Ambiguities & assumptions**
-- Individual result not given (table missing, p. 247). Only "three of four beat the Dow" [p. 247].
+- Individual result not given (table missing, p. 247). Only "Three of the four strategies were effective at beating the Dow over time" [p. 247].
 - ASSUMPTION: ties in yield broken by lower price as in 2.2.
 
 ### 2.4 Dow Dividend Strategy - Dow Low 5 (the O'Higgins original)
@@ -919,7 +919,7 @@ rank the survivors and keep best 20; replace weakest whenever a new idea scores 
 | Timeframe & holding period | Update at least quarterly; hold until the R&L reasons fail or target reached | 457, 488 |
 | Universe / eligibility filters | Best value plays "are usually large companies"; same 20-name list and liquidity floor as 2.20 | 381, 393, 461 |
 | Market / regime filter | Not found as a rule for individual stocks | - |
-| Setup conditions | REQUIRED: P/E must equal the earnings growth rate (interpret at or below); positive cash flow per share; five-year sales and earnings gain at least 10 percent (small 15); projected growth by size; net margin in top 20 percent of industry; current ratio at least 2; quick ratio at least .5; projected high and low prices above current; Value Line timeliness 1 or 2; S&P STARS and Fair Value 4 or 5. NO requirement for EPS rank or relative strength. Ideal: P/E at or below its 5-year average P/E; P/S below 2; P/B below 1 (Graham: below .66); high dividend yield for large companies (yield now above last year while 5-year trend down); ROE at least 20 percent; insider buys; buyback YES | 397, 407, 422, 424, 426, 429, 431, 433, 435, 438, 439, 442, 444, 446, 447 |
+| Setup conditions | REQUIRED: P/E must equal the earnings growth rate (interpret at or below); positive cash flow per share; five-year sales and earnings gain at least 10 percent (small 15); projected growth by size; net margin in top 20 percent of industry; current ratio at least 2; quick ratio at least .5; projected high and low prices above current; Value Line timeliness 1 or 2; S&P STARS and Fair Value 4 or 5. NO requirement for EPS rank or relative strength. Ideal: P/E at or below its 5-year average P/E; P/S below 2; P/B below 1 (Graham: below .66); high dividend yield for large companies (yield now above last year while 5-year trend down); ROE at least 20 percent; insider buys; buyback YES | 397, 407, 412, 415, 418, 420, 422, 424, 426, 429, 431, 433, 435, 438, 439, 442, 444, 446, 447 |
 | Entry trigger & order type | Buy when price meets a pre-set price or ratio target on the R&L sheet; GTC limit orders; buy half first, double down if price falls 50 percent with fundamentals unchanged | 465, 468, 471 |
 | Initial stop-loss | Not specified; value investors are told to buy more rather than sell on a dip | 300, 482 |
 | Exits: profit-taking | Price target such as doubling (sell point at $17 for a $8.50 buy; reassess, sell half if in doubt); or P/S at twice the current level or P/E above growth rate | 466, 467 |
@@ -954,7 +954,7 @@ value_candidate(s): same common screen as growth_candidate EXCEPT no eps_rank / 
 
 **Ambiguities & assumptions**
 - Internal tension: the common "Required" items include Value Line timeliness 1 or 2 and "buy stocks in a strong uptrend or a breakout" [p. 433, 449], yet the author also says a value stock has "by definition a weak relative strength because the stock price will be depressed" [p. 459]. ASSUMPTION: for the value variant apply the chart test only as "SMA/MACD/RSI not Strong Down" and drop the timeliness test.
-- "P/E must equal growth rate" [p. 439] versus Appendix 1 "equal to or below the earnings growth rate" [p. 525]. ASSUMPTION: P/E <= growth.
+- "P/E must equal the earnings growth rate" [p. 439] versus Appendix 1 "equal to or below the earnings growth rate" [p. 525]. ASSUMPTION: P/E <= growth.
 - Net margin top 20 percent of industry vs the value investor's willingness to accept low ROE and weak earnings [p. 415, 422]: ASSUMPTION: keep margin test, drop ROE.
 
 ### 2.22 Individual-stock execution rules: gradual buys, doubling down, gradual sells, trailing stops, R&L sheet
@@ -1045,3 +1045,63 @@ weights: not specified
 **Ambiguities & assumptions**
 - Chapter 4 ends with a two-part core (VA IJR + Maximum Midcap) [p. 282]; Chapter 7 says "Use Double the Dow ... For an approach with an even better record, use Maximum Midcap" [p. 380], and Appendix 1 says choose a Dow dividend strategy, Double the Dow or Maximum Midcap [p. 522]. Three versions of the core; ASSUMPTION: test each core strategy separately and the p.282 two-part core as 50/50.
 - No allocation between core and stocks. ASSUMPTION: 70 percent core / 30 percent satellites (invented), report sensitivity.
+
+## 3. Risk & money-management rules
+
+- **Leverage:** "I almost always discourage leverage" because it magnifies losses and costs margin interest (Fidelity 8.6 percent early 2009); it is accepted only for a whole index (Dow or MidCap 400) because "it's not one stock, it's 30 of the best stocks"; the mutual-fund route cannot lose more than 100 percent, margin can [p. 251, 254].
+- **Drawdown reality:** UltraDow lost 63 percent in 2008; Maximum Midcap and Double the Dow dropped 40 percent June-Oct 2002 when the Dow fell 20 percent; the author calls extreme bear markets the "elephant in the china shop" and answers with the 2-of-3 chart signals (2.8) rather than a fixed stop [p. 254, 259, 281].
+- **Gradual entries and exits:** invest only part first (half), add if price falls 50 percent with unchanged fundamentals; sell in parcels (e.g. 1,000 of 2,000 shares with a GTC limit) [p. 470, 471, 493, 494].
+- **Stops:** O'Neil 8 percent below the buy point on new money; a loss of 33 percent needs a 50 percent gain to recover [p. 152, 155]. Kelly's own trailing stop: typical 10 percent, tight 5 percent, wide 20 percent for long-term winners [p. 299, 303, 492]. Starbucks fell 76 percent from its 2006 high and Crocs 99 percent in 2008, both used as arguments for trailing stops [p. 302, 304].
+- **Concentration:** Fisher rarely more than ten holdings and mostly 3-4 stocks; O'Neil "one or two big winners"; Buffett 33-49 percent in one stock at times; Miller prefers factor diversification and lost 72 percent from Oct 2007 to Nov 2008 against the S&P 500's 49 percent decline [p. 111, 123, 156, 161, 178].
+- **Watch-list cap:** 20 stocks; a new stock must displace the weakest [p. 381, 382].
+- **Liquidity floor:** "A widely accepted bare minimum trading volume is $50,000 a day" [p. 393].
+- **Cash needs:** do not invest money needed for groceries or next year's tuition; the more time, the more risk [p. 478]. Parked proceeds go into a money market account [p. 485].
+- **Costs:** the bid-ask spread (3.2 percent in the author's example) and commissions must be cleared before a position breaks even [p. 290, 291].
+- **Exposure to tips and rumours:** confirm any rumour, then consult the R&L sheet; only sell on pre-written reasons [p. 486-488].
+- **Not found in this text:** a percentage risk per trade, a maximum portfolio exposure, a portfolio-level drawdown rule, or any position-size formula other than "half first".
+
+## 4. Non-codable guidance
+
+- Stay in your "circle of competence"; use "scuttlebutt" (customers, suppliers, employees, competitors) [p. 110, 128, 189].
+- Lynch's six categories (slow growers, stalwarts, cyclicals, fast growers, turnarounds, asset plays) and the "perfect company" traits (boring, ignored by analysts, niche, repeat business) [p. 130-135].
+- The two-minute drill: state aloud why you buy, what must happen, and what could go wrong [p. 138, 190].
+- Management honesty and capital allocation (Buffett, Fisher) [p. 108, 119, 120].
+- Miller's contrarian, forward-looking value ("100 percent of the value depends on the future"), "valuation illusion", behavioural advantages [p. 162-168, 171-177].
+- Prospect theory and myopic loss aversion explain why bargains exist; "Don't just do something, sit there" [p. 173-177, 184].
+- Be skeptical of gurus (CXO study: average accuracy 48 percent, Kelly 60 percent) [p. 474, 475].
+- Ignore rumours and popular opinion; write the R&L before buying so emotions do not decide later [p. 479, 485, 487].
+- Reverse your emotions: buy more of a sound company when the price drops, buy more of a winner while its strengths improve; buy after a crash [p. 480-483].
+- Compare a company with its competitors and ask why numbers are the way they are; overrule the worksheet only with a good reason [p. 450-455].
+- Track performance with the "fearsome foursome" and look for habitual early selling (Kelly sells too soon) [p. 497, 501, 502].
+- Investor-packet, annual report, 10-K / 10-Q reading, screeners and websites (research resources only) [p. 349-377].
+- Use a discount broker and limit orders to take emotion out of trading [p. 293, 468].
+
+## 5. Adapting to NSE (Indian equities)
+
+- **Data required:**
+  - Price-only strategies (2.1, 2.7, 2.8, 2.14, 2.16, price part of 2.10, 2.15, 2.22): adjusted daily OHLCV, volume / traded value, a broad index series (NIFTYBEES, or an equal-weight index built from the stock panel), delisted names included.
+  - Fundamental / ratio strategies (2.9-2.13, 2.15 C/A/S/I, 2.17-2.21): EPS (quarterly, annual, projected), sales, cash flow per share, net profit margin, current and quick ratios, ROE, book value, dividends / dividend yield, shares outstanding and buybacks, insider holding %, industry code; proprietary ranks (IBD EPS rank, Value Line timeliness, S&P STARS / Fair Value) have no Indian equivalent.
+  - Delivery % (recent years) is the only candidate stand-in for "accumulation" or institutional sponsorship; not used by the book.
+- **Testability with our data:**
+  - **Backtestable 2005-2026 (prices only):** 2.1 value averaging on a synthetic small-cap basket; 2.8 timing overlay on NIFTYBEES or the equal-weight index; 2.6 / 2.7 as simulated daily-reset 2x series (with timing overlay); 2.14 relative-strength variants (12-month winners among liquid stocks; 5-year laggards); 2.16 breakout / 8 percent stop / 5 percent pyramid / 20 percent target plan; momentum and trailing-stop parts of 2.10, 2.15 and 2.22.
+  - **Forward-test only (fundamentals from Feb 2026, 3-year growth fields from May 2026):** 2.9, 2.10 (P/S, earnings), 2.11, 2.12, 2.15 (C, A, S, I), 2.17, 2.18, 2.19, 2.20, 2.21 and the fundamental parts of 2.22.
+  - **Need data we do not have:** dividends / dividend yield history and buyback history (2.2-2.5 Dow dividend strategies, 2.9, 2.13); historical index constituents (a Dow-like list of the 30 biggest names); Value Line, S&P STARS and IBD ranks; institutional-ownership counts; the book's own missing result tables.
+- **Market-structure differences and proposed adaptations:**
+  - **No leveraged Dow-type ETFs / no overnight shorting in the cash market:** the 2x products (DDM, UDPIX, MVV, UMPIX) do not exist for NSE equities. ASSUMPTION: emulate with daily return = 2 x index return - financing cost (about 9 percent a year on the borrowed half, an invented figure, with the book's own 8.6 percent margin rate [p. 251] and 1.6 percent fund expense [p. 254] as references) - 0.1 percent slippage when switching; when the overlay is OUT hold cash (no shorting, no inverse ETF).
+  - **Dow 30 replaced by a large-cap list:** ASSUMPTION: top 30 (and a Nifty-50-like top 50 as sensitivity) by trailing 6-month median traded value, rebuilt each December. Dow Low 5 ranks by unadjusted share price [p. 244, 246]; use the actual traded price on the review date, not the split / bonus adjusted series.
+  - **Calendar:** the book starts on January 1 [p. 243]. ASSUMPTION: rebalance on the first trading day of January (and test the last trading day of March).
+  - **Market-cap tiers:** the book uses relative Morningstar tiers (large average $52 billion, medium $4 billion, small $940 million, early 2009) [p. 92, 390]. We lack market cap; ASSUMPTION: rank by 6-month median traded value x close and use ranks 1-100 large, 101-250 mid, 251+ small.
+  - **Small-cap index for value averaging:** no index before 2024. ASSUMPTION: equal-weight index of ranks 251-750 by traded value, rebalanced quarterly at the same dates as the VA check. Test 2, 3 and 4 percent quarterly targets as the book's 3 percent is calibrated to US small caps (12.6 percent a year) [p. 228].
+  - **Liquidity floor and circuit limits:** the $50,000 a day floor [p. 393] is converted by ASSUMPTION to Rs 1 crore average daily traded value. Stops and pivot-breakout fills may be blocked by circuit limits; assume fills at the next available price outside circuit days.
+  - **Costs:** apply STT, brokerage and 0.1 percent slippage per side; annual 50-stock rebalances (2.9-2.14) are cost-sensitive for small caps.
+  - **Fundamental data hygiene:** use point-in-time snapshots only; annual-report values ("five-year gain", "projected growth") require analyst estimates that we do not have. ASSUMPTION: replace projected growth with trailing 3-year growth fields (May 2026 onward).
+  - **Short-selling absent in the book:** every strategy is long-only, so there is no conflict with NSE rules.
+
+## 6. Verdict
+
+- **Codeability:** Partly - the value-averaging recurrence, the 2x daily-reset index series, the SMA / MACD / RSI 2-of-3 overlay, the price-based O'Shaughnessy factors and O'Neil's breakout / stop plan are explicit and codable, but the dividend, fundamental and proprietary-rank screens cannot be backtested on our data and the core results tables are missing from the text.
+- **Priority for backtesting:** Medium - 2.1 (value averaging), 2.8 (timing overlay on a leveraged index) and 2.14 / 2.16 (price momentum with stops) are cheap to test on 2005-2026 prices, but the book's evidence is US 2002-2008 and hand-picked, and the rest of the system needs fundamentals available only from 2026.
+- **Top 3 things a coder is most likely to get wrong:**
+  1. Value averaging mechanics: the quarterly target is 1.03 x the previous quarter's *actual post-trade value* (not a fixed compound schedule from day one), shares are rounded to whole numbers, sells happen in strong quarters, and cash for buys comes first from earlier sale proceeds then from outside money.
+  2. The leveraged strategies reset daily: a 2x fund doubles each day's return, not the multi-day return, so period returns drift (the author's own -5/-3/+4/+3/+2 example); and the timing overlay needs persistent indicator states with a 2-of-3 vote, not isolated one-day crossovers.
+  3. Look-ahead and price basis in the annual screens: Dow Low 5 ranks by nominal unadjusted price among the 10 highest yields (tie to the lower price), shareholder yield uses the prior-year net buyback and fundamentals must be point-in-time (the book uses Compustat as-of data), so using adjusted prices or latest-restated fundamentals would corrupt the ranks.

@@ -812,6 +812,20 @@
   "completed_at": "2026-10-17 14:25"
  },
  {
+  "key": "kelly_neatest_little_guide",
+  "title": "The Neatest Little Guide to Stock Market Investing",
+  "author": "Jason Kelly",
+  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/The neatest little guide to stock marketing investing.pdf",
+  "status": "done",
+  "priority": "L",
+  "page_basis": "",
+  "strategies": 23,
+  "citations_ok": 100,
+  "citations_checked": 100,
+  "coverage": "[[PAGE 590]] (all 15554 lines, 2010 edition; image tables missing incl. value-averaging table p.537; index moved through quickly)",
+  "completed_at": "2026-10-17 14:37"
+ },
+ {
   "key": "telegram_files_oct21",
   "title": "Telegram files 5_6183711123267649981/82.pdf, 5_6134027418328891773.pptx, 5_6120919946940645703.pptx",
   "author": "unknown (likely Murthy sir course)",
@@ -844,20 +858,6 @@
   "title": "Investing for Profit with Torque Analysis of Stock Market Cycles",
   "author": "William C. Garrett",
   "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/William_C__Garrett_Investing_for.pdf",
-  "status": "todo",
-  "priority": "L",
-  "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
- },
- {
-  "key": "kelly_neatest_little_guide",
-  "title": "The Neatest Little Guide to Stock Market Investing",
-  "author": "Jason Kelly",
-  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/The neatest little guide to stock marketing investing.pdf",
   "status": "todo",
   "priority": "L",
   "page_basis": "",
