@@ -868,6 +868,20 @@
   "completed_at": "2026-10-17 14:59"
  },
  {
+  "key": "mehta_complete_trader",
+  "title": "212° The Complete Trader",
+  "author": "Rohan Mehta",
+  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/the complete trader.pdf",
+  "status": "done",
+  "priority": "L",
+  "page_basis": "",
+  "strategies": 8,
+  "citations_ok": 49,
+  "citations_checked": 49,
+  "coverage": "[[PAGE 179]] (all 5021 lines; Notion Press 2017; 6 blank pages, trade-sheet and back-test tables are images)",
+  "completed_at": "2026-10-17 15:05"
+ },
+ {
   "key": "telegram_files_oct21",
   "title": "Telegram files 5_6183711123267649981/82.pdf, 5_6134027418328891773.pptx, 5_6120919946940645703.pptx",
   "author": "unknown (likely Murthy sir course)",
@@ -886,20 +900,6 @@
   "title": "The Basics of the Elliott Wave Principle",
   "author": "Robert Prechter",
   "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/The Basics Of Elliot Wave Principle - Robert R Prechter(1).pdf",
-  "status": "todo",
-  "priority": "L",
-  "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
- },
- {
-  "key": "mehta_complete_trader",
-  "title": "212° The Complete Trader",
-  "author": "Rohan Mehta",
-  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/the complete trader.pdf",
   "status": "todo",
   "priority": "L",
   "page_basis": "",

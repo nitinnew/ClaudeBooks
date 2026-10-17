@@ -889,5 +889,15 @@
   "pages": "5",
   "coverage": "[[PAGE 5]] (all 117 lines; author Riyank Arora; example charts are images)",
   "completed_at": "2026-10-17 14:59"
+ },
+ "mehta_complete_trader": {
+  "status": "done",
+  "strategies": 8,
+  "citations_ok": 49,
+  "citations_checked": 49,
+  "file_id": "1yarwDeVBVlhBjgkdcFfJZn0M-CC0tkJO",
+  "pages": "179",
+  "coverage": "[[PAGE 179]] (all 5021 lines; Notion Press 2017; 6 blank pages, trade-sheet and back-test tables are images)",
+  "completed_at": "2026-10-17 15:05"
  }
 }
