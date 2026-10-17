@@ -798,20 +798,6 @@
   "completed_at": ""
  },
  {
-  "key": "neely_mastering_elliott",
-  "title": "Mastering Elliott Wave",
-  "author": "Glenn Neely",
-  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/Mastering Elliott Wave_ Present - Glenn Neely.pdf",
-  "status": "todo",
-  "priority": "L",
-  "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
- },
- {
   "key": "mcdowell_elliott_simplified",
   "title": "Elliott Wave Techniques Simplified",
   "author": "Bennett McDowell",
@@ -1202,6 +1188,20 @@
   "citations_checked": 0,
   "coverage": "not read in full: connector text view truncated at printed p. 80",
   "completed_at": "2026-10-11 15:28"
+ },
+ {
+  "key": "neely_mastering_elliott",
+  "title": "Mastering Elliott Wave",
+  "author": "Glenn Neely",
+  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/Mastering Elliott Wave_ Present - Glenn Neely.pdf",
+  "status": "blocked_size",
+  "priority": "L",
+  "page_basis": "",
+  "strategies": 0,
+  "citations_ok": 0,
+  "citations_checked": 0,
+  "coverage": "not read: file over connector size limit",
+  "completed_at": "2026-10-17 03:29"
  },
  {
   "key": "rayner_fibonacci_docx",

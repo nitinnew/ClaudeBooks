@@ -803,5 +803,13 @@
   "pages": "64",
   "coverage": "[[PAGE 64]] (all 1254 lines; pp. 1, 6, 49 blank image pages)",
   "completed_at": "2026-10-16 19:00"
+ },
+ "neely_mastering_elliott": {
+  "status": "blocked_size",
+  "strategies": 0,
+  "file_id": "1hEyGNRr5Th4Gqm4HHxKVXI51MebbBRva",
+  "coverage": "not read: file over connector size limit",
+  "notes": "blocked_size: 'Mastering Elliott Wave_ Present - Glenn Neely.pdf' is 27.9 MB (27,910,801 bytes), about 4x the ~7 MB size at which the Drive connector's binary download fails or the plain-text rendering truncates (~60K chars). Not attempted to avoid a known-failing transfer. To process: download locally and place in work/pdfs/ (or split into <7 MB parts in Drive). Checked 2026-10-17.",
+  "completed_at": "2026-10-17 03:29"
  }
 }
