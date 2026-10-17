@@ -869,5 +869,15 @@
   "pages": "243",
   "coverage": "[[PAGE 243]] (all 13796 lines; RapidOCR of scanned pages; charts and Tables 4.1/4.2/6.1/6.2 OCR-scrambled)",
   "completed_at": "2026-10-17 14:46"
+ },
+ "cunningham_think_like_graham": {
+  "status": "done",
+  "strategies": 8,
+  "citations_ok": 49,
+  "citations_checked": 49,
+  "file_id": "1Ih4gRc_gs4ARHWARbuQgTNH1iBkmU-xO",
+  "pages": "289",
+  "coverage": "[[PAGE 289]] (all 11834 lines; divider pages blank; indexes moved through quickly)",
+  "completed_at": "2026-10-17 14:54"
  }
 }
