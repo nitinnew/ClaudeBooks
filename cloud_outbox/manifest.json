@@ -882,6 +882,20 @@
   "completed_at": "2026-10-17 15:05"
  },
  {
+  "key": "unknown_handbook_ta_short",
+  "title": "A Handbook of Technical Analysis (short, Indian)",
+  "author": "author to confirm",
+  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/A Handbook of Technical Analysis.pdf",
+  "status": "done",
+  "priority": "L",
+  "page_basis": "",
+  "strategies": 19,
+  "citations_ok": 44,
+  "citations_checked": 44,
+  "coverage": "[[PAGE 45]] (all 1092 lines; publisher Elearnmarkets.com; 11 chart-only pages)",
+  "completed_at": "2026-10-17 15:08"
+ },
+ {
   "key": "telegram_files_oct21",
   "title": "Telegram files 5_6183711123267649981/82.pdf, 5_6134027418328891773.pptx, 5_6120919946940645703.pptx",
   "author": "unknown (likely Murthy sir course)",
@@ -900,20 +914,6 @@
   "title": "The Basics of the Elliott Wave Principle",
   "author": "Robert Prechter",
   "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/The Basics Of Elliot Wave Principle - Robert R Prechter(1).pdf",
-  "status": "todo",
-  "priority": "L",
-  "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
- },
- {
-  "key": "unknown_handbook_ta_short",
-  "title": "A Handbook of Technical Analysis (short, Indian)",
-  "author": "author to confirm",
-  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/A Handbook of Technical Analysis.pdf",
   "status": "todo",
   "priority": "L",
   "page_basis": "",

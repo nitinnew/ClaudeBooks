@@ -899,5 +899,15 @@
   "pages": "179",
   "coverage": "[[PAGE 179]] (all 5021 lines; Notion Press 2017; 6 blank pages, trade-sheet and back-test tables are images)",
   "completed_at": "2026-10-17 15:05"
+ },
+ "unknown_handbook_ta_short": {
+  "status": "done",
+  "strategies": 19,
+  "citations_ok": 44,
+  "citations_checked": 44,
+  "file_id": "1JP-lpiKUUoB3V-oqplwGecNQcL_3bHmY",
+  "pages": "45",
+  "coverage": "[[PAGE 45]] (all 1092 lines; publisher Elearnmarkets.com; 11 chart-only pages)",
+  "completed_at": "2026-10-17 15:08"
  }
 }
