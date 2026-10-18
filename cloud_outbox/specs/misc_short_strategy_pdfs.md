@@ -9,7 +9,7 @@
   - "Supply and Demand Zone.pdf", pp. 95-170: "Trade Like Pro. The Ultimate Trading Kit to Master Supply & Demand", Jode Lebin, (c) 2017 [p. 96]. Forex.
   - "P.O.3 patterns.pdf", pp. 171-186: JayFX / "Jay Forex House" (t.me/JayFxHouse), "Power of Three" notes [p. 171, 186].
   - "Breakouts & Breakdowns.pdf", pp. 187-200: author/publisher NOT stated in the text; NSE charts from TradingView [p. 189].
-  - "14 Multi Year Breakouts.pdf", pp. 201-205: @ADX_Learner (Avdhesh) [p. 201].
+  - 14 Multi Year Breakouts.pdf, pp. 201-205: @ADX_Learner (Avdhesh) [p. 201].
   - "RSI 73 v1.pdf", pp. 206-214: Tradetron platform backtest report (strategy "RSI 73 V1") [p. 206].
   - "neo wave patterns 206.pdf", pp. 215-236: Glenn Neely / NEoWave, Inc., 1995 conference slides [p. 215].
   - "Trading Divergence Interview with Ashwani Gujral.pdf", pp. 237-242: Stocks & Commodities V. 23:3 (64-71), Technical Analysis Inc.; interview of Ashwani Gujral by Jayanthi Gopalakrishnan [p. 237].
