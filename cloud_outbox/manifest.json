@@ -952,6 +952,20 @@
   "completed_at": "2026-10-18 19:10"
  },
  {
+  "key": "intraday_indian_misc",
+  "title": "Indian intraday material: 25 Day Trading Strategies in Nifty & Bank Nifty, Intraday Trading Strategy (BankNifty Future), BANK NIFTY STRATEGY.pptx",
+  "author": "various",
+  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents ; Phone Backup Aug 2025/WhatsApp Documents/Private",
+  "status": "done",
+  "priority": "L",
+  "page_basis": "",
+  "strategies": 2,
+  "citations_ok": 22,
+  "citations_checked": 22,
+  "coverage": "[[PAGE 16]] (BankNifty futures PDF + 12-slide pptx with OCR'd screenshots; 25 Day Trading Strategies PDF blocked_size)",
+  "completed_at": "2026-10-18 19:12"
+ },
+ {
   "key": "telegram_files_oct21",
   "title": "Telegram files 5_6183711123267649981/82.pdf, 5_6134027418328891773.pptx, 5_6120919946940645703.pptx",
   "author": "unknown (likely Murthy sir course)",
@@ -970,20 +984,6 @@
   "title": "The Basics of the Elliott Wave Principle",
   "author": "Robert Prechter",
   "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/The Basics Of Elliot Wave Principle - Robert R Prechter(1).pdf",
-  "status": "todo",
-  "priority": "L",
-  "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
- },
- {
-  "key": "intraday_indian_misc",
-  "title": "Indian intraday material: 25 Day Trading Strategies in Nifty & Bank Nifty, Intraday Trading Strategy (BankNifty Future), BANK NIFTY STRATEGY.pptx",
-  "author": "various",
-  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents ; Phone Backup Aug 2025/WhatsApp Documents/Private",
   "status": "todo",
   "priority": "L",
   "page_basis": "",

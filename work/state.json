@@ -952,5 +952,16 @@
   "coverage": "[[PAGE 354]] (17 files, all 7993 lines; OCR on image pages; 6 oversized files not processed; 4 full-length books split into own rows)",
   "notes": "17 short PDFs processed into one spec (14 strategies; per-file triage in spec section 4). blocked_size (not processed): Price-Action-Trading-Guide.pdf 7.7 MB, 6_Fibonacci_Types... 6.99 MB (download crashed the connector), What is Supply and Demand New (1).pdf.pdf 12.8 MB, neo_wave.pdf 12.7 MB, Flirting with Stocks 15.1 MB, Advance Techniques In Day Trading_-1.pdf 14.7 MB. Split out as separate todo rows (full-length books): Trading for Dummies, Elder Day Trading Strategies Book 2, Price action trading guide (swing-trading-strategies.com), Beginner's guide to trading.",
   "completed_at": "2026-10-18 19:10"
+ },
+ "intraday_indian_misc": {
+  "status": "done",
+  "strategies": 2,
+  "citations_ok": 22,
+  "citations_checked": 22,
+  "file_id": "1GsNFZMku8zSLz1gdZzSI0wdSYb3xLM9G + 1J9OSxqWviEnF3qe9Z6ei7TRGHVKU5MpB",
+  "pages": "16",
+  "coverage": "[[PAGE 16]] (BankNifty futures PDF + 12-slide pptx with OCR'd screenshots; 25 Day Trading Strategies PDF blocked_size)",
+  "notes": "2 of 3 files processed: Intraday Trading Strategy (BankNifty Futures, Stock Trader 2021; Drive text rendering) and BANK NIFTY STRATEGY (3).pptx (Yuvraj Kumar screenshots, Dec 2021; slide XML + OCR). blocked_size: 25 DAY TRADING STRATEGIES IN NIFTY & BANK NIFTY.pdf (1cUvBL0BgNYU8volOFlniKrE-ygTdnqPy, 7.6 MB, over the ~7 MB connector limit). Both strategies need intraday index futures/options data we do not have.",
+  "completed_at": "2026-10-18 19:12"
  }
 }
