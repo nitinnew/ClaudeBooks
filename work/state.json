@@ -941,5 +941,16 @@
   "coverage": "[[PAGE 361]] (7 of 11 files, all 6849 lines; 2 files OCR'd; 6 rule-bearing setups + ~60 definition-only patterns in section 4)",
   "notes": "7 of 11 files processed (Big Book of Chart Pattern; Chart Pattern Guide (CMS, OCR); Candlestick Patterns Ebook (Metaverse Trading Academy); 21_Candlesticks; DW candlesticks power (DAR Wong / APSRI 2006); Mastering Candlestick Charts 1 and 2 (Pristine); How to read basic chart patterns (Moneycontrol, OCR)). blocked_size (over ~7 MB connector limit, not processed): All Chart Patterns.pdf (11.2 MB; duplicate All Chart Patterns-1.pdf same size), Candlestick Chart Patterns DTT.pdf (10.8 MB), Candlestick-Pattern-Chart-Pattern-qnpte3.pdf (10.7 MB), 3-chart-patterns.pdf (15.0 MB).",
   "completed_at": "2026-10-17 15:28"
+ },
+ "misc_short_strategy_pdfs": {
+  "status": "done",
+  "strategies": 14,
+  "citations_ok": 74,
+  "citations_checked": 74,
+  "file_id": "17 files (see spec Source line)",
+  "pages": "354",
+  "coverage": "[[PAGE 354]] (17 files, all 7993 lines; OCR on image pages; 6 oversized files not processed; 4 full-length books split into own rows)",
+  "notes": "17 short PDFs processed into one spec (14 strategies; per-file triage in spec section 4). blocked_size (not processed): Price-Action-Trading-Guide.pdf 7.7 MB, 6_Fibonacci_Types... 6.99 MB (download crashed the connector), What is Supply and Demand New (1).pdf.pdf 12.8 MB, neo_wave.pdf 12.7 MB, Flirting with Stocks 15.1 MB, Advance Techniques In Day Trading_-1.pdf 14.7 MB. Split out as separate todo rows (full-length books): Trading for Dummies, Elder Day Trading Strategies Book 2, Price action trading guide (swing-trading-strategies.com), Beginner's guide to trading.",
+  "completed_at": "2026-10-18 19:10"
  }
 }
