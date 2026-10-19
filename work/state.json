@@ -973,5 +973,15 @@
   "pages": "387",
   "coverage": "[[PAGE 387]] (body read in full to p.366; Fig 15-1 data rows and index skimmed, stated)",
   "completed_at": "2026-10-19 02:21"
+ },
+ "elder_day_trading_strategies_book2": {
+  "status": "done",
+  "strategies": 11,
+  "citations_ok": 44,
+  "citations_checked": 44,
+  "file_id": "1nkEpRl8FCAGfFWJAhd16xWfh9Efltslq",
+  "pages": "203",
+  "coverage": "[[PAGE 203]] (all 4487 lines; p.1 blank)",
+  "completed_at": "2026-10-19 02:26"
  }
 }

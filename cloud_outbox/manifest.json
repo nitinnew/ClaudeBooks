@@ -980,6 +980,20 @@
   "completed_at": "2026-10-19 02:21"
  },
  {
+  "key": "elder_day_trading_strategies_book2",
+  "title": "Day Trading Strategies (Book 2): The Complete Guide with All the Advanced Tactics",
+  "author": "Andrew Elder",
+  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/Private/DAY_TRADING_STRATEGIES_THE_COMPLETE_GUIDE_WITH_ALL_THE_ADVANCED.pdf",
+  "status": "done",
+  "priority": "L",
+  "page_basis": "",
+  "strategies": 11,
+  "citations_ok": 44,
+  "citations_checked": 44,
+  "coverage": "[[PAGE 203]] (all 4487 lines; p.1 blank)",
+  "completed_at": "2026-10-19 02:26"
+ },
+ {
   "key": "telegram_files_oct21",
   "title": "Telegram files 5_6183711123267649981/82.pdf, 5_6134027418328891773.pptx, 5_6120919946940645703.pptx",
   "author": "unknown (likely Murthy sir course)",
@@ -998,20 +1012,6 @@
   "title": "The Basics of the Elliott Wave Principle",
   "author": "Robert Prechter",
   "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/The Basics Of Elliot Wave Principle - Robert R Prechter(1).pdf",
-  "status": "todo",
-  "priority": "L",
-  "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
- },
- {
-  "key": "elder_day_trading_strategies_book2",
-  "title": "Day Trading Strategies (Book 2): The Complete Guide with All the Advanced Tactics",
-  "author": "Andrew Elder",
-  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/Private/DAY_TRADING_STRATEGIES_THE_COMPLETE_GUIDE_WITH_ALL_THE_ADVANCED.pdf",
   "status": "todo",
   "priority": "L",
   "page_basis": "",
