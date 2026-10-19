@@ -993,5 +993,16 @@
   "pages": "128",
   "coverage": "[[PAGE 128]] (all 3114 lines; charts are images; 7.7 MB second copy not downloadable)",
   "completed_at": "2026-10-19 13:41"
+ },
+ "unknown_beginners_guide_trading": {
+  "status": "done",
+  "strategies": 5,
+  "citations_ok": 27,
+  "citations_checked": 27,
+  "file_id": "1_PPqQLkH2dmZ-Yo9gxkjYB55qCr2bIhq",
+  "pages": "27",
+  "author": "possibly Gagan Kalra (inferred)",
+  "coverage": "[[PAGE 27]] (27-slide deck, all text; chart slides are images)",
+  "completed_at": "2026-10-19 13:43"
  }
 }

@@ -1008,6 +1008,20 @@
   "completed_at": "2026-10-19 13:41"
  },
  {
+  "key": "unknown_beginners_guide_trading",
+  "title": "Beginner's guide to trading",
+  "author": "possibly Gagan Kalra (inferred)",
+  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/Beginner's guide to trading.pdf",
+  "status": "done",
+  "priority": "L",
+  "page_basis": "",
+  "strategies": 5,
+  "citations_ok": 27,
+  "citations_checked": 27,
+  "coverage": "[[PAGE 27]] (27-slide deck, all text; chart slides are images)",
+  "completed_at": "2026-10-19 13:43"
+ },
+ {
   "key": "telegram_files_oct21",
   "title": "Telegram files 5_6183711123267649981/82.pdf, 5_6134027418328891773.pptx, 5_6120919946940645703.pptx",
   "author": "unknown (likely Murthy sir course)",
@@ -1026,20 +1040,6 @@
   "title": "The Basics of the Elliott Wave Principle",
   "author": "Robert Prechter",
   "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/The Basics Of Elliot Wave Principle - Robert R Prechter(1).pdf",
-  "status": "todo",
-  "priority": "L",
-  "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
- },
- {
-  "key": "unknown_beginners_guide_trading",
-  "title": "Beginner's guide to trading",
-  "author": "author to confirm",
-  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/Beginner's guide to trading.pdf",
   "status": "todo",
   "priority": "L",
   "page_basis": "",
