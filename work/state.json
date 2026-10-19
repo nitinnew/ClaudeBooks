@@ -963,5 +963,15 @@
   "coverage": "[[PAGE 16]] (BankNifty futures PDF + 12-slide pptx with OCR'd screenshots; 25 Day Trading Strategies PDF blocked_size)",
   "notes": "2 of 3 files processed: Intraday Trading Strategy (BankNifty Futures, Stock Trader 2021; Drive text rendering) and BANK NIFTY STRATEGY (3).pptx (Yuvraj Kumar screenshots, Dec 2021; slide XML + OCR). blocked_size: 25 DAY TRADING STRATEGIES IN NIFTY & BANK NIFTY.pdf (1cUvBL0BgNYU8volOFlniKrE-ygTdnqPy, 7.6 MB, over the ~7 MB connector limit). Both strategies need intraday index futures/options data we do not have.",
   "completed_at": "2026-10-18 19:12"
+ },
+ "griffis_epstein_trading_dummies": {
+  "status": "done",
+  "strategies": 22,
+  "citations_ok": 74,
+  "citations_checked": 74,
+  "file_id": "1fEexPyOjfFu9ebAvFxnlvxJuJFuDut2f",
+  "pages": "387",
+  "coverage": "[[PAGE 387]] (body read in full to p.366; Fig 15-1 data rows and index skimmed, stated)",
+  "completed_at": "2026-10-19 02:21"
  }
 }
