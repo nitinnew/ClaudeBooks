@@ -983,5 +983,15 @@
   "pages": "203",
   "coverage": "[[PAGE 203]] (all 4487 lines; p.1 blank)",
   "completed_at": "2026-10-19 02:26"
+ },
+ "swingtradingstrategies_price_action_guide": {
+  "status": "done",
+  "strategies": 13,
+  "citations_ok": 52,
+  "citations_checked": 52,
+  "file_id": "1L6SonmZhsarGXGfpaMp2U1FtIt9hun6J",
+  "pages": "128",
+  "coverage": "[[PAGE 128]] (all 3114 lines; charts are images; 7.7 MB second copy not downloadable)",
+  "completed_at": "2026-10-19 13:41"
  }
 }

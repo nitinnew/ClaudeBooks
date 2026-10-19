@@ -994,6 +994,20 @@
   "completed_at": "2026-10-19 02:26"
  },
  {
+  "key": "swingtradingstrategies_price_action_guide",
+  "title": "Price Action Trading Guide (swing-trading-strategies.com, 2014)",
+  "author": "swing-trading-strategies.com",
+  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/Price action trading guide.pdf",
+  "status": "done",
+  "priority": "L",
+  "page_basis": "",
+  "strategies": 13,
+  "citations_ok": 52,
+  "citations_checked": 52,
+  "coverage": "[[PAGE 128]] (all 3114 lines; charts are images; 7.7 MB second copy not downloadable)",
+  "completed_at": "2026-10-19 13:41"
+ },
+ {
   "key": "telegram_files_oct21",
   "title": "Telegram files 5_6183711123267649981/82.pdf, 5_6134027418328891773.pptx, 5_6120919946940645703.pptx",
   "author": "unknown (likely Murthy sir course)",
@@ -1012,20 +1026,6 @@
   "title": "The Basics of the Elliott Wave Principle",
   "author": "Robert Prechter",
   "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/The Basics Of Elliot Wave Principle - Robert R Prechter(1).pdf",
-  "status": "todo",
-  "priority": "L",
-  "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
- },
- {
-  "key": "swingtradingstrategies_price_action_guide",
-  "title": "Price Action Trading Guide (swing-trading-strategies.com, 2014)",
-  "author": "swing-trading-strategies.com",
-  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/Price action trading guide.pdf",
   "status": "todo",
   "priority": "L",
   "page_basis": "",
