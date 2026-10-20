@@ -1,0 +1,4 @@
+
+quotes checked: 3  ok: 3  wrong page: 0  not found: 0
+
+# Coordinator exact-page check (all quoted fragments incl. <15 chars, whitespace-insensitive): 14 ok, 0 miss

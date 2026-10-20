@@ -1036,5 +1036,16 @@
   "pages": "16",
   "coverage": "[[PAGE 16]] (2 code files transcribed from IDE HTML exports + 14-page run log)",
   "completed_at": "2026-10-20 13:28"
+ },
+ "unknown_harmonic_patterns_pdfs": {
+  "status": "done",
+  "strategies": 3,
+  "citations_ok": 14,
+  "citations_checked": 14,
+  "file_id": "1kmbwGeR_8bnl7GbO1p3vUKUPrF0sH5qs + 1mz7uQOMHVPCk42R1KFeBjGmVrkKxf6H2",
+  "pages": "9",
+  "author": "neoHarmonics.com; Emmanuel Nyemera, PhD",
+  "coverage": "[[PAGE 9]] (2 cheat sheets, OCR of diagrams; ratio-to-leg mapping mostly unrecoverable)",
+  "completed_at": "2026-10-20 13:31"
  }
 }

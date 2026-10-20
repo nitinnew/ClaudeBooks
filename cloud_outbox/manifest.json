@@ -1066,16 +1066,16 @@
  {
   "key": "unknown_harmonic_patterns_pdfs",
   "title": "HARMONICS PATTERNS.pdf ; harmonicpatterns.pdf",
-  "author": "author to confirm",
+  "author": "neoHarmonics.com; Emmanuel Nyemera, PhD",
   "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/Private/HARMONICS PATTERNS.pdf ; Phone Backup Aug 2025/WhatsApp Documents/Private/harmonicpatterns.pdf",
-  "status": "todo",
+  "status": "done",
   "priority": "L",
   "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
+  "strategies": 3,
+  "citations_ok": 14,
+  "citations_checked": 14,
+  "coverage": "[[PAGE 9]] (2 cheat sheets, OCR of diagrams; ratio-to-leg mapping mostly unrecoverable)",
+  "completed_at": "2026-10-20 13:31"
  },
  {
   "key": "unknown_trading_hub_3",
