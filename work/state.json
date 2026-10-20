@@ -1026,5 +1026,15 @@
   "coverage": "not read: file over connector size limit",
   "notes": "blocked_size: 'Commodity Guide.pdf' (Stks folder) is 9.6 MB (9,646,201 bytes), above the ~7 MB size at which the Drive connector's binary download fails. Not attempted. Commodities are also outside our NSE equity data. Checked 2026-10-20.",
   "completed_at": "2026-10-20 13:21"
+ },
+ "crypto_pairs_code": {
+  "status": "done",
+  "strategies": 3,
+  "citations_ok": 15,
+  "citations_checked": 15,
+  "file_id": "1NVdMELxx80W8PVTHK83hFyhxQy_y5Sc5 + 1IUrW1wNEGL7TV0QPMaKx3OoMBiZcSKVi + 1LmwKeDO5T3Ch-2X9rGNkAFJMEhvtdxCM",
+  "pages": "16",
+  "coverage": "[[PAGE 16]] (2 code files transcribed from IDE HTML exports + 14-page run log)",
+  "completed_at": "2026-10-20 13:28"
  }
 }

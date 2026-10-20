@@ -1054,14 +1054,14 @@
   "title": "ETH_XRP Pair Trading; Cointegration Pairs Trading Infy TCS.py; EMA Trading Strategy.py.html",
   "author": "unknown",
   "drive_path": "Phone Backup Aug 2025/WhatsApp Documents",
-  "status": "todo",
+  "status": "done",
   "priority": "L",
   "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
+  "strategies": 3,
+  "citations_ok": 15,
+  "citations_checked": 15,
+  "coverage": "[[PAGE 16]] (2 code files transcribed from IDE HTML exports + 14-page run log)",
+  "completed_at": "2026-10-20 13:28"
  },
  {
   "key": "unknown_harmonic_patterns_pdfs",
