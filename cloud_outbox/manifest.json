@@ -1078,48 +1078,6 @@
   "completed_at": "2026-10-20 13:31"
  },
  {
-  "key": "unknown_trading_hub_3",
-  "title": "Trading Hub 3.0",
-  "author": "author to confirm (Indian)",
-  "drive_path": "invest/TRADING HUB 3.O.PDF",
-  "status": "needs_ocr",
-  "priority": "M",
-  "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
- },
- {
-  "key": "unknown_smart_trading_book",
-  "title": "Smart Trading Book [English]",
-  "author": "author to confirm",
-  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/Smart Trading Book.pdf",
-  "status": "needs_ocr",
-  "priority": "M",
-  "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
- },
- {
-  "key": "unknown_universe_unknowable",
-  "title": "Understanding the Universe of the Unknown and the Unknowable",
-  "author": "author to confirm",
-  "drive_path": "invest/Copy of Understanding the Universe of the Unknown and the Unknowable.pdf",
-  "status": "needs_ocr",
-  "priority": "L",
-  "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
- },
- {
   "key": "agrawal_simplest_book_ta",
   "title": "The Simplest Book for Technical Analysis",
   "author": "Mukul Agrawal",
@@ -1190,6 +1148,34 @@
   "completed_at": "2026-10-11 13:42"
  },
  {
+  "key": "unknown_trading_hub_3",
+  "title": "Trading Hub 3.0",
+  "author": "author to confirm (Indian)",
+  "drive_path": "invest/TRADING HUB 3.O.PDF",
+  "status": "blocked_size",
+  "priority": "M",
+  "page_basis": "",
+  "strategies": 0,
+  "citations_ok": 0,
+  "citations_checked": 0,
+  "coverage": "not read: scanned PDF over connector size limit; Drive text rendering empty",
+  "completed_at": "2026-10-20 14:17"
+ },
+ {
+  "key": "unknown_smart_trading_book",
+  "title": "Smart Trading Book [English]",
+  "author": "author to confirm",
+  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/Smart Trading Book.pdf",
+  "status": "blocked_size",
+  "priority": "M",
+  "page_basis": "",
+  "strategies": 0,
+  "citations_ok": 0,
+  "citations_checked": 0,
+  "coverage": "not read: scanned PDF over connector size limit; Drive text rendering has no OCR",
+  "completed_at": "2026-10-20 14:17"
+ },
+ {
   "key": "unknown_master_mind_day_trading",
   "title": "Master Mind of Day Trading: How to Make Money in Intraday Trading",
   "author": "author to confirm",
@@ -1258,6 +1244,20 @@
   "citations_checked": 0,
   "coverage": "not read: file over connector size limit",
   "completed_at": "2026-10-20 13:21"
+ },
+ {
+  "key": "unknown_universe_unknowable",
+  "title": "Understanding the Universe of the Unknown and the Unknowable",
+  "author": "author to confirm",
+  "drive_path": "invest/Copy of Understanding the Universe of the Unknown and the Unknowable.pdf",
+  "status": "blocked_size",
+  "priority": "L",
+  "page_basis": "",
+  "strategies": 0,
+  "citations_ok": 0,
+  "citations_checked": 0,
+  "coverage": "not read: scanned PDF over connector size limit; Drive text rendering empty",
+  "completed_at": "2026-10-20 14:17"
  },
  {
   "key": "rayner_fibonacci_docx",

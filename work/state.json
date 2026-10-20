@@ -1047,5 +1047,29 @@
   "author": "neoHarmonics.com; Emmanuel Nyemera, PhD",
   "coverage": "[[PAGE 9]] (2 cheat sheets, OCR of diagrams; ratio-to-leg mapping mostly unrecoverable)",
   "completed_at": "2026-10-20 13:31"
+ },
+ "unknown_smart_trading_book": {
+  "status": "blocked_size",
+  "strategies": 0,
+  "file_id": "1QGz1f6YymRp7CzNjCwd1fkwmwglrkUex",
+  "coverage": "not read: scanned PDF over connector size limit; Drive text rendering has no OCR",
+  "notes": "Re-checked 2026-10-20 (was needs_ocr). 'Smart Trading Book.pdf' is 29.9 MB (29,854,105 bytes), about 4x the ~7 MB limit above which the connector's binary download fails, so local RapidOCR cannot run. Drive's plain-text rendering (read_file_content) returns only the CamScanner watermark ('CamScanner' plus ~80 camscanner.com download links, i.e. ~80 page images) and no OCR of the content. To process: download locally and place in work/pdfs/ (then OCR), or compress/split it in Drive into parts under ~7 MB.",
+  "completed_at": "2026-10-20 14:17"
+ },
+ "unknown_trading_hub_3": {
+  "status": "blocked_size",
+  "strategies": 0,
+  "file_id": "1a03ZOmBLjhuufzFhE0bKnI61xE-GTSLv",
+  "coverage": "not read: scanned PDF over connector size limit; Drive text rendering empty",
+  "notes": "Re-checked 2026-10-20 (was needs_ocr). 'TRADING HUB 3.O.PDF' is 85.8 MB (85,843,720 bytes), ~12x the ~7 MB connector download limit, so local OCR cannot run; Drive's plain-text rendering returns an empty string (no text layer, no Google OCR). To process: download locally to work/pdfs/ or split into <7 MB parts.",
+  "completed_at": "2026-10-20 14:17"
+ },
+ "unknown_universe_unknowable": {
+  "status": "blocked_size",
+  "strategies": 0,
+  "file_id": "1vFrN6s3pKB_lHxSH6_y1k4qH10AO26vs",
+  "coverage": "not read: scanned PDF over connector size limit; Drive text rendering empty",
+  "notes": "Re-checked 2026-10-20 (was needs_ocr). 'Copy of Understanding the Universe of the Unknown and the Unknowable.pdf' is 66.0 MB (65,965,359 bytes), ~9x the ~7 MB connector download limit, so local OCR cannot run; Drive's plain-text rendering returns an empty string. To process: download locally to work/pdfs/ or split into <7 MB parts.",
+  "completed_at": "2026-10-20 14:17"
  }
 }
