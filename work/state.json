@@ -241,8 +241,15 @@
   "completed_at": "2026-10-11 13:44"
  },
  "telegram_files_oct21": {
-  "status": "todo",
-  "notes": "Not on laptop (correction 2)."
+  "status": "done",
+  "notes": "Not on laptop (correction 2).",
+  "strategies": 22,
+  "citations_ok": 71,
+  "citations_checked": 71,
+  "file_id": "1zVWj6o4gBX_mvmXemK_FWpRT1FNoE6-n + 1zR_0Cqw1bS76vIbZAsLO1KGn8rcIVqhN + 1zF0Vsl91Xz7lsoJjTm1LRoTKJBvDaJ1m + 1zFkkRDAfli2MlEeq7dbEB6SewtlT0gU9",
+  "pages": "73",
+  "coverage": "[[PAGE 73]] (2 PDFs + 2 pptx, all 1513 lines; duplicate pptx copy not processed)",
+  "completed_at": "2026-10-20 13:21"
  },
  "prechter_basics_elliott": {
   "status": "todo",
@@ -1004,5 +1011,13 @@
   "author": "possibly Gagan Kalra (inferred)",
   "coverage": "[[PAGE 27]] (27-slide deck, all text; chart slides are images)",
   "completed_at": "2026-10-19 13:43"
+ },
+ "commodity_guide": {
+  "status": "blocked_size",
+  "strategies": 0,
+  "file_id": "1EF0nFa1jXUZ-QzTkF4d2THv2TZNUWVCM",
+  "coverage": "not read: file over connector size limit",
+  "notes": "blocked_size: 'Commodity Guide.pdf' (Stks folder) is 9.6 MB (9,646,201 bytes), above the ~7 MB size at which the Drive connector's binary download fails. Not attempted. Commodities are also outside our NSE equity data. Checked 2026-10-20.",
+  "completed_at": "2026-10-20 13:21"
  }
 }
