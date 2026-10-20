@@ -812,6 +812,20 @@
   "completed_at": "2026-10-17 03:40"
  },
  {
+  "key": "prechter_basics_elliott",
+  "title": "The Basics of the Elliott Wave Principle",
+  "author": "Robert Prechter",
+  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/The Basics Of Elliot Wave Principle - Robert R Prechter(1).pdf",
+  "status": "done",
+  "priority": "L",
+  "page_basis": "",
+  "strategies": 5,
+  "citations_ok": 45,
+  "citations_checked": 45,
+  "coverage": "[[PAGE 46]] (all 1240 lines; wave diagrams are images)",
+  "completed_at": "2026-10-20 13:25"
+ },
+ {
   "key": "mccullough_master_market",
   "title": "Master the Market",
   "author": "Keith McCullough",
@@ -1034,20 +1048,6 @@
   "citations_checked": 27,
   "coverage": "[[PAGE 27]] (27-slide deck, all text; chart slides are images)",
   "completed_at": "2026-10-19 13:43"
- },
- {
-  "key": "prechter_basics_elliott",
-  "title": "The Basics of the Elliott Wave Principle",
-  "author": "Robert Prechter",
-  "drive_path": "Phone Backup Aug 2025/WhatsApp Documents/The Basics Of Elliot Wave Principle - Robert R Prechter(1).pdf",
-  "status": "todo",
-  "priority": "L",
-  "page_basis": "",
-  "strategies": 0,
-  "citations_ok": 0,
-  "citations_checked": 0,
-  "coverage": "",
-  "completed_at": ""
  },
  {
   "key": "crypto_pairs_code",

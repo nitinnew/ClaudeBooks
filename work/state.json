@@ -252,8 +252,15 @@
   "completed_at": "2026-10-20 13:21"
  },
  "prechter_basics_elliott": {
-  "status": "todo",
-  "notes": "Not on laptop (correction 2)."
+  "status": "done",
+  "notes": "Not on laptop (correction 2).",
+  "strategies": 5,
+  "citations_ok": 45,
+  "citations_checked": 45,
+  "file_id": "1DMjcX0Lcj-vxSAzZ4Q5Z3gx_Uk0gbdok",
+  "pages": "46",
+  "coverage": "[[PAGE 46]] (all 1240 lines; wave diagrams are images)",
+  "completed_at": "2026-10-20 13:25"
  },
  "arora_art_of_technical_analysis": {
   "status": "local_downloaded",
